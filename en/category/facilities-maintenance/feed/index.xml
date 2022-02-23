@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facilities maintenance &#8211; TicTAP</title>
+	<atom:link href="/en/category/facilities-maintenance/feed/" rel="self" type="application/rss+xml" />
+	<link>/en/</link>
+	<description>IoT Marketing Platform</description>
+	<lastBuildDate>Fri, 16 Jul 2021 22:43:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>The 5 main indicators (KPI’s) for the maintenance of facilities</title>
+		<link>/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/</link>
+		
+		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 17:29:09 +0000</pubDate>
+				<category><![CDATA[Facilities maintenance]]></category>
+		<guid isPermaLink="false">/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/</guid>
+
+					<description><![CDATA[<p>As we saw in the article the facilities maintenance plan and the 7 steps to create it , to ensure that the operation plan is giving the expected results, we must analyze the main indicators of performance (KPI&#8217;s) defined. The question to ask ourselves here then is: What KPI’s should I consider in my plant &#8230;</p>
+<p class="read-more"> <a class="" href="/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/"> <span class="screen-reader-text">The 5 main indicators (KPI’s) for the maintenance of facilities</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/">The 5 main indicators (KPI’s) for the maintenance of facilities</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10988" class="elementor elementor-10988 elementor-8257" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0c807f1 elementor-widget elementor-widget-text-editor" data-id="0c807f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>As we saw in the article <a href = "/que-es-un-plan-de-mantenimiento-de-instalaciones-y-equipos-y-7-pasos-para- create it / "target =" _ blank "rel =" noopener "> the facilities maintenance plan and the 7 steps to create it </a>, to ensure that the operation plan is giving the expected results, we must analyze the main indicators of performance (KPI&#8217;s) defined. The question to ask ourselves here then is: What KPI’s should I consider in my plant and equipment maintenance plan?</p>
+<p>There really is no single answer to this question. The maintenance indicators that we must consider will always ultimately depend on the type of installation and machinery, the objectives that they must meet, etc.</p>
+<p>However, there are some very common main maintenance indicators that you may want to consider in your maintenance plan if you have not already done so:</p>
+<h2> Maintenance indicators </h2>
+<h3> KPI 1. Corrective versus preventive maintenance relationship </h3>
+<p>This KPI is about being able to see the amount of preventive maintenance work done relative to the amount of corrective work done.<br />
+We will obtain this metric as follows: number of hours in corrective tasks / number of hours in preventive tasks.</p>
+<p>Initially, the goal to achieve is 0.5. In other words, for each hours of corrective work, 2 hours of preventive work have been performed.</p>
+<p>Obtaining this maintenance indicator or KPI has a low degree of difficulty. In some cases, the only difficulty is that it is not always easy to draw a line between preventive and corrective tasks. To solve it, we can generate a good manual that helps to solve the doubts in this regard.</p>
+<h3> KPI 2. Downtime / month </h3>
+<p>With this maintenance indicator we will collect the downtime of the installation or machinery per month. It is measured in hours and the metric to calculate it is simply the sum of the hours of inactivity of the facility or equipment.</p>
+<p>The goal or recommended value would be that the value of this KPI does not exceed 10%. Anyway, it would be ideal if it could be 1% or less.</p>
+<h3> KPI 3. Preventive maintenance tasks completed by meeting the date </h3>
+<p>This KPI consists of the percentage of the number of preventive tasks completed on time. With this KPI we can control if the prevention tasks are being carried out and completed in the times we have planned.</p>
+<p>The metric to calculate it is:</p>
+<p>(Number of preventive tasks completed on time / total number of planned preventive tasks) * 100</p>
+<p>A recommended goal or value for this maintenance indicator is for the result to be greater than 85%.</p>
+<p><span style = "font-size: 20px; font-style: normal; -webkit-text-size-adjust: 100%;"> As in other types of health indicators, obtaining this KPI is quite simple because only It requires keeping an updated and detailed record of the maintenance tasks we carry out, as well as a report of the execution times. The CMMS we use should be able to allow us to easily record this information. </span></p>
+<h3> KPI 4. Response time of the maintenance department </h3>
+<h4> <strong> Why this KPI is important for your company </strong> </h4>
+<p>The maintenance indicators related to preventive maintenance may seem more critical given the importance of this type of maintenance to ensure the availability of the machinery and extend its useful life. However, if you have a maintenance team for your facilities and work teams and there is a breakdown, it will be extremely important for you to be able to determine if the response from the maintenance team is fast enough.</p>
+<p>In the event that you are a maintenance company, your speed of response in the event of a breakdown in a client&#8217;s facilities or machinery is also critical. It can be a key differential value for you compared to your competition, as well as the key to maintaining good service and high customer satisfaction.</p>
+<p>Thus, in our maintenance plan, the KPI that allows us to monitor the speed of response in corrective maintenance cannot be missing.</p>
+<h4> <strong> How to determine and measure the response speed to failure or breakdown </strong> </h4>
+<p>To design this indicator we must consider the resources available to the maintenance department or our maintenance company, and the type of incident reported. It is therefore necessary for the report to have specific details.</p>
+<p>The analysis of this KPI will allow us, that is, the value obtained, will allow us to determine if we are offering the desired response speed in order to develop fast and efficient attention processes in the event of a breakdown by the maintenance team. In this way, we will minimize waiting times and machinery downtime.</p>
+<p>To measure it, we will measure from the time the maintenance request is reported or registered until the time our team began corrective maintenance tasks to solve the fault or failure.</p>
+<p>Determining what value this indicator should have will vary greatly depending on the industry. For example, the desired value for this KPI in facilities of industries that work with chemicals or hazardous substances may be higher than in other types of industries. In any case, 5 hours can be considered as a standard value.</p>
+<p>The difficulty of obtaining this KPI is usually low. A highly recommended way to achieve this is to have automated software to record warning and solution events and to easily generate and have a history.</p>
+<h3> KPI 5. Number of incidents resolved by first level of plant </h3>
+<p>This KPI collects as a percentage the number of incidents or breakdowns that are reported and that are finally reported immediately by the same First Level Plant personnel.</p>
+<p>To measure it we will use the metric: (Number of clients reported and resolved by Pirmer staff Level of Plant / Total number of breakdowns and failures reported) * 100</p>
+<p>It is convenient that the goal to be achieved for this KPI is a percentage higher than 25%.</p>
+<p>The difficulty in achieving this value will depend on whether our CMMS allows to record this value easily or automatically. In the cases in which this value is registered with manual systems, without systematizing, it is usually more expensive to obtain it and to be reliable.</p>
+<h3> KPI 6: Budgeted costs versus actual costs </h3>
+<p>Like everything in life, one thing is what you plan and another what you really get. Thus, in the maintenance plan we will have defined the budget for maintenance and determined how this budget is distributed. With this KPI we can confirm if we are meeting this budget. This can be defined on an annual or quarterly basis.</p>
+<p>If the budget is exceeded too often, we will have to analyze the reasons in order to find the solution.</p>
+<p>To calculate this KPI we must consider the costs involved in maintenance: from the cost of personnel to the cost of material. The material cost means that we must consider both the number and the cost of the parts required for maintenance. This parameter will also allow us to identify if we are ordering large and expensive orders during repairs, which should be considered when ordering new equipment and parts for stock.</p>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b086c86 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--top tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b086c86" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fc1b807" data-id="fc1b807" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75280a4 elementor-widget elementor-widget-text-editor" data-id="75280a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3 style = "text-align: center;"> Discover how TicTAP can help you manage the maintenance of facilities and work equipment </h3>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c3c1c4 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--bottom tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c3c1c4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
+    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&amp;id=6698cd35d7&amp;VERTICAL=instalaciones"
+          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+          target="_blank">
+        <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group form-registration-inputs-container">
+                <div class="form-inputs-inner-holder">
+                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Your name">
+	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
+                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
+                </div>
+                
+            
+            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
+            <input type="hidden" value="/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/" name="URL_SOURCE" class="required" id="URL_SOURCE">
+            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                <div class="content__gdpr">
+                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
+                                                                                 name="gdpr[35246]" value="Y"
+                                                                                 class="av-checkbox gdpr"><span> I have read and accept the <a href="/privacy-policy/" target="_blank"> terms and conditions </a> and the <a href = " # "data-togglediv =" form-info-1 "class =" information-registry-link "> registry information </a> </span>
+                        </label>
+                    </fieldset>
+                    
+                    <div id="form-info-1" class="form-info">
+                        <p> You can unsubscribe at any time by clicking the link in the footer
+                            page of our emails. For information about our practices
+                            privacy, visit our website. </p>
+                        <div class = "content__gdprLegal">
+                            <p> We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. </p>
+                        </div>
+                    </div>
+                </div>
+                <input type="submit" value="Request a demo" name="subscribe" id="mc-embedded-subscribe"
+                       class="button">
+              </div>
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
+                                                                                      tabindex="-1" value=""></div>
+        </div>
+    </form>
+</div>
+<!--End mc_embed_signup-->
+
+<script>
+document.getElementById("URL_SOURCE").value=window.location.href;
+</script>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/">The 5 main indicators (KPI’s) for the maintenance of facilities</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is a facility and equipment maintenance plan, and 7 steps to create it</title>
+		<link>/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/</link>
+		
+		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2021 01:41:43 +0000</pubDate>
+				<category><![CDATA[Facilities maintenance]]></category>
+		<guid isPermaLink="false">/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/</guid>
+
+					<description><![CDATA[<p>Failures in facilities and equipment are inevitable, but can be reduced or minimized with a maintenance plan well adapted to the needs of the facilities and work teams. One of the main reasons why it is so convenient to avoid breakdowns is because of the high cost they represent for the company. An even more &#8230;</p>
+<p class="read-more"> <a class="" href="/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/"> <span class="screen-reader-text">What is a facility and equipment maintenance plan, and 7 steps to create it</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/">What is a facility and equipment maintenance plan, and 7 steps to create it</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10991" class="elementor elementor-10991 elementor-8233" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0c807f1 elementor-widget elementor-widget-text-editor" data-id="0c807f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Failures in facilities and equipment are inevitable, but can be reduced or minimized with a maintenance plan well adapted to the needs of the facilities and work teams.</p>
+<p>One of the main reasons why it is so convenient to avoid breakdowns is because of the high cost they represent for the company.</p>
+<p>An even more important factor is that breakdowns can have a critical human cost, as they can lead to very serious accidents. Obviously, we also have the economic cost. In this sense, breakdowns are expensive because:</p>
+<ul>
+<li> <strong> They can shorten the useful life of the installations or machines: </strong> It depends on the damage caused by the breakdown, the useful life of the installation or machine can be seriously affected. </li>
+<li> <strong> They involve repair costs: </strong> Repairing a breakdown is an extraordinary cost for the company because it involves an expense in materials, personnel, outsourced services, etc. In addition, emergency repairs in the event of a breakdown are much more expensive than the maintenance actions that could have prevented them. </li>
+<li> <strong> They cause losses in production: </strong> The costs should not be considered only considering the expenses that the company has to repair the fault, but also the money that the company has stopped earning due to the production stop. </li>
+</ul>
+<p>Therefore, having a preventive strategy instead of reactive to avoid as much as possible the breakdowns in the facilities and machines will be of vital importance.</p>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="1024" height="768" src="/wp-content/uploads/2021/02/tictap-good-road.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-good-road.jpg 1024w, /wp-content/uploads/2021/02/tictap-good-road-300x225.jpg 300w, /wp-content/uploads/2021/02/tictap-good-road-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a24a293 elementor-widget elementor-widget-heading" data-id="a24a293" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What is a maintenance plan?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b11bb9d elementor-widget elementor-widget-text-editor" data-id="b11bb9d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+									</div>
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-ddbfaf2 tictap-blog-highlighted elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ddbfaf2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-567460a" data-id="567460a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9cbf933 elementor-widget elementor-widget-text-editor" data-id="9cbf933" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>A maintenance plan consists of a set of actions and preventive tasks that are carried out in a facility or work teams.</p>
+<p>The purpose of the maintenance plan is to guarantee compliance with the objectives that have been set in terms of availability, reliability and cost of said facilities and equipment. In this way, the maintenance plan maximizes the useful life of the facility and assets.</p>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-90f4000" data-id="90f4000" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-bb1d29e elementor-widget elementor-widget-text-editor" data-id="bb1d29e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h2> 7 Steps to develop the maintenance plan </h2>
+<h3> Step 1: Define objectives </h3>
+<p>No action in the company, and in life in general, makes sense if we do not know where we are going and what we want to achieve. The development of the facility maintenance plan was not going to be any different.</p>
+<p>Obviously, the main objectives will be:</p>
+<ol>
+<li> Minimize the number of stops in production and their duration. </li>
+<li> Reduce maintenance costs </li>
+</ol>
+<p>But this vague definition will not be helpful. We need it to be measurable to be able to analyze annually if the maintenance plan is giving the expected results.</p>
+<p>Therefore, it will be much more appropriate to set the objectives in a concrete way. For example: Reduce downtime by 25%; Increase equipment availability by 70%; etc.</p>
+<p>When carrying out or analyzing the maintenance plan annually, we must consider what went wrong in the previous maintenance plan (if it existed) so that the objectives that were established in it are not met. It is therefore not a matter of simply deciding what we want to achieve, but also of being able to analyze and determine:</p>
+<ul>
+<li> How the team of operators can implement the new plan to achieve the objectives. </li>
+<li> What systems, teams, managers and responses have been used </li>
+<li> On what dates were the last maintenance performed </li>
+</ul>
+<h3> Step 2. Establish a budget </h3>
+<p>Determine the budget necessary to carry out preventive maintenance of the facilities and work equipment. To do this, you must consider the manufacturers&#8217; indications, the dates and periodicity of review, etc.</p>
+<h3> Step 3. Make an inventory of assets to include </h3>
+<p>This is one of the points that requires more dedication since it requires taking an inventory of all existing assets (facilities and work equipment). It is convenient that the assets divided by equipment families are mapped in the inventory.</p>
+<p>In addition, it is also highly recommended to carry out this third step directly in your CMMS to be able to record the tasks that must be carried out in each maintenance.</p>
+<h3> Step 4. Consult the manufacturers manuals </h3>
+<p>The asset manuals will provide us with the necessary information to carry out predictive maintenance. We will have to enter this information in our own CMMS. This is information such as the revision deadline, the expected useful life, types of lubricants to use, and safety measures to follow.</p>
+<h3> Step 5. Manage staff and their roles </h3>
+<p>At this point we are already clear about the objectives we want to achieve, the budget, part of the actions and tasks that must be carried out (those indicated by the manufacturers) as well as the equipment and facilities on which they must be done. The next step is to define who is going to do it.</p>
+<p>To do this, groups and specialties can be determined in which the technicians will be classified.</p>
+<p>In the CMMS you can create a record of all operators involved in maintenance, including their group, specialties and responsibilities.</p>
+<p>The same technician can have different specialties and groups. In that case, you will be able to perform different types of interventions.</p>
+<p>In addition, in the same register of technicians, we should have the costs per hour (normal hour and overtime), travel cost, etc. In this way we can have the cost of each intervention.</p>
+<p>To calculate it, we must import the working hours of each operator in the work reports, allocating the cost of labor according to the hours worked and the rate of the operator in question.</p>
+<h3> Step 6: Determine the type of maintenance and its planning </h3>
+<p>Determining which interventions need to be performed can be done in two different ways:</p>
+<ol>
+<li> Based on fixed time periods: certain time periods and the set of interventions to be carried out are determined when these periods are reached. </li>
+<li> Based on metrics and indicators: In this case, maintenance interventions are carried out when pre-established metrics are met. An example of a metric for a machine could be “hours of operation.” In this case, a system should be in place that allows the hours of operation to be counted. This system would notify the maintenance service automatically when the device meets them. </li>
+</ol>
+<p>In addition to determining the type of maintenance, we must plan it.</p>
+<p>To do this, we must consider:</p>
+<ul>
+<li> How often the jobs should be done </li>
+<li> If the stop of the machines is required </li>
+<li> If possible include periodic inspections to check that the machines are working correctly. </li>
+<li> How and when will the analysis of the resources used in the maintenance practice be carried out, as well as the duration of the work carried out. </li>
+</ul>
+<h3> Step 7. Define the maintenance plan analysis: definition of KPI’s </h3>
+<p>There is no point going forward if we don&#8217;t know where we want to go. But it does not make sense to continue moving forward if we do not know if we are on the right path.</p>
+<p>Therefore, the first step in creating the maintenance plan was to define where we are going. And for the same reason, the last step is to be able to analyze and confirm if we are going where we intended, as well as detect drifts and their reasons.</p>
+<p>Here we will need Business Intelligence (BI) tools as well as define the key performance indicators (Key Performance Indicators or KPIs).</p>
+<p>We must determine which are the indicators that best inform us about the effectiveness of the maintenance plan and the maintenance actions carried out. This will imply not only defining what data we are going to use to measure said KPIs, but also how we are going to collect that data.</p>
+<p>Regarding the type of KPI’s that we must incorporate in the facility maintenance plan, we will find three well-differentiated groups:</p>
+<h4> <strong> 1. Asset-related indicators </strong> </h4>
+<p>We refer to the indicators related to the installation or machine on which the maintenance tasks will be carried out. The objective of these indicators is to visualize the status, performance or treatment that is given to each asset.</p>
+<p>Some examples:</p>
+<ul>
+<li> <strong> Mid time before failure (MTBF): </strong> Indicates the frequency of failure on an asset (reliability rate). It is calculated as: No. of total hours of the analyzed period / No. breakdown </li>
+<li> <strong> Mid time to repair (MTTR): </strong> Indicates the average time required to correct a fault on an asset (maintainability rate). It is calculated as: No. of downtime hours due to breakdown / No. breakdown </li>
+</ul>
+<h4> <strong> 2. Indicators related to the management of work orders </strong> </h4>
+<p>A priori it may seem that work orders are impossible to manage. They happen, they arrive, they respond to each other and they close. It therefore seems that there is no planning or management possible and we have to solve them as best we can.</p>
+<p>However, with this type of KPI&#8217;s we can see that although there may be variations and deviations, there is also a part that follow a certain pattern or predictability.</p>
+<p>With this type of KPI&#8217;s we seek to have the analysis and conclusions of the values ​​obtained for these indicators, in order to carry out a more effective planning and execution of the work.</p>
+<p><strong> The key idea here is that if we know the average values ​​that are repeating, we can plan for them, and thus also respond better to deviations. </strong></p>
+<p>Some examples of KPI’s related to the management of work orders are:</p>
+<ul>
+<li> Work orders made in the last month </li>
+<li> Work orders made during the last quarter </li>
+<li> Average time to complete a work order </li>
+<li> Work orders pending expiration of the last week </li>
+<li> Number of emergency or highest priority work orders: <span style = "font-size: 20px; font-style: normal; -webkit-text-size-adjust: 100%;"> This KPI is important because if its value is low or null, I mean that the plant, installation or machine is reliable. Otherwise, the state of said asset is bad. </span> </li>
+</ul>
+<h4> <b> 3. Indicators related to industrial maintenance personnel: </b> </h4>
+<p>Our maintenance plan considers all the resources necessary to carry out the maintenance tasks of the facilities and machinery. For this reason, the human team is obviously included.</p>
+<p>We therefore need the KPIs of the maintenance plan to also include KPIs related to personnel. In this way we can also control this resource and ensure that we are managing it correctly.</p>
+<p>With this type of KPI&#8217;s we seek to know the status and availability of our technicians. There are two types of personnel indicators for this:</p>
+<ul>
+<li> <strong> Performance indicators: </strong> These are all those indicators related to the performance of each technician or operator, such as the average number of work orders closed per technician per day. </li>
+<li> <strong> Availability indicators: </strong> Those indicators related to the availability of the operators. For example, technicians without assigned work orders, technicians with overload, etc. </li>
+</ul>
+<p>In the LINK article you can find a list of the main indicators in the maintenance sector that can serve as a reference and guide for the KPIs of your maintenance plan.</p>
+<p>Remember that <strong> the maintenance plan is a living document </strong>. This means that <strong> if after the analysis of the KPIs it is detected that some actions are not giving the expected results, or that it would be convenient to add new ones, more resources, etc., the maintenance plan must be updated accordingly </strong> and its new indications must be followed from that moment on.</p>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d0cdd12 elementor-widget elementor-widget-text-editor" data-id="d0cdd12" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+									</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-884e6ce elementor-widget elementor-widget-text-editor" data-id="884e6ce" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+									</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-61e8fa6 elementor-widget elementor-widget-text-editor" data-id="61e8fa6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h2> Prepare your maintenance plan with TicTAP </h2>
+<p>Some companies carry out the maintenance plan manually. However, it is much more convenient to use Maintenance Management Software (CMMS). You can use TicTAP for this, either as a complete CMMS or by integrating it into your current software to expand its functionalities.</p>
+<p>With TicTAP you can create custom maintenance forms and include in them the KPIs that operators must collect. In this way, you will be able to create reports and analyze them on the TicTAP web platform.</p>
+<p>This way you will be able to minimize the time in data collection and have much more time to be able to analyze the information. You won&#8217;t have to waste time digitizing, sorting and classifying this information.</p>
+<p>Thanks to the analysis that you will be able to carry out of the KPIs with TicTAP, you will be able to detect what is not working as you expected and study the best solutions to avoid these deviations.</p>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b086c86 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--top tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b086c86" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fc1b807" data-id="fc1b807" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75280a4 elementor-widget elementor-widget-text-editor" data-id="75280a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3 style = "text-align: center;"> Discover how TicTAP can help you manage the maintenance of facilities and work equipment </h3>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c3c1c4 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--bottom tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c3c1c4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
+    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&amp;id=6698cd35d7&amp;VERTICAL=instalaciones"
+          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+          target="_blank">
+        <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group form-registration-inputs-container">
+                <div class="form-inputs-inner-holder">
+                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
+	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
+                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
+                </div>
+                
+            
+            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
+            <input type="hidden" value="/What-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/" name="URL_SOURCE" class="required" id="URL_SOURCE">
+            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                <div class="content__gdpr">
+                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
+                                                                                 name="gdpr[35246]" value="Y"
+                                                                                 class="av-checkbox gdpr"><span> I have read and accept the <a href="/privacy-policy/" target="_blank"> terms and conditions </a> and the <a href = " # "data-togglediv =" form-info-1 "class =" information-registry-link "> registry information </a> </span>
+                        </label>
+                    </fieldset>
+                    
+                    <div id="form-info-1" class="form-info">
+                        <p>Puede desuscribirse en cualquier momento haciendo clic en el enlace que aparece en el pie de
+                            página de nuestros correos electrónicos. Para obtener información sobre nuestras prácticas de
+                            privacidad, visite nuestro sitio web.</p>
+                        <div class="content__gdprLegal">
+                            <p>Usamos Mailchimp como nuestra plataforma de marketing. Al hacer clic a continuación para suscribirse, reconoce que su información se transferirá a Mailchimp para su procesamiento.</p>
+                        </div>
+                    </div>
+                </div>
+                <input type="submit" value="Solicitar demo" name="subscribe" id="mc-embedded-subscribe"
+                       class="button">
+              </div>
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
+                                                                                      tabindex="-1" value=""></div>
+        </div>
+    </form>
+</div>
+<!--End mc_embed_signup-->
+
+<script>
+document.getElementById("URL_SOURCE").value=window.location.href;
+</script>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/">What is a facility and equipment maintenance plan, and 7 steps to create it</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is the Internet of Things (IoT) right for my company? &#8211; IoT versus TicTAP</title>
+		<link>/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</link>
+		
+		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 12:50:23 +0000</pubDate>
+				<category><![CDATA[Facilities maintenance]]></category>
+		<guid isPermaLink="false">/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</guid>
+
+					<description><![CDATA[<p>In recent years, there is more and more talk about the Internet of Things (IoT). More and more IoT-based solutions are being adopted in sectors such as industry, railway, retail, etc. However, despite the many advantages of IoT, we must also consider its drawbacks to determine if it is the best solution for our business. &#8230;</p>
+<p class="read-more"> <a class="" href="/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/"> <span class="screen-reader-text">Is the Internet of Things (IoT) right for my company? &#8211; IoT versus TicTAP</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/">Is the Internet of Things (IoT) right for my company? &#8211; IoT versus TicTAP</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9462" class="elementor elementor-9462 elementor-8132" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0c807f1 elementor-widget elementor-widget-text-editor" data-id="0c807f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>In recent years, there is more and more talk about the Internet of Things (IoT). More and more IoT-based solutions are being adopted in sectors such as industry, railway, retail, etc. However, despite the many advantages of IoT, we must also consider its drawbacks to determine if it is the best solution for our business.</p>
+<p>TicTAP is not and is not based on IoT. Still, TicTAP has some aspects in common, while in others it overcomes some limitations of the Internet of Things.</p>
+<p>Does this mean that TicTAP is better than IoT or vice versa? Not at all. The most honest and realistic answer possible is: &#8220;it depends on your case and the needs of your business.&#8221;</p>
+<p>That is why in this article we are going to see the advantages and disadvantages or limitations of IoT and TicTAP so that you can assess which solution best suits your requirements.</p>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a24a293 elementor-widget elementor-widget-heading" data-id="a24a293" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What is the Internet of Things (IoT)?</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b0ca406 elementor-section-content-top tictap-blog-highlighted elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b0ca406" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f45c754" data-id="f45c754" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dc1cf42 elementor-widget elementor-widget-text-editor" data-id="dc1cf42" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>The IoT consists of the virtual connection between things, processes, people, animals and any real thing or object that we have in our world.</p>
+<p>That is, with IoT, any physical object in our environment is capable of automatically communicating with any other physical object without human intervention or human-machine interaction.</p>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-b11bb9d elementor-widget elementor-widget-text-editor" data-id="b11bb9d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>With Internet of Things, any object can measure and report data. This data can range from simple numbers collected by a sensor, to much more complex discoveries made by devices that measure and analyze multiple data streams at the same time.</p>
+<p>In a factory plant, the IoT can be used so that the different machines can quantify and report the operation and performance of the plant, warn about breakdowns or dangerous parameters (excess temperature, etc.).</p>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="1024" height="655" src="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-300x192.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-768x491.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-33b5ce3 elementor-widget elementor-widget-text-editor" data-id="33b5ce3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3>Advantages of Internet of Things (IoT)</h3>
+<p>The main advantages of the Internet of Things are:</p>
+<ol>
+<li><strong> Predictive and remote maintenance: </strong> IoT devices allow collecting information on their status in real time and sending it to the cloud to be monitored remotely. This information can be used to perform predictive maintenance of the equipment or facilities on which the data was sent.</li>
+<li><strong> Communication for automation and control: </strong> IoT enables communication between devices, also known as Machine-to-Machine (M2M) communication.<br />
+This direct communication between physical devices without human intervention allows the different devices to work connected to each other, in a transparent way and with less inefficiencies as well as better quality.<br />
+Furthermore, as they are connected to the network, they allow them to be controlled digitally and centrally with a wireless infrastructure.</li>
+<li><strong> Saving time and money: </strong> Direct communication between machines without human intervention is faster, and it also means that human resources are free from certain tasks since the machines are already synchronized with each other . This frees up time for people who can spend on other tasks, or the number of people needed can be reduced.</li>
+<li><strong> Better decisions: </strong> IoT allows you to collect more information, which will always help you to make decisions based on real data. Thus, decisions based on them are likely to be much more realistic and accurate than those based on a more superficial monitoring of the situation or even estimates.</li>
+<li><strong> Easier monitoring: </strong> IoT devices can create reports based on the capture of information in real time. In this way the monitoring of the activity or the status of assets, stock, etc. it is much easier and real.</li>
+<li><strong> Smart logistics: </strong> One of the biggest difficulties in logistics is getting processes to be well coordinated. IoT devices can send data immediately and in real time. For example, in a transport company, vehicles can be monitored with the help of devices connected via GPS and software. This allows remote management of operations, real-time information on variations and unforeseen events, and therefore a quick response and good coordination.</li>
+<li><strong> Increased industrial security: </strong> IoT devices allow monitoring values ​​that may be critical for plant safety, such as temperature or pressure in certain areas, machines or facilities. In this way they allow you to avoid claims.</li>
+<li><strong> Increased occupational safety: </strong> Apart from avoiding damage to facilities and their machines, IoT devices are of great help to take care of the physical integrity of your operators and workers. For example, a wearable object can collect biometric data from the user, such as the heart rate. These data allow us to know the status of the worker and determine how to improve working conditions if possible.</li>
+<li><strong> Make your company more environmentally friendly: </strong> IoT devices can allow you to obtain information on energy and resource expenditure. They can do it on a single machine or on the entire plant or factory. Information such as the consumption of electricity, water and other resources can be of great value to detect anomalies, excesses, etc. and be able to find a solution. For example, an intelligent machine can use the collected data to enter a state of lower consumption when possible, thus minimizing electricity consumption.</li>
+</ol>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-be8a09e elementor-widget elementor-widget-text-editor" data-id="be8a09e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3>Disadvantages of Internet of Things</h3>
+<p>The main advantages are:</p>
+<ol>
+<li><strong> The information is not encrypted </strong>, so it does not offer total security.<br />
+Incompatibilities: IoT is not yet standardized. This leads to compatibility problems in communication and interaction between machines and IoT devices.</li>
+<li><strong> The software is not totally secure and can be hacked. </strong></li>
+<li><strong> Expensive connection or with limitations such as movement: </strong> If we are talking about IoT devices that work in the same factory, we will not have this problem.<br />
+But if you are looking for a solution to be able to track assets, parts or products that can even cross different countries, you cannot count on them always having a connection within reach.<br />
+In addition, the device will need to be able to connect via GPS or to the mobile network with its corresponding roaming consequences. All of this makes each IoT device and necessary infrastructure significantly more expensive in situations like this.</li>
+</ol>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-548b4b8 elementor-widget elementor-widget-heading" data-id="548b4b8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What is TicTAP and what does it contribute?</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-03d9fb1 elementor-section-content-top tictap-blog-highlighted elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="03d9fb1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ef95df5" data-id="ef95df5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-87a485d elementor-widget elementor-widget-text-editor" data-id="87a485d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>The TicTAP system consists of the TicTAP platform and the TicTAP tags that are attached to the assets, machines, facilities, products or objects in general that we want to manage, control and monitor.</p>
+<p>Operators or end users will only have to bring their mobile closer to the label to access the data associated with the physical object on the platform.</p>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5f08672" data-id="5f08672" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-ad71c25 elementor-widget elementor-widget-text-editor" data-id="ad71c25" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Therefore, TicTAP&#8217;s approach is very different from IoT. While IoT seeks the interconnection between devices, TicTAP turns lifeless objects into living containers of information.</p>
+<p>This solution allows the objects themselves to be those that offer you their own user manual, history of failures or maintenance, traceability, contact between the end user and the supplier or manufacturer (that is, between your customers and your company, for example) , etc.</p>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-bb1d29e elementor-widget elementor-widget-text-editor" data-id="bb1d29e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3>Advantages of TicTAP</h3>
+<p>Thanks to the simplicity behind the idea of ​​TicTAP, our main advantages for your business are:</p>
+<ol>
+<li><strong> Avoid expensive IoT devices and special wearables, as well as connection infrastructure </strong>, since the connection of the mobile itself is used.</li>
+<li><strong> Allow to carry out corrective and predictive maintenance in a more productive, digitized and fully controlled way: </strong> it should be noted that in this case TicTAP has a very different approach from that of IoT devices.<br />
+TicTAP allows operators to carry out this type of maintenance and register them at the moment from their own mobile to have the data in a digitized and centralized way. In this way, you can have complete management and control of maintenance.<br />
+However, if you are looking to eliminate human intervention and automate maintenance or capture of certain data, you will need IoT devices with sensors, or another type of solution.</li>
+<li><strong> Have the peace of mind of having control of the management of assets, facilities or work teams: </strong> TicTAP allows you to have all the data registered by operators and users on the TicTAP platform, completely centralized and controlled by you.</li>
+<li><strong> Totally flexible and adaptable to your needs: </strong> the platform allows you to create the forms you need to collect the type of data you want. It allows creating different users and permissions, types of reports, etc. And present all of this to users and operators in a web app format so that they do not have to install anything on their mobile phone, just bring it closer to the TicTAP label of the product or asset, the web app will open to access the data or create records. &lt; / li&gt;</li>
+<li><strong> It allows complete traceability: </strong> In the case of parts or machines that must be sent to third-party companies (manufacturers, workshops, etc.), a user can be generated with permission to the company in question so that can record the data that you consider necessary for the traceability you want to have. An example of this is in the railway sector, where a part can even be sent to a company in another country for repair. Giving permission to the provider of the other country, he will only need to access with his mobile to fill in the registration when finishing the repair.</li>
+<li><strong> Get savings in time, and therefore money: </strong> in this case the savings is not because the machines communicate and coordinate with each other to carry out processes, but because it allows end users or customers to save time in their interaction with the asset, machine or product.<br />
+For example, an appliance manufacturer can attach a TicTAP tag to each of its products. When a customer wants to consult the user manual, ask the manufacturer, etc. You can do this by bringing your mobile closer to the TicTAP label of the appliance to access the data in the web app automatically.<br />
+Another very graphic example is that of maintenance workers. They can use TicTAP to record the maintenance or repair performed and have it automatically and digitally in the cloud.</li>
+<li><strong> Have an analysis tool available so that you can have the peace of mind of knowing that you are making better decisions: </strong> The data recorded through TicTAP can be used to generate reports on the platform. Analyzing these reports will help you make better decisions based on real data.</li>
+<li><strong> Make your company more environmentally friendly: </strong> Again, the approach is different at this point than that offered by IoT devices. With TicTAP your company will be greener because it will reduce the use of paper by disposing and treating all data digitally. In addition, the fact of using the user&#8217;s own mobile eliminates the need for additional wearables and their impact on the environment.</li>
+<li><b> Avoid duplication through the integration of TicTAP with your current systems: </b> It is possible to integrate TicTAP with the systems you already have in your company to avoid duplication of processes and data. it will depend on the current systems you have. If you need more information, you can contact us <a href="/contact/" target="_blank" rel="noopener"> contact us </a>.</li>
+</ol>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d0cdd12 elementor-widget elementor-widget-text-editor" data-id="d0cdd12" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3>Limitations of TicTAP</h3>
+<p>We like to be honest and that is why we believe that this information is basic so that you can make the best decision for your company.</p>
+<p><strong> The main difference between TicTAP and IoT technology is that TicTAP does not automate or eliminate human intervention. </strong> As we have commented in the previous section, TicTAP ensures that maintenance, access to user manuals of the products, registration in the traceability, update of the stock, etc. be faster, more effective and therefore cheaper. But an operator or user is required to bring their mobile closer to the label to create the data record.</p>
+<p>Another differentiating aspect is that TicTAP is not an actively generating data system. <strong> If you require a system that captures and sends certain parameters in real time, an IoT-based solution or another alternative will be more convenient. </strong></p>
+<p>Finally, <strong> TicTAP is not intended to centralize the operation of facilities or devices. </strong> If you need to be able to activate or stop, manually or according to a schedule, the devices or machines in one or more buildings, a factory , etc., TicTAP will not be the solution you are looking for either.</p>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-884e6ce elementor-widget elementor-widget-text-editor" data-id="884e6ce" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h2>What is best for me: Internet of Things or TicTAP?</h2>
+<p><span style="font-weight: 400;"> After everything discussed in this article, we can conclude that an IoT-based solution may be the most appropriate if you need complete process automation minimizing or even eliminating human intervention, obtaining continuous real-time data sent automatically. </span></p>
+<p><span style="font-weight: 400;"> On the other hand, TicTAP may be a good option for your company if you need a much more adaptable, simple and economical solution to, among other things, achieve: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> make maintenance and repairs more effective </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> to be able to achieve complete traceability of assets, parts, machines and products </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> be able to have user manuals and records of each asset, machine, installation, etc., </span> &lt; / li&gt;</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> create a channel with customers so they can communicate with you or even send them notifications </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> Have a complete record with reports on interventions on machines, installations, etc. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> Improve the performance of your workers and operators </span></li>
+</ul>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b086c86 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--top tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b086c86" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fc1b807" data-id="fc1b807" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75280a4 elementor-widget elementor-widget-text-editor" data-id="75280a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3 style="text-align: center;">Discover how TicTAP can help you manage the maintenance of facilities and work equipment</h3>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c3c1c4 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--bottom tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c3c1c4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
+    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&id=6698cd35d7&VERTICAL=instalaciones"
+          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+          target="_blank">
+        <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group form-registration-inputs-container">
+                <div class="form-inputs-inner-holder">
+                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
+	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
+                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
+                </div>
+                
+            
+            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
+            <input type="hidden" value="/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/" name="URL_SOURCE" class="required" id="URL_SOURCE">
+            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                <div class="content__gdpr">
+                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
+                                                                                 name="gdpr[35246]" value="Y"
+                                                                                 class="av-checkbox gdpr"><span>I have read and accepted the <a href="/en/legal-notice/" target="_blank">terms and conditions</a> and the <a href="/en/privacy-policy/" data-togglediv="form-info-1" class="information-registry-link">registration information</a></span>
+                        </label>
+                    </fieldset>
+                    
+                    <div id="form-info-1" class="form-info">
+                        <p>Puede desuscribirse en cualquier momento haciendo clic en el enlace que aparece en el pie de
+                            página de nuestros correos electrónicos. Para obtener información sobre nuestras prácticas de
+                            privacidad, visite nuestro sitio web.</p>
+                        <div class="content__gdprLegal">
+                            <p>Usamos Mailchimp como nuestra plataforma de marketing. Al hacer clic a continuación para suscribirse, reconoce que su información se transferirá a Mailchimp para su procesamiento.</p>
+                        </div>
+                    </div>
+                </div>
+                <input type="submit" value="Solicitar demo" name="subscribe" id="mc-embedded-subscribe"
+                       class="button">
+              </div>
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
+                                                                                      tabindex="-1" value=""></div>
+        </div>
+    </form>
+</div>
+<!--End mc_embed_signup-->		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/">Is the Internet of Things (IoT) right for my company? &#8211; IoT versus TicTAP</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is a work equipment or facilities maintenance model?</title>
+		<link>/en/what-is-a-work-equipment-or-facilities-maintenance-model/</link>
+		
+		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
+		<pubDate>Fri, 22 Jan 2021 12:42:52 +0000</pubDate>
+				<category><![CDATA[Facilities maintenance]]></category>
+		<guid isPermaLink="false">/what-is-a-work-equipment-or-facilities-maintenance-model/</guid>
+
+					<description><![CDATA[<p>There are different types of maintenance, as we discussed in the article What types of maintenance are there and can I apply to my facilities and work teams? In that same article we also anticipate that it is not usually the case that a single type of maintenance is sufficient for each installation or work &#8230;</p>
+<p class="read-more"> <a class="" href="/en/what-is-a-work-equipment-or-facilities-maintenance-model/"> <span class="screen-reader-text">What is a work equipment or facilities maintenance model?</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/en/what-is-a-work-equipment-or-facilities-maintenance-model/">What is a work equipment or facilities maintenance model?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9460" class="elementor elementor-9460 elementor-8108" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0c807f1 elementor-widget elementor-widget-text-editor" data-id="0c807f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>There are different types of maintenance, as we discussed in the article <a href = "/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones- y-work-teams / "> What types of maintenance are there and can I apply to my facilities and work teams? </a> <span style =" font-size: 20px; font-style: normal; -webkit -text-size-adjust: 100%; "> In that same article we also anticipate that it is not usually the case that a single type of maintenance is sufficient for each installation or work team, but that we will need a model of facilities maintenance . </span></p>
+					</div>
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b0ca406 elementor-section-content-top tictap-blog-highlighted elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b0ca406" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f45c754" data-id="f45c754" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dc1cf42 elementor-widget elementor-widget-text-editor" data-id="dc1cf42" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>The facility maintenance model consists of determining what combination of the different types of maintenance and in what proportions they are required according to the needs of each facility or equipment.</p>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-b11bb9d elementor-widget elementor-widget-text-editor" data-id="b11bb9d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Of all the possible activities included in the different models, there are two that are common to all of them and that we will find in any facility maintenance model. The reason is that they have been proven to be highly profitable to apply on any equipment. These two activities that you should always consider in your maintenance model, whatever it is, are:</p>
+<ol>
+<li> <strong> Visual inspections </strong>: they allow detecting a possible fault early and, therefore, its solution will probably be cheaper than if we wait for the problem to get worse. </li>
+<li> <strong> Lubrication </strong> with products appropriate to the characteristics of the equipment. Although it involves a cost because it requires the appropriate lubricant product and the labor to apply it, performing this task will always be cheaper than repairing the equipment due to a lack of lubricant. </li>
+</ol>
+<p>Maintenance models may present variations or deviations, but there are four fundamental types that you can apply in the maintenance of your facilities, as we will see in the next article.</p>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="1024" height="655" src="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-300x192.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-768x491.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b086c86 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--top tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b086c86" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fc1b807" data-id="fc1b807" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75280a4 elementor-widget elementor-widget-text-editor" data-id="75280a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3 style = "text-align: center;"> Discover how TicTAP can help you manage the maintenance of facilities and work equipment </h3>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c3c1c4 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--bottom tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c3c1c4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
+    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&id=6698cd35d7&VERTICAL=instalaciones"
+          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+          target="_blank">
+        <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group form-registration-inputs-container">
+                <div class="form-inputs-inner-holder">
+                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
+	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
+                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
+                </div>
+                
+            
+            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
+            <input type="hidden" value="/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/" name="URL_SOURCE" class="required" id="URL_SOURCE">
+            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                <div class="content__gdpr">
+                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
+                                                                                 name="gdpr[35246]" value="Y"
+                                                                                 class="av-checkbox gdpr"><span>I have read and accepted the <a href="/en/legal-notice/" target="_blank">terms and conditions</a> and the <a href="/en/privacy-policy/" data-togglediv="form-info-1" class="information-registry-link">registration information</a></span>
+                        </label>
+                    </fieldset>
+                    
+                    <div id="form-info-1" class="form-info">
+                        <p>Puede desuscribirse en cualquier momento haciendo clic en el enlace que aparece en el pie de
+                            página de nuestros correos electrónicos. Para obtener información sobre nuestras prácticas de
+                            privacidad, visite nuestro sitio web.</p>
+                        <div class="content__gdprLegal">
+                            <p>Usamos Mailchimp como nuestra plataforma de marketing. Al hacer clic a continuación para suscribirse, reconoce que su información se transferirá a Mailchimp para su procesamiento.</p>
+                        </div>
+                    </div>
+                </div>
+                <input type="submit" value="Solicitar demo" name="subscribe" id="mc-embedded-subscribe"
+                       class="button">
+              </div>
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
+                                                                                      tabindex="-1" value=""></div>
+        </div>
+    </form>
+</div>
+<!--End mc_embed_signup-->		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/en/what-is-a-work-equipment-or-facilities-maintenance-model/">What is a work equipment or facilities maintenance model?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What types of maintenance exist and can I apply to my facilities and work equipment?</title>
+		<link>/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</link>
+		
+		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 12:39:41 +0000</pubDate>
+				<category><![CDATA[Facilities maintenance]]></category>
+		<guid isPermaLink="false">/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</guid>
+
+					<description><![CDATA[<p>It may be that you have your own facilities or work teams to maintain, or that you are a facility maintenance company. In any of the cases, you need to know perfectly the types of maintenance of facilities and work equipment that exist, and be very clear which one or which ones are convenient for &#8230;</p>
+<p class="read-more"> <a class="" href="/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/"> <span class="screen-reader-text">What types of maintenance exist and can I apply to my facilities and work equipment?</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/">What types of maintenance exist and can I apply to my facilities and work equipment?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9458" class="elementor elementor-9458 elementor-7830" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0c807f1 elementor-widget elementor-widget-text-editor" data-id="0c807f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>It may be that you have your own facilities or work teams to maintain, or that you are a facility maintenance company. In any of the cases, you need to know perfectly the types of maintenance of facilities and work equipment that exist, and be very clear which one or which ones are convenient for you to carry out.</p>
+					</div>
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b0ca406 elementor-section-content-top tictap-blog-highlighted elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b0ca406" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f45c754" data-id="f45c754" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dc1cf42 elementor-widget elementor-widget-text-editor" data-id="dc1cf42" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>The maintenance of facilities and work equipment consists of carrying out all those actions and actions necessary in them to avoid failures and breakdowns. Its objective is to ensure the operation and availability of such equipment and facilities.</p>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-b11bb9d elementor-widget elementor-widget-text-editor" data-id="b11bb9d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h2> General classification of types of maintenance of facilities and work equipment </h2>
+<p>There are several types of maintenance of facilities and equipment that we can perform. However, all of them can be classified into two groups:</p>
+<ol>
+<li> <strong> Reaction maintenance: </strong> Carrying out tasks or intervention in the installation or work equipment due to an error, a breakdown or due to the wear of the components. Thus, it suddenly appears sued by the facility or equipment itself. This is usually due to system obsolescence or misuse. Corrective maintenance would enter this group. </li>
+<li> <strong> Anticipation maintenance: </strong> This group includes those maintenance with a proactive approach. They consist of carrying out tasks to:
+<ol>
+<li> Minimize the risk of breakdown or failure </li>
+<li> Guarantee the availability and proper functioning of the installation or work team </li>
+<li> Gain control over the facility or equipment </li>
+</ol>
+<p>In this group we would find, among others, preventive and predictive maintenance. </li>
+</ol>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="1024" height="794" src="/wp-content/uploads/2021/02/tictap-maintenance-action-2-min.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-2-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-2-min-300x233.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-2-min-768x596.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f5d2469 elementor-widget elementor-widget-text-editor" data-id="f5d2469" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3>Detailed classification of types of maintenance of facilities and work equipment</h3>
+<p>The types of maintenance have been classified over time as follows according to the type of tasks they include:</p>
+<ol>
+<li><strong> Preventive maintenance: </strong> This type of maintenance is based on determining the vulnerable points of the equipment and scheduling interventions at these points to carry them out at the most opportune moment. The objective of this type of maintenance is to be able to maintain a certain level of service for the equipment.</li>
+<li><strong> Predictive maintenance: </strong> It is based on being able to have the values ​​of certain variables to be able to know and permanently report on the status and operation of the facilities. These variables can be such as temperature, vibration, power consumption, etc.</li>
+<li><strong> Corrective maintenance: </strong> It consists of correcting defects or problems that occur in the equipment and that the users themselves report to the company or facility maintenance department. If only this type of maintenance is carried out, as you can imagine, what we are doing is leaving the equipment to its fate and we do not take care of it until it has a breakdown or failure.</li>
+<li><strong> Zero Hour Maintenance (Overhaul): </strong> It consists of performing a set of tasks at scheduled intervals before any failure appears or when the reliability of the equipment has decreased, so it is difficult to make forecasts of its productive capacity. In this case, the revision is based on leaving the equipment to zero maintenance hours or, in other words, as if the cinchona were new. In these same revisions, the elements subject to wear are also replaced or repaired. The objective is to ensure in advance and with great probability a good working time of the equipment.</li>
+<li><strong> Maintenance in use: </strong> It is the basic equipment&#8217;s maintenance that can be carried out by the users of the equipment. It is based on performing a series of simple tasks, such as data collection, a visual inspection, or lubrication. In any case, they are simple tasks that do not require special training.</li>
+</ol>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-579cea9 elementor-widget elementor-widget-image" data-id="579cea9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="1024" height="690" src="/wp-content/uploads/2021/02/tictap-maintenance-action-3-min.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-3-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-3-min-300x202.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-3-min-768x518.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b3eea82 elementor-widget elementor-widget-text-editor" data-id="b3eea82" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h2> What maintenance should I apply to the facilities or work teams that I manage? </h2>
+<p>When determining what type of maintenance your facilities require, the answer is that it depends on the equipment and, in addition, it will not be a single type of maintenance but, whatever the installation situation, it will probably require a combination of these types maintenance.<br />
+Therefore, when deciding which combination of these types of maintenance are ideal for each team, it is best to consider several aspects, including:</p>
+<ul>
+<li> Cost caused in production due to equipment stoppage </li>
+<li> Repair cost </li>
+<li> Environmental impact </li>
+<li> Security </li>
+<li> Quality of the product or service </li>
+</ul>
+<p>Due to the difficulty of being able to determine the maintenance to be carried out on an equipment according to the previous classification, the most practical thing to do is to think about maintenance models. A maintenance model consists of the combination of different types of maintenance in a piece of equipment so that the set is the most appropriate both in its selection and in the proportion.</p>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-14be255 elementor-widget elementor-widget-text-editor" data-id="14be255" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>&lt;h3&gt; Tool for the management and control of maintenance of facilities and work equipment &lt;/h3&gt;<br />
+When performing any of these maintenance, it will be convenient to have a system that helps the operator and users to be able to record in the simplest, most effective and productive way possible the results of the tests, the values ​​of the observed variables, etc. as well as information about the maintenance itself, that is, who performed it, when, etc.</p>
+<p>The TicTAP platform allows the operator or user with permissions to bring their mobile closer to the equipment label and fill in the appropriate form. All the forms and data collected are centrally registered on the platform and automatically available to the entire maintenance team.</p>
+<p>In addition, these operators and users with permissions, will be able to access, through the TicTAP label and from their own mobile, other useful information for the maintenance of the equipment, such as the maintenance history of each equipment or the user manual .</p>
+<p>And all this without requiring expensive infrastructures or applications, but simply with the application of TictAP labels in your facilities.</p>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b086c86 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--top tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b086c86" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fc1b807" data-id="fc1b807" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75280a4 elementor-widget elementor-widget-text-editor" data-id="75280a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h3 style = "text-align: center;"> Discover how TicTAP can help you manage the maintenance of facilities and work equipment </h3>
+					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c3c1c4 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--bottom tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c3c1c4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
+    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&amp;id=6698cd35d7&amp;VERTICAL=instalaciones"
+          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+          target="_blank">
+        <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group form-registration-inputs-container">
+                <div class="form-inputs-inner-holder">
+                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
+	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
+                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
+                </div>
+                
+            
+            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
+            <input type="hidden" value="/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/" name="URL_SOURCE" class="required" id="URL_SOURCE">
+            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                <div class="content__gdpr">
+                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
+                                                                                 name="gdpr[35246]" value="Y"
+                                                                                 class="av-checkbox gdpr"><span>I have read and accepted the <a href="/en/legal-notice/" target="_blank">terms and conditions</a> and the <a href="/en/privacy-policy/" data-togglediv="form-info-1" class="information-registry-link">registration information</a></span>
+                        </label>
+                    </fieldset>
+                    
+                    <div id="form-info-1" class="form-info">
+                        <p>Puede desuscribirse en cualquier momento haciendo clic en el enlace que aparece en el pie de
+                            página de nuestros correos electrónicos. Para obtener información sobre nuestras prácticas de
+                            privacidad, visite nuestro sitio web.</p>
+                        <div class="content__gdprLegal">
+                            <p>Usamos Mailchimp como nuestra plataforma de marketing. Al hacer clic a continuación para suscribirse, reconoce que su información se transferirá a Mailchimp para su procesamiento.</p>
+                        </div>
+                    </div>
+                </div>
+                <input type="submit" value="Solicitar demo" name="subscribe" id="mc-embedded-subscribe"
+                       class="button">
+              </div>
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
+                                                                                      tabindex="-1" value=""></div>
+        </div>
+    </form>
+</div>
+<!--End mc_embed_signup-->		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/">What types of maintenance exist and can I apply to my facilities and work equipment?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
