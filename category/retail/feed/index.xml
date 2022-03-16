@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Retail &#8211; TicTAP</title>
+	<title>Artículos sobre Retail para mejorar las ventas - TicTAP</title>
 	<atom:link href="/category/retail/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Convierte tus productos y servicios en Smart</description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Cómo convertir tus productos en objetos inteligentes para aumentar la fidelización de clientes y las ventas</title>
 		<link>/como-convertir-tus-productos-en-objetos-inteligentes-para-aumentar-la-fidelizacion-de-clientes-y-las-ventas/</link>

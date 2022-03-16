@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Industria &#8211; TicTAP</title>
+	<title>Artículos de gestión y trazabilidad de activos para industria - TicTAP</title>
 	<atom:link href="/category/industria/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Convierte tus productos y servicios en Smart</description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Hannover Messe 2021: Por qué te vale la pena asistir este año especialmente</title>
 		<link>/hannover-messe-2021-por-que-asistir/</link>
