@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Facilities maintenance &#8211; TicTAP</title>
+	<title>Facilities Maintenance Articles</title>
 	<atom:link href="/en/category/facilities-maintenance/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
 	<description>IoT Marketing Platform</description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>The 5 main indicators (KPI’s) for the maintenance of facilities</title>
 		<link>/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/</link>
