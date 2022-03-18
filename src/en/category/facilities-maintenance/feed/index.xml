@@ -228,7 +228,7 @@ document.getElementById("URL_SOURCE").value=window.location.href;
 				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="768" src="/wp-content/uploads/2021/02/tictap-good-road.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-good-road.jpg 1024w, /wp-content/uploads/2021/02/tictap-good-road-300x225.jpg 300w, /wp-content/uploads/2021/02/tictap-good-road-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="768" src="/wp-content/uploads/2021/02/tictap-good-road.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/02/tictap-good-road.jpg 1024w, /wp-content/uploads/2021/02/tictap-good-road-300x225.jpg 300w, /wp-content/uploads/2021/02/tictap-good-road-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-a24a293 elementor-widget elementor-widget-heading" data-id="a24a293" data-element_type="widget" data-widget_type="heading.default">
@@ -546,7 +546,7 @@ document.getElementById("URL_SOURCE").value=window.location.href;
 				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="655" src="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-300x192.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-768x491.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="655" src="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-300x192.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-768x491.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-33b5ce3 elementor-widget elementor-widget-text-editor" data-id="33b5ce3" data-element_type="widget" data-widget_type="text-editor.default">
@@ -837,7 +837,7 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="655" src="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-300x192.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-768x491.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="655" src="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-4-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-300x192.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-4-min-768x491.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1008,7 +1008,7 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="794" src="/wp-content/uploads/2021/02/tictap-maintenance-action-2-min.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-2-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-2-min-300x233.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-2-min-768x596.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="794" src="/wp-content/uploads/2021/02/tictap-maintenance-action-2-min.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-2-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-2-min-300x233.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-2-min-768x596.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-f5d2469 elementor-widget elementor-widget-text-editor" data-id="f5d2469" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1029,7 +1029,7 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 				<div class="elementor-element elementor-element-579cea9 elementor-widget elementor-widget-image" data-id="579cea9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="690" src="/wp-content/uploads/2021/02/tictap-maintenance-action-3-min.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-3-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-3-min-300x202.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-3-min-768x518.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="690" src="/wp-content/uploads/2021/02/tictap-maintenance-action-3-min.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/02/tictap-maintenance-action-3-min.jpg 1024w, /wp-content/uploads/2021/02/tictap-maintenance-action-3-min-300x202.jpg 300w, /wp-content/uploads/2021/02/tictap-maintenance-action-3-min-768x518.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-b3eea82 elementor-widget elementor-widget-text-editor" data-id="b3eea82" data-element_type="widget" data-widget_type="text-editor.default">

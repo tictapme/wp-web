@@ -61,7 +61,7 @@
 						<div class="elementor-element elementor-element-8e7e741 elementor-widget elementor-widget-image" data-id="8e7e741" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="683" src="/wp-content/uploads/2021/03/hannover-messe-picture-1024x683.jpeg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/03/hannover-messe-picture-1024x683.jpeg 1024w, /wp-content/uploads/2021/03/hannover-messe-picture-300x200.jpeg 300w, /wp-content/uploads/2021/03/hannover-messe-picture-768x512.jpeg 768w, /wp-content/uploads/2021/03/hannover-messe-picture.jpeg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="683" src="/wp-content/uploads/2021/03/hannover-messe-picture-1024x683.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/03/hannover-messe-picture-1024x683.jpeg 1024w, /wp-content/uploads/2021/03/hannover-messe-picture-300x200.jpeg 300w, /wp-content/uploads/2021/03/hannover-messe-picture-768x512.jpeg 768w, /wp-content/uploads/2021/03/hannover-messe-picture.jpeg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -85,7 +85,7 @@
 				<div class="elementor-element elementor-element-2a2ee03 elementor-widget elementor-widget-image" data-id="2a2ee03" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="900" height="599" src="/wp-content/uploads/2021/03/hannover-messe-2021-digital-edition.jpeg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/03/hannover-messe-2021-digital-edition.jpeg 900w, /wp-content/uploads/2021/03/hannover-messe-2021-digital-edition-300x200.jpeg 300w, /wp-content/uploads/2021/03/hannover-messe-2021-digital-edition-768x511.jpeg 768w" sizes="(max-width: 900px) 100vw, 900px" />														</div>
+												<img width="900" height="599" src="/wp-content/uploads/2021/03/hannover-messe-2021-digital-edition.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/03/hannover-messe-2021-digital-edition.jpeg 900w, /wp-content/uploads/2021/03/hannover-messe-2021-digital-edition-300x200.jpeg 300w, /wp-content/uploads/2021/03/hannover-messe-2021-digital-edition-768x511.jpeg 768w" sizes="(max-width: 900px) 100vw, 900px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-89681dd elementor-widget elementor-widget-text-editor" data-id="89681dd" data-element_type="widget" data-widget_type="text-editor.default">
