@@ -7,6 +7,10 @@
 
 		
 
+<script>
+var theplus_ajax_url = "/wp-admin/admin-ajax.php";
+		var theplus_nonce = "53629b1daa";
+</script>
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <link rel="alternate" hreflang="es" href="/gestion-de-immuebles/">
 <link rel="alternate" hreflang="en" href="/en/real-state/">
@@ -16,7 +20,7 @@
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Varela%20Round%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Varela%20Round%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Varela%20Round%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap"></noscript>
-<link rel="stylesheet" href="/wp-content/cache/min/1/0aaba83568b12236bc338756e2865332.css" media="all" data-minify="1">
+<link rel="stylesheet" href="/wp-content/cache/min/1/50f3df67e44b0ddda03669d648fd56cc.css" media="all" data-minify="1">
 	<meta name="description" content="Ofrece información, manuales, garantías y ofrece servicios de postventa como ofertas, catálogos o accesorios y abre un canal de comunicación directo con tus clientes.">
 	<link rel="canonical" href="/gestion-de-immuebles/">
 	<meta property="og:locale" content="es_ES">
@@ -75,11 +79,14 @@ img.emoji {
 
 
 
+
 <!--[if IE]>
 <script src='/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=3.1.2' id='astra-flexibility-js'></script>
 <script id='astra-flexibility-js-after'>
 flexibility(document.documentElement);</script>
 <![endif]-->
+<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js" defer></script>
+
 
 <link rel="https://api.w.org/" href="/wp-json/">
 <link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/9862">
@@ -1122,7 +1129,7 @@ fieldset.mc_fieldset.gdprRequired.mc-field-group {
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9639"><a href="/quienes-somos/" class="elementor-item menu-link">Quiénes somos</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8399"><a href="/blog/" class="elementor-item menu-link">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10144"><a href="/contacto/" class="elementor-item menu-link">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10144"><a href="/?page_id=10036" class="elementor-item menu-link">Contacto</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -1142,7 +1149,7 @@ fieldset.mc_fieldset.gdprRequired.mc-field-group {
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9639"><a href="/quienes-somos/" class="elementor-item menu-link" tabindex="-1">Quiénes somos</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8399"><a href="/blog/" class="elementor-item menu-link" tabindex="-1">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10144"><a href="/contacto/" class="elementor-item menu-link" tabindex="-1">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10144"><a href="/?page_id=10036" class="elementor-item menu-link" tabindex="-1">Contacto</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -2193,7 +2200,7 @@ en formato digital.					</p>
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
 				<ul id="menu-1-c56f20f" class="elementor-nav-menu sm-vertical">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10159"><a target="_blank" rel="noopener" href="/crear-acceso-escritorio/" class="elementor-item menu-link">Crear acceso escritorio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10161"><a href="/contacto/" class="elementor-item menu-link">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10161"><a href="/?page_id=10036" class="elementor-item menu-link">Contacto</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -2201,7 +2208,7 @@ en formato digital.					</p>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-c56f20f" class="elementor-nav-menu sm-vertical">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10159"><a target="_blank" rel="noopener" href="/crear-acceso-escritorio/" class="elementor-item menu-link" tabindex="-1">Crear acceso escritorio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10161"><a href="/contacto/" class="elementor-item menu-link" tabindex="-1">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10161"><a href="/?page_id=10036" class="elementor-item menu-link" tabindex="-1">Contacto</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -2403,16 +2410,17 @@ en formato digital.					</p>
 var astra = {"break_point":"921","isRtl":""};
 </script>
 
-<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js" defer></script>
+
+
+
 
 
 
 
 
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"19cde5dca8","urls":{"assets":"\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"9176a4bfcf","urls":{"assets":"\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
-
 
 
 
@@ -2429,9 +2437,9 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 			<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
-if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>	<script src="/wp-content/cache/min/1/1afd0f379b08134ca8bedf4b3d532982.js" data-minify="1" defer></script>
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>	<script src="/wp-content/cache/min/1/84f74c51bb97d4f0eade16ab9b5a6eeb.js" data-minify="1" defer></script>
 </body>
 
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1647404952 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
 </html>
