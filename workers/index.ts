@@ -1,5 +1,3 @@
-import {parseFormDataRequest} from "./parseFormDataRequest";
-
 const endpointUrl = 'https://enw2fvdskkb4b.x.pipedream.net/'
 addEventListener('fetch', async (event) => {
     const request: Request = event.request;
