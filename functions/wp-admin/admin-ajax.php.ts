@@ -12,13 +12,11 @@ export async function onRequestPost(context) {
         data, // arbitrary space for passing data between middlewares
     } = context;
 
-    const formData = (await parseFormDataRequest(request)) as FormData;
-
     return await fetch(
         endpointUrl,
         {
             method: "POST",
-            body: formData,
+            body: await request.formData(),
         }
     );
 }
