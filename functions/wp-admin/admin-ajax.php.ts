@@ -1,6 +1,5 @@
-import {parseFormDataRequest} from "./parseFormDataRequest";
+const endpointUrl = 'https://hook.eu1.make.com/8vyugtmmcl9k4i3696wuqej34e49gona/'
 
-const endpointUrl = 'https://enw2fvdskkb4b.x.pipedream.net/'
 export async function onRequestPost(context) {
     // Contents of context object
     const {
