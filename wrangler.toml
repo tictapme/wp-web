@@ -1,0 +1,10 @@
+name = "my-project-form"
+type = "webpack"
+webpack_config = "./webpack.config.js"
+# account_id = 'b8c285ff9e5dda6c4f30e4a6192b6459'
+account_id ='0fe0e5cc7e99c083cab831c09634b7c6'
+workers_dev = true
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+compatibility_date = "2022-03-16"
