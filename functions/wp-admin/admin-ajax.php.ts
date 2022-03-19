@@ -1,3 +1,5 @@
+import {parseFormDataRequest} from "./parseFormDataRequest";
+
 const endpointUrl = 'https://enw2fvdskkb4b.x.pipedream.net/'
 export async function onRequestPost(context) {
     // Contents of context object
@@ -10,11 +12,13 @@ export async function onRequestPost(context) {
         data, // arbitrary space for passing data between middlewares
     } = context;
 
+    const formData = (await parseFormDataRequest(request)) as FormData;
+
     return await fetch(
         endpointUrl,
         {
             method: "POST",
-            body: 'este es el body',
+            body: formData,
         }
     );
 }
