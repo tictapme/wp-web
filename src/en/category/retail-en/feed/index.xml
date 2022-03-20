@@ -12,12 +12,20 @@
 	<atom:link href="/en/category/retail-en/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
 	<description>IoT Marketing Platform</description>
-	<lastBuildDate>Sat, 19 Mar 2022 10:00:36 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Mar 2022 06:19:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-sello_445-32x32.png</url>
+	<title>Articles about Retail to improve your sales - TicTAP</title>
+	<link>/en/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
