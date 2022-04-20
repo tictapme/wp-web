@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-sello_445-32x32.png</url>
@@ -39,10 +39,10 @@
 					<description><![CDATA[<p>El motivo por el que recomendamos asistir a la Hannover Messe es bien simple: ¿qué pasa cuándo lo que buscas para tu planta de producción son soluciones a problemas como por ejemplo conseguir la identificación de activos o su trazabilidad completa y de forma fácil, guardando un histórico al que se pueda acceder y mantener de forma sencilla y rápida, e integrado con tu el software que necesitas en tu planta?</p>
 <p>The post <a rel="nofollow" href="/hannover-messe-2021-por-que-asistir/">Hannover Messe 2021: Por qué te vale la pena asistir este año especialmente</a> appeared first on <a rel="nofollow" href="/">TicTAP</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9119" class="elementor elementor-9119" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9119" class="elementor elementor-9119">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-d6e8def elementor-section-content-top tictap-w2021  tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6e8def" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-d6e8def elementor-section-content-top tictap-w2021  tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6e8def" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a2bf1e0" data-id="a2bf1e0" data-element_type="column">
@@ -108,8 +108,8 @@
 								</div>
 					</div>
 		</div>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="/hannover-messe-2021-por-que-asistir/">Hannover Messe 2021: Por qué te vale la pena asistir este año especialmente</a> appeared first on <a rel="nofollow" href="/">TicTAP</a>.</p>
 ]]></content:encoded>

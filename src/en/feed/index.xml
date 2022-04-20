@@ -12,13 +12,13 @@
 	<atom:link href="/en/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
 	<description>IoT Marketing Platform</description>
-	<lastBuildDate>Fri, 16 Jul 2021 22:43:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Apr 2022 09:36:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-sello_445-32x32.png</url>
@@ -39,10 +39,10 @@
 					<description><![CDATA[<p>The reason why we recommend attending the Hannover Messe is very simple: what happens if what you are looking for your manufacturing facilities are solutions to problems such as obtaining easily your assets' traceability, or the history of each assets and make it accessible and maintained easily and quickly, integrated with you the software you need in your facilities?</p>
 <p>The post <a rel="nofollow" href="/en/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/">Hannover Messe 2021: Why it is worth attending this year especially</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9440" class="elementor elementor-9440 elementor-9119" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9440" class="elementor elementor-9440 elementor-9119">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-d6e8def elementor-section-content-top tictap-w2021  tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6e8def" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-d6e8def elementor-section-content-top tictap-w2021  tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6e8def" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a2bf1e0" data-id="a2bf1e0" data-element_type="column">
@@ -170,8 +170,8 @@ products.</p>
 								</div>
 					</div>
 		</div>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="/en/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/">Hannover Messe 2021: Why it is worth attending this year especially</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
@@ -192,10 +192,10 @@ products.</p>
 <p class="read-more"> <a class="" href="/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/"> <span class="screen-reader-text">The 5 main indicators (KPI’s) for the maintenance of facilities</span> Read More &#187;</a></p>
 <p>The post <a rel="nofollow" href="/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/">The 5 main indicators (KPI’s) for the maintenance of facilities</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10988" class="elementor elementor-10988 elementor-8257" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10988" class="elementor elementor-10988 elementor-8257">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
@@ -276,62 +276,16 @@ We will obtain this metric as follows: number of hours in corrective tasks / num
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+						<div class="elementor-element elementor-element-effd1f9 elementor-align-center elementor-widget elementor-widget-button" data-id="effd1f9" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-			<!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
-    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&amp;id=6698cd35d7&amp;VERTICAL=instalaciones"
-          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
-          target="_blank">
-        <div id="mc_embed_signup_scroll">
-            <div class="mc-field-group form-registration-inputs-container">
-                <div class="form-inputs-inner-holder">
-                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Your name">
-	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
-                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
-                </div>
-                
-            
-            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
-            <input type="hidden" value="/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/" name="URL_SOURCE" class="required" id="URL_SOURCE">
-            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-                <div class="content__gdpr">
-                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
-                                                                                 name="gdpr[35246]" value="Y"
-                                                                                 class="av-checkbox gdpr"><span> I have read and accept the <a href="/privacy-policy/" target="_blank"> terms and conditions </a> and the <a href = " # "data-togglediv =" form-info-1 "class =" information-registry-link "> registry information </a> </span>
-                        </label>
-                    </fieldset>
-                    
-                    <div id="form-info-1" class="form-info">
-                        <p> You can unsubscribe at any time by clicking the link in the footer
-                            page of our emails. For information about our practices
-                            privacy, visit our website. </p>
-                        <div class = "content__gdprLegal">
-                            <p> We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. </p>
-                        </div>
-                    </div>
-                </div>
-                <input type="submit" value="Request a demo" name="subscribe" id="mc-embedded-subscribe"
-                       class="button">
-              </div>
-            </div>
-            <div id="mce-responses" class="clear">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
-                                                                                      tabindex="-1" value=""></div>
-        </div>
-    </form>
-</div>
-<!--End mc_embed_signup-->
-
-<script>
-document.getElementById("URL_SOURCE").value=window.location.href;
-</script>		</div>
+					<div class="elementor-button-wrapper">
+			<a href="/en/contact/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="contact_fromBLOG1">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact us</span>
+		</span>
+					</a>
+		</div>
+				</div>
 				</div>
 						</div>
 					</div>
@@ -339,8 +293,8 @@ document.getElementById("URL_SOURCE").value=window.location.href;
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/">The 5 main indicators (KPI’s) for the maintenance of facilities</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
@@ -361,10 +315,10 @@ document.getElementById("URL_SOURCE").value=window.location.href;
 <p class="read-more"> <a class="" href="/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/"> <span class="screen-reader-text">What is a facility and equipment maintenance plan, and 7 steps to create it</span> Read More &#187;</a></p>
 <p>The post <a rel="nofollow" href="/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/">What is a facility and equipment maintenance plan, and 7 steps to create it</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10991" class="elementor elementor-10991 elementor-8233" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10991" class="elementor elementor-10991 elementor-8233">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
@@ -567,62 +521,16 @@ document.getElementById("URL_SOURCE").value=window.location.href;
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+						<div class="elementor-element elementor-element-cad3afa elementor-align-center elementor-widget elementor-widget-button" data-id="cad3afa" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-			<!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
-    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&amp;id=6698cd35d7&amp;VERTICAL=instalaciones"
-          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
-          target="_blank">
-        <div id="mc_embed_signup_scroll">
-            <div class="mc-field-group form-registration-inputs-container">
-                <div class="form-inputs-inner-holder">
-                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
-	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
-                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
-                </div>
-                
-            
-            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
-            <input type="hidden" value="/What-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/" name="URL_SOURCE" class="required" id="URL_SOURCE">
-            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-                <div class="content__gdpr">
-                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
-                                                                                 name="gdpr[35246]" value="Y"
-                                                                                 class="av-checkbox gdpr"><span> I have read and accept the <a href="/privacy-policy/" target="_blank"> terms and conditions </a> and the <a href = " # "data-togglediv =" form-info-1 "class =" information-registry-link "> registry information </a> </span>
-                        </label>
-                    </fieldset>
-                    
-                    <div id="form-info-1" class="form-info">
-                        <p>Puede desuscribirse en cualquier momento haciendo clic en el enlace que aparece en el pie de
-                            página de nuestros correos electrónicos. Para obtener información sobre nuestras prácticas de
-                            privacidad, visite nuestro sitio web.</p>
-                        <div class="content__gdprLegal">
-                            <p>Usamos Mailchimp como nuestra plataforma de marketing. Al hacer clic a continuación para suscribirse, reconoce que su información se transferirá a Mailchimp para su procesamiento.</p>
-                        </div>
-                    </div>
-                </div>
-                <input type="submit" value="Solicitar demo" name="subscribe" id="mc-embedded-subscribe"
-                       class="button">
-              </div>
-            </div>
-            <div id="mce-responses" class="clear">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
-                                                                                      tabindex="-1" value=""></div>
-        </div>
-    </form>
-</div>
-<!--End mc_embed_signup-->
-
-<script>
-document.getElementById("URL_SOURCE").value=window.location.href;
-</script>		</div>
+					<div class="elementor-button-wrapper">
+			<a href="/en/contact/" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="botonContacto_Blog2">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact us</span>
+		</span>
+					</a>
+		</div>
+				</div>
 				</div>
 						</div>
 					</div>
@@ -630,8 +538,8 @@ document.getElementById("URL_SOURCE").value=window.location.href;
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/">What is a facility and equipment maintenance plan, and 7 steps to create it</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
@@ -652,10 +560,10 @@ document.getElementById("URL_SOURCE").value=window.location.href;
 <p class="read-more"> <a class="" href="/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/"> <span class="screen-reader-text">Is the Internet of Things (IoT) right for my company? &#8211; IoT versus TicTAP</span> Read More &#187;</a></p>
 <p>The post <a rel="nofollow" href="/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/">Is the Internet of Things (IoT) right for my company? &#8211; IoT versus TicTAP</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9462" class="elementor elementor-9462 elementor-8132" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9462" class="elementor elementor-9462 elementor-8132">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
@@ -866,58 +774,16 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+						<div class="elementor-element elementor-element-3cf3954 elementor-align-center elementor-widget elementor-widget-button" data-id="3cf3954" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-			<!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
-    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&id=6698cd35d7&VERTICAL=instalaciones"
-          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
-          target="_blank">
-        <div id="mc_embed_signup_scroll">
-            <div class="mc-field-group form-registration-inputs-container">
-                <div class="form-inputs-inner-holder">
-                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
-	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
-                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
-                </div>
-                
-            
-            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
-            <input type="hidden" value="/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/" name="URL_SOURCE" class="required" id="URL_SOURCE">
-            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-                <div class="content__gdpr">
-                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
-                                                                                 name="gdpr[35246]" value="Y"
-                                                                                 class="av-checkbox gdpr"><span>I have read and accepted the <a href="/en/legal-notice/" target="_blank">terms and conditions</a> and the <a href="/en/privacy-policy/" data-togglediv="form-info-1" class="information-registry-link">registration information</a></span>
-                        </label>
-                    </fieldset>
-                    
-                    <div id="form-info-1" class="form-info">
-                        <p>Puede desuscribirse en cualquier momento haciendo clic en el enlace que aparece en el pie de
-                            página de nuestros correos electrónicos. Para obtener información sobre nuestras prácticas de
-                            privacidad, visite nuestro sitio web.</p>
-                        <div class="content__gdprLegal">
-                            <p>Usamos Mailchimp como nuestra plataforma de marketing. Al hacer clic a continuación para suscribirse, reconoce que su información se transferirá a Mailchimp para su procesamiento.</p>
-                        </div>
-                    </div>
-                </div>
-                <input type="submit" value="Solicitar demo" name="subscribe" id="mc-embedded-subscribe"
-                       class="button">
-              </div>
-            </div>
-            <div id="mce-responses" class="clear">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
-                                                                                      tabindex="-1" value=""></div>
-        </div>
-    </form>
-</div>
-<!--End mc_embed_signup-->		</div>
+					<div class="elementor-button-wrapper">
+			<a href="/en/contact/" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="botonContacto_Blog3">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Haz clic aquí</span>
+		</span>
+					</a>
+		</div>
+				</div>
 				</div>
 						</div>
 					</div>
@@ -925,8 +791,8 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/">Is the Internet of Things (IoT) right for my company? &#8211; IoT versus TicTAP</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
@@ -947,10 +813,10 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 <p class="read-more"> <a class="" href="/en/what-is-a-work-equipment-or-facilities-maintenance-model/"> <span class="screen-reader-text">What is a work equipment or facilities maintenance model?</span> Read More &#187;</a></p>
 <p>The post <a rel="nofollow" href="/en/what-is-a-work-equipment-or-facilities-maintenance-model/">What is a work equipment or facilities maintenance model?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9460" class="elementor elementor-9460 elementor-8108" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9460" class="elementor elementor-9460 elementor-8108">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
@@ -1031,58 +897,16 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+						<div class="elementor-element elementor-element-e4e1b84 elementor-align-center elementor-widget elementor-widget-button" data-id="e4e1b84" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-			<!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
-    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&id=6698cd35d7&VERTICAL=instalaciones"
-          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
-          target="_blank">
-        <div id="mc_embed_signup_scroll">
-            <div class="mc-field-group form-registration-inputs-container">
-                <div class="form-inputs-inner-holder">
-                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
-	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
-                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
-                </div>
-                
-            
-            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
-            <input type="hidden" value="/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/" name="URL_SOURCE" class="required" id="URL_SOURCE">
-            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-                <div class="content__gdpr">
-                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
-                                                                                 name="gdpr[35246]" value="Y"
-                                                                                 class="av-checkbox gdpr"><span>I have read and accepted the <a href="/en/legal-notice/" target="_blank">terms and conditions</a> and the <a href="/en/privacy-policy/" data-togglediv="form-info-1" class="information-registry-link">registration information</a></span>
-                        </label>
-                    </fieldset>
-                    
-                    <div id="form-info-1" class="form-info">
-                        <p>Puede desuscribirse en cualquier momento haciendo clic en el enlace que aparece en el pie de
-                            página de nuestros correos electrónicos. Para obtener información sobre nuestras prácticas de
-                            privacidad, visite nuestro sitio web.</p>
-                        <div class="content__gdprLegal">
-                            <p>Usamos Mailchimp como nuestra plataforma de marketing. Al hacer clic a continuación para suscribirse, reconoce que su información se transferirá a Mailchimp para su procesamiento.</p>
-                        </div>
-                    </div>
-                </div>
-                <input type="submit" value="Solicitar demo" name="subscribe" id="mc-embedded-subscribe"
-                       class="button">
-              </div>
-            </div>
-            <div id="mce-responses" class="clear">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
-                                                                                      tabindex="-1" value=""></div>
-        </div>
-    </form>
-</div>
-<!--End mc_embed_signup-->		</div>
+					<div class="elementor-button-wrapper">
+			<a href="/en/contact/" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="botonContacto_Blog4">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Haz clic aquí</span>
+		</span>
+					</a>
+		</div>
+				</div>
 				</div>
 						</div>
 					</div>
@@ -1090,8 +914,8 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="/en/what-is-a-work-equipment-or-facilities-maintenance-model/">What is a work equipment or facilities maintenance model?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
@@ -1112,10 +936,10 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 <p class="read-more"> <a class="" href="/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/"> <span class="screen-reader-text">What types of maintenance exist and can I apply to my facilities and work equipment?</span> Read More &#187;</a></p>
 <p>The post <a rel="nofollow" href="/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/">What types of maintenance exist and can I apply to my facilities and work equipment?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9458" class="elementor elementor-9458 elementor-7830" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9458" class="elementor elementor-9458 elementor-7830">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
@@ -1251,58 +1075,16 @@ When performing any of these maintenance, it will be convenient to have a system
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-50a9f53" data-id="50a9f53" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-7d98419 tictap-post-form elementor-widget elementor-widget-html" data-id="7d98419" data-element_type="widget" data-widget_type="html.default">
+						<div class="elementor-element elementor-element-8a0c884 elementor-align-center elementor-widget elementor-widget-button" data-id="8a0c884" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-			<!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup" class="tictap-vertical-demo-registration">
-    <form action="https://tictap.us9.list-manage.com/subscribe/post?u=aea819b3f3c46100fa9902ecd&amp;id=6698cd35d7&amp;VERTICAL=instalaciones"
-          method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
-          target="_blank">
-        <div id="mc_embed_signup_scroll">
-            <div class="mc-field-group form-registration-inputs-container">
-                <div class="form-inputs-inner-holder">
-                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
-	            <input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Surname">
-                <input type="email" value="" name="EMAIL" placeholder="Your email"  class="required email" id="mce-EMAIL" required>
-                </div>
-                
-            
-            <input type="hidden" value="form-web" name="ONAME" class="required" id="mce-ONAME">
-            <input type="hidden" value="/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/" name="URL_SOURCE" class="required" id="URL_SOURCE">
-            <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-                <div class="content__gdpr">
-                    <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-                        <label class="checkbox subfield" for="gdpr_35246"><input type="checkbox" required id="gdpr_35246"
-                                                                                 name="gdpr[35246]" value="Y"
-                                                                                 class="av-checkbox gdpr"><span>I have read and accepted the <a href="/en/legal-notice/" target="_blank">terms and conditions</a> and the <a href="/en/privacy-policy/" data-togglediv="form-info-1" class="information-registry-link">registration information</a></span>
-                        </label>
-                    </fieldset>
-                    
-                    <div id="form-info-1" class="form-info">
-                        <p>Puede desuscribirse en cualquier momento haciendo clic en el enlace que aparece en el pie de
-                            página de nuestros correos electrónicos. Para obtener información sobre nuestras prácticas de
-                            privacidad, visite nuestro sitio web.</p>
-                        <div class="content__gdprLegal">
-                            <p>Usamos Mailchimp como nuestra plataforma de marketing. Al hacer clic a continuación para suscribirse, reconoce que su información se transferirá a Mailchimp para su procesamiento.</p>
-                        </div>
-                    </div>
-                </div>
-                <input type="submit" value="Solicitar demo" name="subscribe" id="mc-embedded-subscribe"
-                       class="button">
-              </div>
-            </div>
-            <div id="mce-responses" class="clear">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                                                                                      name="b_aea819b3f3c46100fa9902ecd_6698cd35d7"
-                                                                                      tabindex="-1" value=""></div>
-        </div>
-    </form>
-</div>
-<!--End mc_embed_signup-->		</div>
+					<div class="elementor-button-wrapper">
+			<a href="/en/contact/" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="botonContacto_Blog5">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact us</span>
+		</span>
+					</a>
+		</div>
+				</div>
 				</div>
 						</div>
 					</div>
@@ -1310,8 +1092,8 @@ When performing any of these maintenance, it will be convenient to have a system
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/">What types of maintenance exist and can I apply to my facilities and work equipment?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
