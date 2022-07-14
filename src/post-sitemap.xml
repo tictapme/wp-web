@@ -1,159 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/hannover-messe-2021-por-que-asistir/</loc>
+		<loc>https://www.tictap.me/hannover-messe-2021-por-que-asistir/</loc>
 		<lastmod>2021-03-23T12:02:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/hannover-messe-2021-tictap-will-be-there-min.jpg</image:loc>
-			<image:title><![CDATA[TicTAP estará en Hannover Messe 2021]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/03/hannover-messe-2021-tictap-will-be-there-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/</loc>
+		<loc>https://www.tictap.me/en/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/</loc>
 		<lastmod>2021-03-23T12:31:44+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/03/hannover-messe-2021-tictap-will-be-there-min.jpg</image:loc>
-			<image:title><![CDATA[TictTAP at Hannover Messe 2021]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/03/hannover-messe-2021-tictap-will-be-there-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/9-ventajas-y-3-inconvenientes-de-las-tarjetas-de-negocio-digitales/</loc>
+		<loc>https://www.tictap.me/9-ventajas-y-3-inconvenientes-de-las-tarjetas-de-negocio-digitales/</loc>
 		<lastmod>2021-04-04T10:51:15+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/tictap-vcard-example.jpg</image:loc>
-			<image:title><![CDATA[TicTAP - Tarjetas de negocio digitales]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/04/tictap-vcard-example.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/que-es-una-tarjeta-de-presentacion-online-o-tarjeta-de-negocio-digital/</loc>
+		<loc>https://www.tictap.me/que-es-una-tarjeta-de-presentacion-online-o-tarjeta-de-negocio-digital/</loc>
 		<lastmod>2021-04-04T10:53:12+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/08/vcard_skin3.png</image:loc>
-			<image:title><![CDATA[TicTAP vCard]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2020/08/vcard_skin3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/como-conseguir-una-subvencion-kit-digital-para-tu-empresa/</loc>
+		<loc>https://www.tictap.me/como-conseguir-una-subvencion-kit-digital-para-tu-empresa/</loc>
 		<lastmod>2022-03-25T11:19:05+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/jason-goodman-MUZFKa_mttU-unsplash-scaled.jpg</image:loc>
-			<image:title><![CDATA[jason-goodmanEmpresa-digitalizacion]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/jason-goodman-MUZFKa_mttU-unsplash-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/utilizar-la-tecnologia-para-fidelizar-clientes-es-posible-y-asequible/</loc>
+		<loc>https://www.tictap.me/utilizar-la-tecnologia-para-fidelizar-clientes-es-posible-y-asequible/</loc>
 		<lastmod>2022-04-06T07:37:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/tictap-clientes-fidelizacion.jpg</image:loc>
-			<image:title><![CDATA[tictap-clientes-fidelizacion]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/07/tictap-clientes-fidelizacion.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/</loc>
+		<loc>https://www.tictap.me/en/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/</loc>
 		<lastmod>2022-04-06T09:09:43+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-maintenance-2.jpg</image:loc>
-			<image:title><![CDATA[tictap-maintenance-2]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/como-convertir-tus-productos-en-objetos-inteligentes-para-aumentar-la-fidelizacion-de-clientes-y-las-ventas/</loc>
+		<loc>https://www.tictap.me/como-convertir-tus-productos-en-objetos-inteligentes-para-aumentar-la-fidelizacion-de-clientes-y-las-ventas/</loc>
 		<lastmod>2022-04-06T09:10:12+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/diego-ph-fIq0tET6llw-small.jpeg</image:loc>
-			<image:title><![CDATA[diego-ph-fIq0tET6llw-small]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/07/diego-ph-fIq0tET6llw-small.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/</loc>
+		<loc>https://www.tictap.me/en/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/</loc>
 		<lastmod>2022-04-06T09:15:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-maintenance-plan-min.jpg</image:loc>
-			<image:title><![CDATA[TicTAP - Steps to make a maintenance plan]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-plan-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</loc>
+		<loc>https://www.tictap.me/en/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</loc>
 		<lastmod>2022-04-06T09:19:20+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/5C4D65D3-BC80-4F11-AEC6-4A6246E06E45.png</image:loc>
-			<image:title><![CDATA[5C4D65D3-BC80-4F11-AEC6-4A6246E06E45]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/5C4D65D3-BC80-4F11-AEC6-4A6246E06E45.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/what-is-a-work-equipment-or-facilities-maintenance-model/</loc>
+		<loc>https://www.tictap.me/en/what-is-a-work-equipment-or-facilities-maintenance-model/</loc>
 		<lastmod>2022-04-06T09:22:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-maintenance-action-5-min.jpg</image:loc>
-			<image:title><![CDATA[TicTAP - Assets and facilities maintenance management]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-5-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/4-tipos-de-modelos-de-mantenimiento-que-puedes-aplicar-para-instalaciones-y-equipos-de-trabajo/</loc>
+		<loc>https://www.tictap.me/4-tipos-de-modelos-de-mantenimiento-que-puedes-aplicar-para-instalaciones-y-equipos-de-trabajo/</loc>
 		<lastmod>2022-04-06T09:36:29+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-good-road.jpg</image:loc>
-			<image:title><![CDATA[tictap - mantenimiento proactivo]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-good-road.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</loc>
+		<loc>https://www.tictap.me/en/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</loc>
 		<lastmod>2022-04-06T09:36:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-maintenance-action-min.jpg</image:loc>
-			<image:title><![CDATA[TicTAP - Assets and facilities maintenance]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/los-5-principales-indicadores-kpis-para-el-mantenimiento-de-instalaciones/</loc>
+		<loc>https://www.tictap.me/los-5-principales-indicadores-kpis-para-el-mantenimiento-de-instalaciones/</loc>
 		<lastmod>2022-04-06T09:39:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-maintenance-2.jpg</image:loc>
-			<image:title><![CDATA[tictap-maintenance-2]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/que-es-un-plan-de-mantenimiento-de-instalaciones-y-equipos-y-7-pasos-para-crearlo/</loc>
+		<loc>https://www.tictap.me/que-es-un-plan-de-mantenimiento-de-instalaciones-y-equipos-y-7-pasos-para-crearlo/</loc>
 		<lastmod>2022-04-06T09:41:51+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-maintenance-plan-min.jpg</image:loc>
-			<image:title><![CDATA[TicTAP - Pasos para hacer plan de mantenimiento]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-plan-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</loc>
+		<loc>https://www.tictap.me/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</loc>
 		<lastmod>2022-04-06T09:44:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/5C4D65D3-BC80-4F11-AEC6-4A6246E06E45.png</image:loc>
-			<image:title><![CDATA[5C4D65D3-BC80-4F11-AEC6-4A6246E06E45]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/5C4D65D3-BC80-4F11-AEC6-4A6246E06E45.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/que-son-los-modelos-de-mantenimiento-de-instalaciones-o-equipos-de-trabajo/</loc>
+		<loc>https://www.tictap.me/que-son-los-modelos-de-mantenimiento-de-instalaciones-o-equipos-de-trabajo/</loc>
 		<lastmod>2022-04-06T09:51:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-maintenance-action-5-min.jpg</image:loc>
-			<image:title><![CDATA[tictap-maintenance-action-5-min]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-5-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/</loc>
+		<loc>https://www.tictap.me/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/</loc>
 		<lastmod>2022-04-06T09:54:51+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/tictap-maintenance-action-min.jpg</image:loc>
-			<image:title><![CDATA[TicTAP - Acción de mantenimiento]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/how-to-turn-your-products-into-intelligent-items-to-boost-customer-loyalty-and-sales/</loc>
+		<loc>https://www.tictap.me/en/how-to-turn-your-products-into-intelligent-items-to-boost-customer-loyalty-and-sales/</loc>
 		<lastmod>2022-04-21T10:04:54+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/07/diego-ph-fIq0tET6llw-small.jpeg</image:loc>
-			<image:title><![CDATA[diego-ph-fIq0tET6llw-small]]></image:title>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/07/diego-ph-fIq0tET6llw-small.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/en/blog/</loc>
+		<loc>https://www.tictap.me/en/blog/</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
