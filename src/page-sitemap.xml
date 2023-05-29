@@ -2,23 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.tictap.me/</loc>
-		<lastmod>2022-05-30T12:36:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/politica-cookies/</loc>
-		<lastmod>2021-04-06T14:47:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/cookies-policy/</loc>
-		<lastmod>2021-04-06T15:45:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/privacy-policy/</loc>
-		<lastmod>2021-04-06T15:49:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/politica-de-privacidad/</loc>
-		<lastmod>2022-03-07T10:10:28+00:00</lastmod>
+		<lastmod>2023-05-29T10:36:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/legal-notice-3/</loc>
@@ -49,10 +33,6 @@
 		<lastmod>2022-04-19T08:52:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/plataforma-para-la-identificacion-y-trazabilidad-de-activos-industria/</loc>
-		<lastmod>2022-04-19T09:00:25+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/railway/</loc>
 		<lastmod>2022-04-19T09:04:33+00:00</lastmod>
 	</url>
@@ -63,10 +43,6 @@
 	<url>
 		<loc>https://www.tictap.me/en/railway/</loc>
 		<lastmod>2022-04-19T09:47:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/real-state/</loc>
-		<lastmod>2022-04-19T09:52:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/retail/</loc>
@@ -91,6 +67,42 @@
 	<url>
 		<loc>https://www.tictap.me/en/about/</loc>
 		<lastmod>2022-04-29T13:16:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/politica-cookies/</loc>
+		<lastmod>2022-12-19T13:48:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/politica-de-privacidad/</loc>
+		<lastmod>2022-12-19T13:58:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/aviso-legal/</loc>
+		<lastmod>2022-12-19T14:21:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/privacy-policy/</loc>
+		<lastmod>2022-12-23T13:05:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/cookies-policy/</loc>
+		<lastmod>2022-12-27T08:58:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/cumple-la-nueva-normativa-de-maquinas/</loc>
+		<lastmod>2023-05-28T05:55:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/plataforma-para-la-identificacion-y-trazabilidad-de-activos-industria/</loc>
+		<lastmod>2023-05-29T10:30:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/real-state/</loc>
+		<lastmod>2023-05-29T11:43:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/tictap-industry-nueva-normativa/</loc>
+		<lastmod>2023-05-29T20:36:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/</loc>
