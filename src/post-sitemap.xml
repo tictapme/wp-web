@@ -141,13 +141,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</loc>
-		<lastmod>2023-06-02T12:41:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/rellenando-documentos.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/industria-que-debe-incorporar-la-declaracion-ue-de-conformidad/</loc>
 		<lastmod>2023-06-03T06:09:15+00:00</lastmod>
 		<image:image>
@@ -156,7 +149,28 @@
 	</url>
 	<url>
 		<loc>https://www.tictap.me/industria-que-documentacion-tecnica-tienen-que-tener-tus-maquinas-con-la-nueva-directiva-europea/</loc>
-		<lastmod>2023-06-03T06:28:46+00:00</lastmod>
+		<lastmod>2023-06-03T07:42:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/rellenando-documentos.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/marcaje-ce/</loc>
+		<lastmod>2023-06-07T08:33:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Marcado-CE.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/manual-de-instrucciones/</loc>
+		<lastmod>2023-06-07T08:44:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/ManualdeInstrucciones.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</loc>
+		<lastmod>2023-06-07T09:08:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/rellenando-documentos.jpg</image:loc>
 		</image:image>
