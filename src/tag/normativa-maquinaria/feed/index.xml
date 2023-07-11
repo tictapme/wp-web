@@ -12,7 +12,7 @@
 	<atom:link href="/tag/normativa-maquinaria/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Convierte tus productos y servicios en Smart</description>
-	<lastBuildDate>Mon, 10 Jul 2023 12:20:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jul 2023 09:21:25 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,7 +34,6 @@
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Wed, 05 Jul 2023 08:30:00 +0000</pubDate>
 				<category><![CDATA[Casos de éxito]]></category>
-		<category><![CDATA[Trazabilidad de activos]]></category>
 		<category><![CDATA[Normativa maquinaria]]></category>
 		<guid isPermaLink="false">/?p=13758</guid>
 
@@ -50,13 +49,13 @@
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2668e0d" data-id="2668e0d" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-fc6b48c wrapper-title-casos-exito elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fc6b48c" data-element_type="section">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-ab0d58d wrapper-title-casos-exito elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab0d58d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0ed1de6" data-id="0ed1de6" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-121ae04" data-id="121ae04" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2c28ffb elementor-position-left tictap-w2021 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="2c28ffb" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-element elementor-element-9dc6604 elementor-position-left tictap-w2021 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="9dc6604" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -66,7 +65,7 @@
 						<div class="elementor-icon-box-content">
 				<h4 class="elementor-icon-box-title">
 					<span  >
-						Casos de éxito: TicTAP con Dagartech					</span>
+						Casos de éxito: Dagartech					</span>
 				</h4>
 							</div>
 		</div>

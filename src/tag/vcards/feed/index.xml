@@ -12,7 +12,7 @@
 	<atom:link href="/tag/vcards/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Convierte tus productos y servicios en Smart</description>
-	<lastBuildDate>Mon, 10 Jul 2023 12:04:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jul 2023 09:25:24 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,23 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Cómo crear tus propia tarjeta  de negocios personalizada en 5 pasos</title>
-		<link>/sin-categorizar/como-crear-tus-propia-tarjeta-de-negocios-personalizada-en-5-pasos/</link>
-		
-		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
-		<pubDate>Fri, 02 Apr 2021 22:17:58 +0000</pubDate>
-				<guid isPermaLink="false">/?p=8519</guid>
-
-					<description><![CDATA[<p>Tus tarjeras de visita se pueden personalizar. Aqui pueden ver cómo hacerlo.</p>
-<p>The post <a rel="nofollow" href="/sin-categorizar/como-crear-tus-propia-tarjeta-de-negocios-personalizada-en-5-pasos/">Cómo crear tus propia tarjeta  de negocios personalizada en 5 pasos</a> appeared first on <a rel="nofollow" href="/">TicTAP</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/sin-categorizar/como-crear-tus-propia-tarjeta-de-negocios-personalizada-en-5-pasos/">Cómo crear tus propia tarjeta  de negocios personalizada en 5 pasos</a> appeared first on <a rel="nofollow" href="/">TicTAP</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>9 ventajas y 3 inconvenientes de las tarjetas de negocio digitales</title>
 		<link>/blog/9-ventajas-y-3-inconvenientes-de-las-tarjetas-de-negocio-digitales/</link>
 		
@@ -172,7 +155,6 @@
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Sat, 06 Mar 2021 10:08:22 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[vcard TicTAP]]></category>
 		<guid isPermaLink="false">/?p=8514</guid>
 
 					<description><![CDATA[<p>Una tarjeta de negocios o tarjeta de presentación online es &#160;la tarjeta de negocios de siempre digitalizada. En otras palabras, en vez de tener una tarjeta de negocios en papel, dispones de una tarjeta en formato digital a la cual se accede a través de un código QR o un enlace.&#160; Tradicionalmente, en las reuniones &#8230;</p>
