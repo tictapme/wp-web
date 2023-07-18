@@ -12,7 +12,7 @@
 	<atom:link href="/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Convierte tus productos y servicios en Smart</description>
-	<lastBuildDate>Tue, 11 Jul 2023 09:31:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jul 2023 11:22:35 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,8 @@
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Tue, 04 Jul 2023 08:30:00 +0000</pubDate>
-				<category><![CDATA[Normativa Europea]]></category>
+				<category><![CDATA[Industria]]></category>
+		<category><![CDATA[Normativa Europea]]></category>
 		<guid isPermaLink="false">/?p=13464</guid>
 
 					<description><![CDATA[<p>La documentación técnica proporciona información sobre el&#160;diseño, la&#160;fabricación&#160;y el&#160;funcionamiento&#160;de un producto, y debe incluir todos los datos necesarios para demostrar que el producto se ajusta a los requisitos aplicables. Los fabricantes de maquinaria deben realizar un análisis de riesgos de sus máquinas y asegurarse de que cumplen normas específicas antes de introducirlas en el mercado &#8230;</p>
@@ -121,7 +122,8 @@
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Tue, 06 Jun 2023 10:11:24 +0000</pubDate>
-				<category><![CDATA[Normativa Europea]]></category>
+				<category><![CDATA[Industria]]></category>
+		<category><![CDATA[Normativa Europea]]></category>
 		<guid isPermaLink="false">/?p=13517</guid>
 
 					<description><![CDATA[<p>El Manual de instrucciones describe claramente el modelo de producto, informa al usuario del uso previsto y adecuado, y da información sobre las precauciones. Hay mucho más y aqui lo explicamos</p>
@@ -187,8 +189,7 @@
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Tue, 06 Jun 2023 08:14:16 +0000</pubDate>
-				<category><![CDATA[Industria]]></category>
-		<guid isPermaLink="false">/?p=13511</guid>
+				<guid isPermaLink="false">/?p=13511</guid>
 
 					<description><![CDATA[<p>La marca CE, o marca de Conformidad Europea abre las puertas para la comercialización de un producto en la UE. ¿Cómo conseguirlo? ¿qué ventajas tiene? Aquí lo contamos.</p>
 <p>The post <a rel="nofollow" href="/blog/marcaje-ce/">Marca de Conformidad Europea (Marcaje CE)</a> appeared first on <a rel="nofollow" href="/">TicTAP</a>.</p>
@@ -1199,9 +1200,7 @@
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Thu, 18 Mar 2021 16:02:49 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Industria]]></category>
-		<guid isPermaLink="false">/?p=9119</guid>
+				<guid isPermaLink="false">/?p=9119</guid>
 
 					<description><![CDATA[<p>El motivo por el que recomendamos asistir a la Hannover Messe es bien simple: ¿qué pasa cuándo lo que buscas para tu planta de producción son soluciones a problemas como por ejemplo conseguir la identificación de activos o su trazabilidad completa y de forma fácil, guardando un histórico al que se pueda acceder y mantener de forma sencilla y rápida, e integrado con tu el software que necesitas en tu planta?</p>
 <p>The post <a rel="nofollow" href="/blog/hannover-messe-2021-por-que-asistir/">Hannover Messe 2021: Por qué te vale la pena asistir este año especialmente</a> appeared first on <a rel="nofollow" href="/">TicTAP</a>.</p>
@@ -1290,7 +1289,8 @@
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Fri, 12 Mar 2021 10:08:47 +0000</pubDate>
-				<category><![CDATA[vcards]]></category>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[vcards]]></category>
 		<guid isPermaLink="false">/?p=9772</guid>
 
 					<description><![CDATA[<p>vcards son la última tendencia en tarjetas de presentación ¿quieres conocer sus ventajas e inconvenientes?</p>
