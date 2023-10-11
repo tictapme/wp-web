@@ -11,7 +11,7 @@
 	<title>Industry Archives - TicTAP</title>
 	<atom:link href="/en/tag/industry/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
-	<description>Convierte tus productos y servicios en Smart</description>
+	<description>Mantenimiento y trazabilidad de activos.</description>
 	<lastBuildDate>Wed, 12 Jul 2023 08:38:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -33,8 +33,8 @@
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Thu, 21 Apr 2022 10:04:52 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[asset traceability]]></category>
+				<category><![CDATA[asset traceability]]></category>
+		<category><![CDATA[Industry]]></category>
 		<category><![CDATA[NFC Tags]]></category>
 		<guid isPermaLink="false">/how-to-turn-your-products-into-intelligent-items-to-boost-customer-loyalty-and-sales/</guid>
 
@@ -281,7 +281,8 @@ Every time we receive in the mail more offers, newsletters with promotions, etc.
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Fri, 12 Feb 2021 17:29:09 +0000</pubDate>
-				<guid isPermaLink="false">/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/</guid>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/</guid>
 
 					<description><![CDATA[<p>As we saw in the article the facilities maintenance plan and the 7 steps to create it , to ensure that the operation plan is giving the expected results, we must analyze the main indicators of performance (KPI&#8217;s) defined. The question to ask ourselves here then is: What KPI’s should I consider in my plant &#8230;</p>
 <p class="read-more"> <a class="" href="/en/blog/the-5-main-indicators-kpis-for-the-maintenance-of-facilities/"> <span class="screen-reader-text">The 5 main indicators (KPI’s) for the maintenance of facilities</span> Read More &#187;</a></p>
@@ -403,8 +404,7 @@ We will obtain this metric as follows: number of hours in corrective tasks / num
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Fri, 05 Feb 2021 01:41:43 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[maintenance]]></category>
+				<category><![CDATA[maintenance]]></category>
 		<guid isPermaLink="false">/what-is-a-facility-and-equipment-maintenance-plan-and-7-steps-to-create-it/</guid>
 
 					<description><![CDATA[<p>Failures in facilities and equipment are inevitable, but can be reduced or minimized with a maintenance plan well adapted to the needs of the facilities and work teams. One of the main reasons why it is so convenient to avoid breakdowns is because of the high cost they represent for the company. An even more &#8230;</p>
@@ -649,7 +649,8 @@ We will obtain this metric as follows: number of hours in corrective tasks / num
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Fri, 29 Jan 2021 12:50:23 +0000</pubDate>
-				<category><![CDATA[asset traceability]]></category>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[asset traceability]]></category>
 		<guid isPermaLink="false">/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</guid>
 
 					<description><![CDATA[<p>In recent years, there is more and more talk about the Internet of Things (IoT). More and more IoT-based solutions are being adopted in sectors such as industry, railway, retail, etc. However, despite the many advantages of IoT, we must also consider its drawbacks to determine if it is the best solution for our business. &#8230;</p>
@@ -903,7 +904,6 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Fri, 15 Jan 2021 12:39:41 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Industry]]></category>
 		<category><![CDATA[maintenance]]></category>
 		<guid isPermaLink="false">/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</guid>
 

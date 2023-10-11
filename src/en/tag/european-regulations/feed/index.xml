@@ -11,7 +11,7 @@
 	<title>European Regulations Archives - TicTAP</title>
 	<atom:link href="/en/tag/european-regulations/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
-	<description>Convierte tus productos y servicios en Smart</description>
+	<description>Mantenimiento y trazabilidad de activos.</description>
 	<lastBuildDate>Wed, 12 Jul 2023 08:37:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<pubDate>Fri, 02 Jun 2023 12:41:44 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<category><![CDATA[European Regulations]]></category>
-		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Industria]]></category>
 		<guid isPermaLink="false">/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</guid>
 
 					<description><![CDATA[<p>The technical documentation provides information on the design, the manufacture and the functioning of a product, and must include all the data necessary to demonstrate that the product meets the applicable requirements. Machinery manufacturers should carry out a risk analysis of their machines and ensure that they meet specific standards before introducing them to the &#8230;</p>
@@ -151,7 +151,7 @@ However, the manufacturer must ensure that distributors can provide, at the requ
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Fri, 02 Jun 2023 12:10:14 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Industria]]></category>
 		<guid isPermaLink="false">/what-should-be-included-in-the-eu-declaration-of-conformity/</guid>
 
 					<description><![CDATA[<p>The declaration of conformity is a document necessary to obtain the CE marking and to be able to market the product in the European Union. Here we explain all the details</p>

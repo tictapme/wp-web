@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.tictap.me/blog/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/</loc>
-		<lastmod>2023-07-10T12:13:28+00:00</lastmod>
+		<loc>https://www.tictap.me/blog/hannover-messe-2021-por-que-asistir/</loc>
+		<lastmod>2023-06-30T11:37:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-min.jpg</image:loc>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/03/hannover-messe-2021-tictap-will-be-there-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/que-son-los-modelos-de-mantenimiento-de-instalaciones-o-equipos-de-trabajo/</loc>
-		<lastmod>2023-07-10T12:10:48+00:00</lastmod>
+		<loc>https://www.tictap.me/blog/como-conseguir-una-subvencion-kit-digital-para-tu-empresa/</loc>
+		<lastmod>2023-06-30T11:39:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-5-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/blog/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</loc>
-		<lastmod>2023-07-10T12:10:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/5C4D65D3-BC80-4F11-AEC6-4A6246E06E45.png</image:loc>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/jason-goodman-MUZFKa_mttU-unsplash-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -29,10 +22,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/que-es-un-plan-de-mantenimiento-de-instalaciones-y-equipos-y-7-pasos-para-crearlo/</loc>
-		<lastmod>2023-07-10T12:09:17+00:00</lastmod>
+		<loc>https://www.tictap.me/blog/9-ventajas-y-3-inconvenientes-de-las-tarjetas-de-negocio-digitales/</loc>
+		<lastmod>2023-07-10T12:04:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-plan-min.jpg</image:loc>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/04/tictap-vcard-example.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -43,6 +36,34 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.tictap.me/blog/que-es-un-plan-de-mantenimiento-de-instalaciones-y-equipos-y-7-pasos-para-crearlo/</loc>
+		<lastmod>2023-07-10T12:09:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-plan-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/blog/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</loc>
+		<lastmod>2023-07-10T12:10:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/5C4D65D3-BC80-4F11-AEC6-4A6246E06E45.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/blog/que-son-los-modelos-de-mantenimiento-de-instalaciones-o-equipos-de-trabajo/</loc>
+		<lastmod>2023-07-10T12:10:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-5-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/blog/que-tipos-de-mantenimiento-existen-y-puedo-aplicar-a-mis-instalaciones-y-equipos-de-trabajo/</loc>
+		<lastmod>2023-07-10T12:13:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.tictap.me/blog/que-es-una-tarjeta-de-presentacion-online-o-tarjeta-de-negocio-digital/</loc>
 		<lastmod>2023-07-11T09:25:24+00:00</lastmod>
 		<image:image>
@@ -50,45 +71,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/hannover-messe-2021-por-que-asistir/</loc>
-		<lastmod>2023-06-30T11:37:17+00:00</lastmod>
+		<loc>https://www.tictap.me/blog/como-convertir-tus-productos-en-objetos-inteligentes-para-aumentar-la-fidelizacion-de-clientes-y-las-ventas/</loc>
+		<lastmod>2023-07-11T09:30:33+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/03/hannover-messe-2021-tictap-will-be-there-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/blog/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/</loc>
-		<lastmod>2023-07-11T12:53:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/03/hannover-messe-2021-tictap-will-be-there-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/blog/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</loc>
-		<lastmod>2023-07-12T08:36:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/blog/what-is-a-work-equipment-or-facilities-maintenance-model/</loc>
-		<lastmod>2023-07-11T12:54:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-5-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/blog/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</loc>
-		<lastmod>2023-07-11T12:54:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/5C4D65D3-BC80-4F11-AEC6-4A6246E06E45.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/blog/9-ventajas-y-3-inconvenientes-de-las-tarjetas-de-negocio-digitales/</loc>
-		<lastmod>2023-07-10T12:04:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/04/tictap-vcard-example.jpg</image:loc>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/07/diego-ph-fIq0tET6llw-small.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -99,10 +85,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/como-convertir-tus-productos-en-objetos-inteligentes-para-aumentar-la-fidelizacion-de-clientes-y-las-ventas/</loc>
-		<lastmod>2023-07-11T09:30:33+00:00</lastmod>
+		<loc>https://www.tictap.me/en/blog/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/</loc>
+		<lastmod>2023-07-11T12:53:34+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/07/diego-ph-fIq0tET6llw-small.jpeg</image:loc>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/03/hannover-messe-2021-tictap-will-be-there-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -120,10 +106,38 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/como-conseguir-una-subvencion-kit-digital-para-tu-empresa/</loc>
-		<lastmod>2023-06-30T11:39:14+00:00</lastmod>
+		<loc>https://www.tictap.me/en/blog/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</loc>
+		<lastmod>2023-07-11T12:54:05+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/jason-goodman-MUZFKa_mttU-unsplash-scaled.jpg</image:loc>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/5C4D65D3-BC80-4F11-AEC6-4A6246E06E45.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/blog/what-is-a-work-equipment-or-facilities-maintenance-model/</loc>
+		<lastmod>2023-07-11T12:54:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-5-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/blog/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</loc>
+		<lastmod>2023-07-12T08:36:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2021/02/tictap-maintenance-action-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/blog/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</loc>
+		<lastmod>2023-07-12T08:37:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/rellenando-documentos.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/blog/what-should-be-included-in-the-eu-declaration-of-conformity/</loc>
+		<lastmod>2023-07-12T08:37:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Documentation.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -141,24 +155,17 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.tictap.me/blog/manual-de-instrucciones/</loc>
+		<lastmod>2023-07-12T11:22:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/ManualdeInstrucciones.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.tictap.me/blog/industria-que-debe-incorporar-la-declaracion-ue-de-conformidad/</loc>
 		<lastmod>2023-07-12T11:22:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Documentation.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/blog/what-should-be-included-in-the-eu-declaration-of-conformity/</loc>
-		<lastmod>2023-07-12T08:37:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Documentation.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/blog/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</loc>
-		<lastmod>2023-07-12T08:37:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/rellenando-documentos.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -169,52 +176,87 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/manual-de-instrucciones/</loc>
-		<lastmod>2023-07-12T11:22:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/ManualdeInstrucciones.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-y-gestion-eficiente-de-tag-carretillas-elevadoras/</loc>
-		<lastmod>2023-07-12T10:37:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/TAG.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/casos-de-exito/control-y-mantenimiento-de-instalaciones-de-proteccion-contra-incendios-para-el-grupo-damm/</loc>
-		<lastmod>2023-07-12T11:03:26+00:00</lastmod>
+		<lastmod>2023-08-03T09:12:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAMM.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/casos-de-exito/unificacion-y-aumento-de-eficiencia-en-mantenimiento-para-delgado-instalaciones/</loc>
-		<lastmod>2023-07-12T11:06:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DELGADO.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-de-grupos-electrogenos-para-dagartech/</loc>
-		<lastmod>2023-07-12T11:05:07+00:00</lastmod>
+		<lastmod>2023-08-03T09:12:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAGARTECH.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.tictap.me/casos-de-exito/unificacion-y-aumento-de-eficiencia-en-mantenimiento-para-delgado-instalaciones/</loc>
+		<lastmod>2023-08-03T09:12:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DELGADO.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-y-gestion-eficiente-de-tag-carretillas-elevadoras/</loc>
+		<lastmod>2023-08-03T09:13:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/TAG.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-del-material-rodante-de-trenes-tramvias-y-coches-para-alstom/</loc>
+		<lastmod>2023-08-03T09:14:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Imatge_petita-ALSTOM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-de-amortiguadores-de-ferrocarril-koni-y-optimizacion-del-reporte-de-incidentes/</loc>
-		<lastmod>2023-07-12T11:09:32+00:00</lastmod>
+		<lastmod>2023-08-03T09:14:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/05/Imatge_petita-KONI.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-del-material-rodante-de-trenes-tramvias-y-coches-para-alstom/</loc>
-		<lastmod>2023-07-12T11:08:13+00:00</lastmod>
+		<loc>https://www.tictap.me/en/casos-de-exito/damm-group/</loc>
+		<lastmod>2023-08-16T08:15:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAMM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/casos-de-exito/dagartech/</loc>
+		<lastmod>2023-08-16T08:15:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAGARTECH.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/casos-de-exito/delgado-instal%c2%b7lacions/</loc>
+		<lastmod>2023-08-16T08:15:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DELGADO.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/casos-de-exito/alstom-eng/</loc>
+		<lastmod>2023-08-16T08:17:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Imatge_petita-ALSTOM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/casos-de-exito/tag-carretillas-eng/</loc>
+		<lastmod>2023-08-16T08:17:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/TAG.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/blog/koni-eng/</loc>
+		<lastmod>2023-08-16T08:26:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/05/Imatge_petita-KONI.png</image:loc>
 		</image:image>
 	</url>
 	<url>
