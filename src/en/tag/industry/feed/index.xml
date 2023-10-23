@@ -34,7 +34,6 @@
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Thu, 21 Apr 2022 10:04:52 +0000</pubDate>
 				<category><![CDATA[asset traceability]]></category>
-		<category><![CDATA[Industry]]></category>
 		<category><![CDATA[NFC Tags]]></category>
 		<guid isPermaLink="false">/how-to-turn-your-products-into-intelligent-items-to-boost-customer-loyalty-and-sales/</guid>
 
@@ -649,8 +648,7 @@ We will obtain this metric as follows: number of hours in corrective tasks / num
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Fri, 29 Jan 2021 12:50:23 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[asset traceability]]></category>
+				<category><![CDATA[asset traceability]]></category>
 		<guid isPermaLink="false">/me-conviene-internet-of-things-iot-para-mi-empresa-iot-versus-tictap/</guid>
 
 					<description><![CDATA[<p>In recent years, there is more and more talk about the Internet of Things (IoT). More and more IoT-based solutions are being adopted in sectors such as industry, railway, retail, etc. However, despite the many advantages of IoT, we must also consider its drawbacks to determine if it is the best solution for our business. &#8230;</p>
@@ -904,6 +902,7 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Fri, 15 Jan 2021 12:39:41 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Industry]]></category>
 		<category><![CDATA[maintenance]]></category>
 		<guid isPermaLink="false">/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</guid>
 

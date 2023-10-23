@@ -12,7 +12,7 @@
 	<atom:link href="/en/undefined-en/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
 	<description>Mantenimiento y trazabilidad de activos.</description>
-	<lastBuildDate>Wed, 16 Aug 2023 08:15:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Oct 2023 08:34:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,7 +34,7 @@
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2023 11:08:00 +0000</pubDate>
 				<category><![CDATA[Success Stories]]></category>
-		<category><![CDATA[Industria]]></category>
+		<category><![CDATA[Industry]]></category>
 		<guid isPermaLink="false">/blog/damm-group/</guid>
 
 					<description><![CDATA[<p>Control and maintenance of fire protection installations</p>
@@ -200,8 +200,8 @@
 		<pubDate>Mon, 24 Jul 2023 09:47:00 +0000</pubDate>
 				<category><![CDATA[Success Stories]]></category>
 		<category><![CDATA[undefined]]></category>
-		<category><![CDATA[Industria]]></category>
-		<category><![CDATA[Mantenimiento de instalaciones]]></category>
+		<category><![CDATA[Industry]]></category>
+		<category><![CDATA[Facility maintenance]]></category>
 		<guid isPermaLink="false">/blog/delgado-instal%c2%b7lacions/</guid>
 
 					<description><![CDATA[<p>Integration and improved efficiency in facility maintenance.</p>

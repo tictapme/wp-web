@@ -12,7 +12,7 @@
 	<atom:link href="/en/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
 	<description>Mantenimiento y trazabilidad de activos.</description>
-	<lastBuildDate>Wed, 16 Aug 2023 08:26:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Oct 2023 09:05:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,17 +28,130 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>European Conformity Mark (CE Mark)</title>
+		<link>/en/blog/european-conformity-mark-ce-mark/</link>
+		
+		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2023 09:05:28 +0000</pubDate>
+				<category><![CDATA[European Regulations]]></category>
+		<category><![CDATA[Industry]]></category>
+		<guid isPermaLink="false">/blog/european-conformity-mark-ce-mark/</guid>
+
+					<description><![CDATA[<p>The CE mark, or European Conformity mark, opens the door to the marketing of a product in the EU. How can this be achieved? What are the advantages? Here we tell it.</p>
+<p>The post <a rel="nofollow" href="/en/blog/european-conformity-mark-ce-mark/">European Conformity Mark (CE Mark)</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The CE mark, or European Conformity mark, was established by the European Community and represents a declaration by manufacturers, importers and distributors that a given product meets a number of technical and legal requirements laid down by the European product directives.</p>
+
+<p>Manufacturers play a crucial role in ensuring that products placed in the enlarged European Economic Area (EEA) single market comply with public safety requirements. </p>
+
+<p>When a manufacturer wants his product to be placed on the market in the ESA, he must carry out the conformity assessment, establish the technical dossier, issue the EU declaration of conformity and thus be able to affix the CE mark on his product. </p>
+
+<p>The CE marking is the manufacturer’s declaration that his machine or product complies with the safety, health and environmental protection requirements established by Member States of the European Union, and therefore can move freely within the European Union. </p>
+
+<h2>How can I get the CE marking?</h2>
+
+<p>As a manufacturer, you must follow these 6 steps to place the CE mark on your product:</p>
+
+<ol><li>Identify the directive(s) (s) and applicable harmonised standards.</li><li>Verify specific product requirements.</li><li>Determine whether an independent conformity assessment (carried out by a notified body) is necessary.</li><li>Test the product and verify its conformity.</li><li>Prepare and keep available the required technical documentation.</li><li>Place the CE mark and prepare the EU Declaration of Conformity.</li></ol>
+
+<p>These 6 steps may vary depending on the product, as the conformity assessment procedure varies. Manufacturers must not affix the CE mark on products which do not fall within the scope of one of the directives allowing their affixing.</p>
+
+<p>For example, for products with higher safety risks, such as gas boilers, safety cannot be verified by the manufacturer alone. In such cases, the safety verification should be carried out by an independent organisation, specifically a notified body designated by the national authorities. </p>
+
+<p>The manufacturer may only affix the CE mark on the product once it has been completed.</p>
+
+<h2>What are the benefits of CE marking?</h2>
+
+<p>It not only means complying with EU law, but also has a number of advantages. Here are some of them:</p>
+
+<ol><li>Access to the European market: The CE marking allows products to move freely within EU Member States without additional technical restrictions or trade barriers.</li><li>Compliance with legal requirements: Obtaining the CE marking means that the manufacturer has complied with EU legal and regulatory requirements regarding the safety, health and environmental protection of its products.</li><li>Quality and safety standards: The CE marking ensures that products comply with the quality and safety standards set by the EU. This helps protect consumers and reduce the risks associated with the use of potentially dangerous or low quality products.</li><li>Competitive advantage in the market: Products bearing the CE mark are usually more attractive to buyers and can be considered more reliable and safe compared to those without the certificate.</li><li>Facilitation of international trade: CE marking is recognised and accepted in many countries outside the EU as a symbol of conformity with European standards. This simplifies the export process and facilitates international trade for European manufacturers.</li><li>Documentary simplification: Obtaining the CE marking means complying with the technical documentation and conformity requirements established by the EU. This helps manufacturers by providing a clear, standardized structure for the preparation of necessary documentation, which simplifies the process and saves time.</li></ol>
+
+<figure class="wp-block-image size-large is-resized"><img src="/wp-content/uploads/2023/06/marcado-1024x528.png" alt="CE Marking vs China Ecport, how to differentiate your logos" class="wp-image-13513" width="768" height="396" srcset="/wp-content/uploads/2023/06/marcado-1024x528.png 1024w, /wp-content/uploads/2023/06/marcado-300x155.png 300w, /wp-content/uploads/2023/06/marcado-768x396.png 768w, /wp-content/uploads/2023/06/marcado.png 1144w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+<h2>Are all products with the initials CE compliant?</h2>
+
+<p>The China Export symbol indicates that it uses the same initials as the ESA CE marking, but in its case is not a guarantee of quality, but only indicates that the product was manufactured in China.</p>
+
+<p>No registration, test or audit is required for the Chinese export symbol. The symbol can be used arbitrarily by Chinese manufacturers. These products do not have any risk assessment, safety assessment or quality testing.</p>
+
+<p>It is therefore necessary to know how to differentiate them.</p>
+<p>The post <a rel="nofollow" href="/en/blog/european-conformity-mark-ce-mark/">European Conformity Mark (CE Mark)</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What should the Instruction Manual include?</title>
+		<link>/en/blog/what-should-the-instruction-manual-include/</link>
+		
+		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2023 08:49:52 +0000</pubDate>
+				<category><![CDATA[European Regulations]]></category>
+		<guid isPermaLink="false">/blog/what-should-the-instruction-manual-include/</guid>
+
+					<description><![CDATA[<p>The Instruction Manual clearly describes the product model, informs the user of intended and appropriate use, and gives information on precautions. There is much more and here we explain</p>
+<p>The post <a rel="nofollow" href="/en/blog/what-should-the-instruction-manual-include/">What should the Instruction Manual include?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The instruction manual is the information provided by the manufacturer for the machine user. This is part of the technical dossier and is also a basic element of the supply of any machine.</p>
+
+<h2>What is it for?</h2>
+
+<p>On the one hand they clearly describe the product model to which they correspond. And then inform the user of the intended and appropriate use of the machine, as well as information on precautions to be taken when using or installing the machine, including information on safety aspects, and how to maintain the safety of the machine or related product, and to ensure that it remains fit for purpose throughout its life.</p>
+
+<h2>How should they be given?</h2>
+
+<p>Instructions can be provided on paper, or in<strong> digital format</strong>. Instructions for use (as well as safety information and assembly manual) <strong>shall be written in a language which users can easily understand</strong>, as determined by the Member State concerned, and shall be clear, understandable and legible.</p>
+
+<p>When presented in digital format, the user may request the paper copy at the time of purchase, and the manufacturer shall provide the paper instructions for use free of charge within one month.</p>
+
+<p>When offered in digital format, the manufacturer shall:</p>
+
+<ul><li>mark on the machine, on its packaging or on an accompanying document, how to access the digital instructions</li></ul>
+
+<ul><li>present them in a format that allows the user to print and download the instructions for use and save them on an electronic device so that they can access them at all times. </li></ul>
+
+<ul><li>make them accessible online for the expected life of the machine or related product and for at least ten years after the marketing of the machine or related product.</li></ul>
+
+<p>In the case of machinery intended for non-professional users or which may be used by non-professional users, even if not intended for them, the manufacturer shall provide: on paper, safety information essential for the putting into service of the machine or related product and for its safe use.</p>
+
+<h2>How should it be written?</h2>
+
+<p>The content of the instructions for use should not only cover the intended use of the machinery or the related product, but shall also take into account any case-related use which may lead to a reasonably foreseeable misuse of the machine or related product.</p>
+
+<p>The drafting and design of instructions for the use of machinery which may be used by non-professional operators shall take into account the level of general education and insight which can reasonably be expected of such operators.</p>
+
+<h3>What should be included? </h3>
+
+<p>Content of the instructions for use is extensive and should at least the following information:</p>
+
+<ul><li>the trade name and full address of the manufacturer and, where applicable, his authorised representative;</li><li>the description of the machinery or related product as contained in the machinery or the related product itself, with the exception of the serial number</li><li>the EU declaration of conformity or code to the digital document</li><li>a general description of the machine or related product</li><li>drawings, diagrams, descriptions and explanations necessary for the use, maintenance and repair of the machinery or related product and for checking its proper functioning;</li><li>a description of the working position(s) which may be occupied by operators;</li><li>a description of the intended use of the machinery or related product;</li><li>warnings as to how machinery which experience has shown may not be used</li><li>assembly, installation and connection instructions, including drawings, diagrams and means of attachment, and the designation of the chassis or installation on which the machine or related product is to be mounted;</li><li>installation and assembly instructions to reduce noise or vibration;</li><li>instructions for putting into service and use of the machinery or related product and, if necessary, instructions for operator training</li><li>information on residual risks that persist despite intrinsically safe design measures, safeguard measures and additional protective measures taken;</li><li>instructions on protective measures, including personal protective equipment to be provided;</li><li>the characteristics of the tools that can be installed on the machine or on the related product;</li><li>the conditions under which the machine fulfils the requirement of stability during use, transport, assembly, disassembly when out of service, tests or foreseeable breakdowns</li><li>instructions to ensure that transport, handling and storage operations can be carried out safely. These shall include the mass of the machinery and its various parts, where they are to be transported separately;</li><li>method of operation in the event of an accident or breakdown; if a lock is likely to occur, what to do for the safe unlocking of the equipment; </li><li>description of the adjustment and maintenance operations to be performed by the user and the preventive maintenance measures to be observed taking into account the design and use of the machine</li><li>instructions to enable adjustment and maintenance to be carried out safely, including protective measures to be applied.</li><li>the specifications of the spare parts to be used where they affect the health and safety of operators</li><li>Information on air noise emissions. More details can be found at <a href="https://eur-lex.europa.eu/legal-content/EN/TTX/HTML/? uri=CELEX:32006L0042">Directive 2006/42/EC of the European Parliament and of the Council. </a></li></ul>
+
+<p><strong> Instructions benefit both the user and the manufacturer</strong>. For users, this document provides a clear and detailed guide on how to properly use a product. The manual helps them understand the functions, features and possible limitations of the product, allowing them to make the most of it and avoid costly mistakes. On the other hand, for manufacturers, it represents an effective way to communicate with users and ensure that they use the product according to established specifications and guidelines. This helps minimize the risk of misuse or damage to the product, while increasing customer satisfaction and brand confidence. </p>
+
+<p>The manual can serve as a marketing tool, highlighting the competitive advantages of the product and demonstrating its value to consumers. </p>
+
+<p>In short, the instruction manual benefits both users and manufacturers by providing clear guidance, improving user experience and fostering strong consumer-brand relationships.</p>
+<p>The post <a rel="nofollow" href="/en/blog/what-should-the-instruction-manual-include/">What should the Instruction Manual include?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Damm Group</title>
-		<link>/en/sucess-stories/damm-group/</link>
+		<link>/en/undefined-en/damm-group/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2023 11:08:00 +0000</pubDate>
-				<category><![CDATA[Success Stories]]></category>
-		<category><![CDATA[undefined]]></category>
+				<category><![CDATA[undefined]]></category>
+		<category><![CDATA[Industry]]></category>
 		<guid isPermaLink="false">/blog/damm-group/</guid>
 
 					<description><![CDATA[<p>Control and maintenance of fire protection installations</p>
-<p>The post <a rel="nofollow" href="/en/sucess-stories/damm-group/">Damm Group</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/undefined-en/damm-group/">Damm Group</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14649" class="elementor elementor-14649 elementor-13659">
 						<div class="elementor-inner">
@@ -186,7 +299,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/sucess-stories/damm-group/">Damm Group</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/undefined-en/damm-group/">Damm Group</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -194,15 +307,16 @@
 			</item>
 		<item>
 		<title>Dagartech</title>
-		<link>/en/blog/dagartech/</link>
+		<link>/en/sucess-stories/dagartech/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2023 11:58:00 +0000</pubDate>
-				<category><![CDATA[Normativa maquinaria]]></category>
+				<category><![CDATA[Success Stories]]></category>
+		<category><![CDATA[Machinery regulations]]></category>
 		<guid isPermaLink="false">/blog/dagartech/</guid>
 
 					<description><![CDATA[<p>Traceability of generator sets with nesting of assets</p>
-<p>The post <a rel="nofollow" href="/en/blog/dagartech/">Dagartech</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/sucess-stories/dagartech/">Dagartech</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14655" class="elementor elementor-14655 elementor-13758">
 						<div class="elementor-inner">
@@ -343,7 +457,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/blog/dagartech/">Dagartech</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/sucess-stories/dagartech/">Dagartech</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -356,8 +470,7 @@
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Mon, 24 Jul 2023 09:47:00 +0000</pubDate>
 				<category><![CDATA[undefined]]></category>
-		<category><![CDATA[Industria]]></category>
-		<category><![CDATA[Mantenimiento de instalaciones]]></category>
+		<category><![CDATA[Facility maintenance]]></category>
 		<guid isPermaLink="false">/blog/delgado-instal%c2%b7lacions/</guid>
 
 					<description><![CDATA[<p>Integration and improved efficiency in facility maintenance.</p>
@@ -521,7 +634,7 @@
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Sun, 23 Jul 2023 10:16:00 +0000</pubDate>
-				<category><![CDATA[Trazabilidad de Activos]]></category>
+				<category><![CDATA[Asset Traceability]]></category>
 		<guid isPermaLink="false">/blog/tag-carretillas-eng/</guid>
 
 					<description><![CDATA[<p>Traceability and efficient management of forklift rental</p>
@@ -674,15 +787,16 @@
 			</item>
 		<item>
 		<title>Alstom</title>
-		<link>/en/blog/alstom-eng/</link>
+		<link>/en/sucess-stories/alstom-eng/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 10:24:00 +0000</pubDate>
-				<category><![CDATA[Railway]]></category>
+				<category><![CDATA[Success Stories]]></category>
+		<category><![CDATA[Railway]]></category>
 		<guid isPermaLink="false">/blog/alstom-eng/</guid>
 
 					<description><![CDATA[<p>Traceability of rolling stock for trains, trams and cars</p>
-<p>The post <a rel="nofollow" href="/en/blog/alstom-eng/">Alstom</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/sucess-stories/alstom-eng/">Alstom</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14677" class="elementor elementor-14677 elementor-13780">
 						<div class="elementor-inner">
@@ -823,7 +937,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/blog/alstom-eng/">Alstom</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/sucess-stories/alstom-eng/">Alstom</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -831,17 +945,16 @@
 			</item>
 		<item>
 		<title>Koni</title>
-		<link>/en/sucess-stories/koni-eng/</link>
+		<link>/en/blog/koni-eng/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Thu, 20 Jul 2023 10:30:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Success Stories]]></category>
-		<category><![CDATA[Trazabilidad de Activos]]></category>
+		<category><![CDATA[Asset Traceability]]></category>
 		<guid isPermaLink="false">/blog/koni-eng/</guid>
 
 					<description><![CDATA[<p>Traceability of railway dampers and optimization of incident reporting</p>
-<p>The post <a rel="nofollow" href="/en/sucess-stories/koni-eng/">Koni</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/blog/koni-eng/">Koni</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14682" class="elementor elementor-14682 elementor-13772">
 						<div class="elementor-inner">
@@ -982,7 +1095,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/sucess-stories/koni-eng/">Koni</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/blog/koni-eng/">Koni</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -994,9 +1107,7 @@
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Fri, 02 Jun 2023 12:41:44 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[European Regulations]]></category>
-		<category><![CDATA[Industria]]></category>
+				<category><![CDATA[European Regulations]]></category>
 		<guid isPermaLink="false">/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</guid>
 
 					<description><![CDATA[<p>The technical documentation provides information on the design, the manufacture and the functioning of a product, and must include all the data necessary to demonstrate that the product meets the applicable requirements. Machinery manufacturers should carry out a risk analysis of their machines and ensure that they meet specific standards before introducing them to the &#8230;</p>
@@ -1111,7 +1222,8 @@ However, the manufacturer must ensure that distributors can provide, at the requ
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Fri, 02 Jun 2023 12:10:14 +0000</pubDate>
-				<category><![CDATA[European Regulations]]></category>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[European Regulations]]></category>
 		<guid isPermaLink="false">/what-should-be-included-in-the-eu-declaration-of-conformity/</guid>
 
 					<description><![CDATA[<p>The declaration of conformity is a document necessary to obtain the CE marking and to be able to market the product in the European Union. Here we explain all the details</p>
@@ -1163,407 +1275,6 @@ However, the manufacturer must ensure that distributors can provide, at the requ
 <p>For imported products, the importer must ensure that the product is accompanied by the declaration of conformity and must keep a copy of it for 10 years from the date of placing on the market.</p>
 <p>The EU declaration of conformity must be translated into the language or languages required by the EU country in which the product is sold.</p></p>
 <p>The post <a rel="nofollow" href="/en/blog/what-should-be-included-in-the-eu-declaration-of-conformity/">What should be included in the EU Declaration of Conformity?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to turn your products into intelligent items to boost customer loyalty and sales.</title>
-		<link>/en/blog/how-to-turn-your-products-into-intelligent-items-to-boost-customer-loyalty-and-sales/</link>
-		
-		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
-		<pubDate>Thu, 21 Apr 2022 10:04:52 +0000</pubDate>
-				<category><![CDATA[asset traceability]]></category>
-		<category><![CDATA[Industry]]></category>
-		<category><![CDATA[NFC Tags]]></category>
-		<guid isPermaLink="false">/how-to-turn-your-products-into-intelligent-items-to-boost-customer-loyalty-and-sales/</guid>
-
-					<description><![CDATA[<p>You can turn any product or facility you manage into smart objects to differentiate yourself from competitors, optimize your work and increase sales.</p>
-<p>The post <a rel="nofollow" href="/en/blog/how-to-turn-your-products-into-intelligent-items-to-boost-customer-loyalty-and-sales/">How to turn your products into intelligent items to boost customer loyalty and sales.</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="12860" class="elementor elementor-12860 elementor-10887">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<div class="elementor-section elementor-top-section elementor-element elementor-element-4190d4c elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4190d4c" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c16f306" data-id="c16f306" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-0c807f1 elementor-widget elementor-widget-text-editor" data-id="0c807f1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Nowadays there are smart refrigerators. These are the wonderful refrigerator models that offer a wide range of functions to make life easier for the user. Even some of these smart objects come with a voice assistant included. Just talk to the fridge to find out the expiration date of a product or make the purchase online.</p>
-<p>The really wonderful thing about it would be to be able to transfer this intelligence to any object, don’t you think? That is, that any object could give the user the information he needs, warn him of certain events, etc.</p>
-<p>You may think that it is not feasible for any object to offer these possibilities. It may seem unpayable to you to make the conversion from an inert object to an intelligent object. Or you might think it’s not worth it if the object or machine is not high-end and of a certain minimum price.</p>
-<p>However, there is nothing further from reality.  <span style="font-size: 20px; font-style: normal;"><b>With TicTAP you can convert any </p>
-					</div>
-						</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5ffcee0 elementor-section-content-top tictap-blog-highlighted elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ffcee0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e0c0c88" data-id="e0c0c88" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-81ec8e1 elementor-widget elementor-widget-text-editor" data-id="81ec8e1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>If you apply it to the products you sell or to the facilities you manage (boiler rooms, conditioned appliances, elevators, etc.), <strong>this conversion can be the key to differentiate yourself from the competition and optimize your work</strong>. </p>
-<p>In other words: <strong>improve your sales and performance</strong>. </p>
-					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-802384b elementor-widget elementor-widget-text-editor" data-id="802384b" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>The reason for this statement is that the conversion of your products or installations into intelligent objects will allow you to:</p>
-<ul>
-<li><strong>Optimize work systems</strong> in your company</li>
-<li><<strong>Differentiate yourself</strong> from the competition</li>
-<li>Even<strong> create a one-channela-one with your customers</strong> for<strong> loyalty and increase your sales</strong></li>
-</ul>
-<p>In this article we explain:</p>
-<ol>
-<li> How to do it.  </li>
-<li>Some of the main features you could add to your products or installations, and the benefits they would have for your business. </li>
-</ol>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-e90d66d elementor-widget elementor-widget-image" data-id="e90d66d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="1024" height="682" src="/wp-content/uploads/2021/07/tictap-estrategia-diferenciarse-optimizar-min.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/07/tictap-estrategia-diferenciarse-optimizar-min.jpeg 1025w, /wp-content/uploads/2021/07/tictap-estrategia-diferenciarse-optimizar-min-300x200.jpeg 300w, /wp-content/uploads/2021/07/tictap-estrategia-diferenciarse-optimizar-min-768x512.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-11d0336 elementor-widget elementor-widget-text-editor" data-id="11d0336" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h2>From inert objects to intelligent objects</h2>
-<p>To convert the objects you want into intelligent elements, <strong>the first step is to have a TicTAP account and order TicTAP-NFC</strong> tags. It is also possible to create QR codes from the TicTAP platform. So you can print them yourself, without having to request the NFC tags.</p>
-<p>Now, <strong>if you want to offer the convenience of contactless from the mobile to your users/customers</strong> when they interact with the smart object through their own mobile, you will need the<strong> TicTAP NFC</strong> tags. </p>
-<p>As we said before, all this <strong>at a much more affordable price than any other </strong>alternative you can think of (Internet of Things, apps developed by your IT team to measure, etc). </p>
-<p><strong>From the TicTAP platform you can create as many webapps as you want</strong>. The system is based on templates, forms, etc. You can create them yourself by dragging and dropping ( drag &#038; drop) the elements you want on each page/form of the webapp. <strong>You do not need to have an IT</strong> machine. </p>
-<p>If instead of selling specific products, <strong>manages the maintenance of products or systems</strong> (maintenance of fire extinguishers, elevators, machine rooms, etc.), the system is the same. You only need to attach TicTAP NFC tags to each of these items to manage</strong>. </p>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-fee750d elementor-widget elementor-widget-image" data-id="fee750d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="1024" height="576" src="/wp-content/uploads/2021/07/tictap-simple-min.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/07/tictap-simple-min.jpg 1024w, /wp-content/uploads/2021/07/tictap-simple-min-300x169.jpg 300w, /wp-content/uploads/2021/07/tictap-simple-min-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-86e1758 elementor-widget elementor-widget-text-editor" data-id="86e1758" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h2>Benefits of offering smart objects</h2>
-<p>The list of benefits of turning products into smart objects is long. Below we highlight the main benefits that will help you improve sales and customer loyalty.  </p>
-<h3>The object itself provides the information to the user</h3>
-<p>How many times does a user want to interact with a machine and get desperate looking for the instruction manual, if at all? </p>
-<p>Simple situations such as knowing what consumable material would be recommended by the manufacturer or seller (you); or that the power goes out and when the user returns he needs to reconfigure the product; or that in a factory he wants to know how a particular machine should be maintained. </p>
-<p>For the user it is ideal as you only require a mobile phone placed close to the TicTAP NFC tag that is on the same machine (or asset) and access the webapp with a password. There you can have made available both the user manual, as well as parts that are compatible for repairs, assemblies, etc. You can even provide them with the link to order new consumables or spare parts. </p>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-4056e45 elementor-widget elementor-widget-image" data-id="4056e45" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="1024" height="756" src="/wp-content/uploads/2021/07/tictap-client-satisfaction-min.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/07/tictap-client-satisfaction-min.jpg 1024w, /wp-content/uploads/2021/07/tictap-client-satisfaction-min-300x221.jpg 300w, /wp-content/uploads/2021/07/tictap-client-satisfaction-min-768x567.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-02b2e94 elementor-widget elementor-widget-text-editor" data-id="02b2e94" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Maximize the impact of your marketing actions by sending your promotions only to customers who will be interested<br />
-Every time we receive in the mail more offers, newsletters with promotions, etc. The volume of this type of emails is so high that users are getting a finer filter, so we only open those messages that really interest us. The rest are often marked as Spam.</p>
-<p>That’s why it’s so important that the message title resonates with the recipient. But as good as you write and very creative as you are with the titles, if what you offer is not interested, no one will buy you anything. Your messages will be perceived as noise and users will unsubscribe. </p>
-<p>Fortunately, there is now a way to know which customers who have purchased a product from us may be interested in a specific promotion.  So we can send it only to them.  There is also a way to send the message to the mobile as notification instead of as mail, where you compete with so much newsletter.  This way is TicTAP.</p>
-<p>Imagine a company that sells laser printers to companies. Each printer is added a TicTAP label. Thanks to it, customers make their toner orders by bringing their mobile to the printer. This month the selling company wants to promote the purchase of toners, but only those of certain models. From the TicTAP management platform you can send a mobile notification to users with the promotion. It does indicate that it is only received by customers of printer models for which the promotion makes sense.</p>
-<p>In this way, users receive notifications that can really interest them. They will never receive the announcement of a promotion related to a model they do not have. So in the mid term they will perceive your ads as valuable, as they will be truly personalized and relevant to them</p>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-6d23ac2 elementor-widget elementor-widget-image" data-id="6d23ac2" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="1024" height="682" src="/wp-content/uploads/2021/07/tictap-optimitize-optimiza-tu-sistema.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/07/tictap-optimitize-optimiza-tu-sistema.jpeg 1025w, /wp-content/uploads/2021/07/tictap-optimitize-optimiza-tu-sistema-300x200.jpeg 300w, /wp-content/uploads/2021/07/tictap-optimitize-optimiza-tu-sistema-768x512.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-1aa8812 elementor-widget elementor-widget-text-editor" data-id="1aa8812" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h3>Offers direct contact to customers to gain their trust</h3>
-<p>When a machine, appliance, object, etc. breaks, a tare is present or you need some kind of spare part/consumable material, and you have to look for contact information about the manufacturer or seller, it is very frustrating how much it costs to find it. </p>
-<p>This is also the typical time when there is no way to find out how to contact the manufacturer or the seller. When you finally find a phone or a contact email on the web, when you call or write they forward you to another. </p>
-<p>In these cases the client wants an easy and direct channel to express his discontent. What he wants is to be able to say: &#8220;hey! I am here, with this product that I have bought you depositing my trust in you, and now it does not work or I have doubts about an aspect and I do not find who to ask&#8221;. In addition, in this situation the customer wants to feel heard as quickly and easily as possible. </p>
-<p>Again, you can make it easier for your customers to contact you using TicTAP. Through its management platform, you can create a screen with contact information and even with a contact form. </p>
-<p>In the event that the client has a problem, just zoom in on the mobile and the webapp you created will open. In it, you can access that screen and contact you easily through the channel you have determined (phone, e-mail, etc). </p>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-6bb67e2 elementor-widget elementor-widget-image" data-id="6bb67e2" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="1024" height="684" src="/wp-content/uploads/2021/07/tictap-client-trust-min.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/07/tictap-client-trust-min.jpg 1024w, /wp-content/uploads/2021/07/tictap-client-trust-min-300x200.jpg 300w, /wp-content/uploads/2021/07/tictap-client-trust-min-768x513.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-5237246 elementor-widget elementor-widget-text-editor" data-id="5237246" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h3>Record the revisions in the smart object itself to optimize your work system</h3>
-<p>Whether you produce or sell machines that require periodic reviews, or if you perform and manage the maintenance of facilities, safety products, elevators, etc., this functionality will have a high impact on the optimization of work in your company, your profitability, and how the customer perceives your products. </p>
-<p>If you sell products that require periodic review (e.g. cars, kitchen machines such as high-end coffee makers, fire extinguishers, etc.), TicTAP NFC tags along with the TicTAP platform will allow you to record revisions. </p>
-<p>You only need to create the webapp and create the revision form. The platform allows you to create the pages and forms of the webapp in a visual and intuitive way by dragging and dropping the fields you want in the form to be created. </p>
-<p>This way you don’t need to hire an IT team to do it, and you don’t need to rely on it for any future changes you want to make to the pages and forms you create. </p>
-<p>Each time a technician makes a review of the appliance or installation, he or she may bring his or her mobile phone closer to the label of the smart object or installation, and enter the information in the form fields that you have configured (revision results, date, etc.). </p>
-<p>In this way, if the customer or the technician of the next revision needs to see any data from the previous revision/repair such as the date on which it was made, the maintenance performed, etc., just bring the mobile closer. </p>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-57df8c4 elementor-widget elementor-widget-image" data-id="57df8c4" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="1024" height="682" src="/wp-content/uploads/2021/07/tictap-optimitize-your-working-system-min.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/07/tictap-optimitize-your-working-system-min.jpeg 1024w, /wp-content/uploads/2021/07/tictap-optimitize-your-working-system-min-300x200.jpeg 300w, /wp-content/uploads/2021/07/tictap-optimitize-your-working-system-min-768x512.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-8df4d4b elementor-widget elementor-widget-text-editor" data-id="8df4d4b" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h3>Record and report repairs from your mobile phone to improve the quality of your service and customer satisfaction</h3>
-<p>In case the machine or installation with TciTAP NFC label breaks down or has a problem in any of its components, the technician can write down the reason for the breakdown and the applied solution.  </p>
-<p>In this way, if it breaks down again after a while, it can be checked if the reason is the same, the solution applied last time, etc.</p>
-<p><strong>The customer will perceive a sense of control and good management of the breakdown by leaving it registered</strong>. He himself will be able to access this information, manuals etc. of the machine if you want it from his same mobile also approaching the label NFC.</p>
-<p>For your company, <b>perform repairs and revisions in this way, will involve an optimization in this type of actions</b>. The records obtained and the actions performed by the technicians and recorded in the form, will be automatically available to the rest of the team. </p>
-<p>This allows the data to be manageable, can be automatically reported, control certain aspects to make better decisions in the way you work, etc.</p>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-c81c917 elementor-widget elementor-widget-image" data-id="c81c917" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="1024" height="469" src="/wp-content/uploads/2021/07/tictap-maximize-client-satisfaction-work-system-min.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/07/tictap-maximize-client-satisfaction-work-system-min.jpeg 1024w, /wp-content/uploads/2021/07/tictap-maximize-client-satisfaction-work-system-min-300x137.jpeg 300w, /wp-content/uploads/2021/07/tictap-maximize-client-satisfaction-work-system-min-768x352.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-2dfe699 elementor-widget elementor-widget-text-editor" data-id="2dfe699" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h2>Offer intelligent objects to differentiate and optimize your work and thus increase sales and customer satisfaction</h2>
-<p>As we have seen in this article, <strong>you can convert any machine or parts</strong> that you sell, or <strong>installations</strong> that you control and manage, <strong>in intelligent objects</strong>. </p>
-<p>In other words, <strong>elements that contain and provide their own information</strong>. You only need to do this: the <strong>TicTAP platform and the TicTAP NFC</strong> tags.  </p>
-<p><span style="font-weight: 400;">Its benefits are many. Today we have highlighted that with TicTAP you can:</span></p>
-<ul>
-<li>strong>Register reviews</strong></li>
-<li>
-<li><strong>Register repairs</strong>
-<li>strong>Send direct notifications only to customers who will be interested in</strong> the specific notification</li>
-<li><strong>Offer a direct contact</strong> to customers</li>
-</ul>
-<p>If you want to know more about converting the products you sell, or the facilities you manage, on smart objects and get the benefits presented in this article, <a href="/contact/" target="_blank" rel="noopener">contact us here</a>. </p>
-					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</div>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b086c86 tictap-w2021 tictap-banner-demo-blog tictap-banner-demo-blog--top tictap-text-white elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b086c86" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fc1b807" data-id="fc1b807" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-75280a4 elementor-widget elementor-widget-text-editor" data-id="75280a4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h3 style="text-align: center;">Discover how you can convert your products or installations into intelligent objects, to optimize your work system and increase sales<br /></h3>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-b927f0b elementor-align-center elementor-widget__width-inherit elementor-absolute elementor-widget elementor-widget-button" data-id="b927f0b" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="/en/contact/" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="contactanosdelblog">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Contac us</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<p>The post <a rel="nofollow" href="/en/blog/how-to-turn-your-products-into-intelligent-items-to-boost-customer-loyalty-and-sales/">How to turn your products into intelligent items to boost customer loyalty and sales.</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Hannover Messe 2021: Why it is worth attending this year especially</title>
-		<link>/en/blog/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/</link>
-		
-		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
-		<pubDate>Tue, 23 Mar 2021 11:55:26 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Business fairs]]></category>
-		<guid isPermaLink="false">/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/</guid>
-
-					<description><![CDATA[<p>The reason why we recommend attending the Hannover Messe is very simple: what happens if what you are looking for your manufacturing facilities are solutions to problems such as obtaining easily your assets' traceability, or the history of each assets and make it accessible and maintained easily and quickly, integrated with you the software you need in your facilities?</p>
-<p>The post <a rel="nofollow" href="/en/blog/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/">Hannover Messe 2021: Why it is worth attending this year especially</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="9440" class="elementor elementor-9440 elementor-9119">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-d6e8def elementor-section-content-top tictap-w2021  tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6e8def" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a2bf1e0" data-id="a2bf1e0" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-ccbb7ce elementor-widget elementor-widget-text-editor" data-id="ccbb7ce" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>The Hannover Messe is the most important industrial fair of the year and can mark a before and after in your production plant or in the products you manufacture. In it you can find solutions to production problems, or improvements that help you improve productivity, and therefore the benefits of your company.</p>
-<p>The Hannover convention and trade show is digital this year. So, there is no longer an excuse to miss out on all that it can contribute to your products and their manufacture.</p>
-					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-section elementor-top-section elementor-element elementor-element-bd43c9e elementor-section-content-top tictap-w2021 tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd43c9e" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-04bec25" data-id="04bec25" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-8e7e741 elementor-widget elementor-widget-image" data-id="8e7e741" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="1024" height="683" src="/wp-content/uploads/2021/03/hannover-messe-picture-1024x683.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/03/hannover-messe-picture-1024x683.jpeg 1024w, /wp-content/uploads/2021/03/hannover-messe-picture-300x200.jpeg 300w, /wp-content/uploads/2021/03/hannover-messe-picture-768x512.jpeg 768w, /wp-content/uploads/2021/03/hannover-messe-picture.jpeg 1146w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</div>
-				<div class="elementor-section elementor-top-section elementor-element elementor-element-b1869a3 elementor-section-content-top tictap-w2021 tictap-outter-section tictap-text-dark elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1869a3" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-17f0480" data-id="17f0480" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-93a58c6 elementor-widget elementor-widget-text-editor" data-id="93a58c6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h2>Why should you attend the Hannover Messe 2021?</h2>
-<p>The reason why we recommend attending the Hannover Messe is<br />
-very simple: If in your factory or production plants you are<br />
-experiencing unwanted problems that require an already existing and<br />
-highly standardized solution in the market, it will not be difficult for<br />
-you to find it. But, what happens when what you are looking for are<br />
-solutions to problems such as obtaining the identification of assets or<br />
-their complete traceability and easily, saving a history record that can<br />
-be accessed and maintained easily and quickly?<br />
-If you don&#8217;t have an acquaintance, consultant, or vendor to call that<br />
-have no solution for you, the first thing you&#8217;ll probably do is open<br />
-your browser and start looking.</p>
-<p>But as you can imagine, or even have already suffered, finding the<br />
-results you are looking for is not easy.</p>
-<p>The search engine gives you thousands of results related to your<br />
-search. The issue begins to get complicated. And above all, you do not<br />
-know if you are obtaining in these results everything that the market<br />
-really offers, or if they contain the most convenient solution for your<br />
-production, or if the products and solutions found are those that have<br />
-the most future expectations, etc.</p>
-<p>Our recommendation is that if you want to find solutions to problems<br />
-in your daily production, or to help you make it profitable, it is highly<br />
-advisable to consider where the industry is going, and thus be able to<br />
-apply solutions with more future to the problems and tasks that you<br />
-face in your factory every day. That is why we invite you to join the<br />
-Hannover Messe 2021.</p>
-<p>As a summary for those unfamiliar with Hannover Messe, it is the<br />
-largest industrial fair in the world. It takes place in Germany,<br />
-specifically in Hannover, and has more than 6,000 exhibitors and<br />
-200,000 visitors.</p>
-					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-2a2ee03 elementor-widget elementor-widget-image" data-id="2a2ee03" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="900" height="599" src="/wp-content/uploads/2021/03/hannover-messe-2021-digital-edition.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/03/hannover-messe-2021-digital-edition.jpeg 900w, /wp-content/uploads/2021/03/hannover-messe-2021-digital-edition-300x200.jpeg 300w, /wp-content/uploads/2021/03/hannover-messe-2021-digital-edition-768x511.jpeg 768w" sizes="(max-width: 900px) 100vw, 900px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-89681dd elementor-widget elementor-widget-text-editor" data-id="89681dd" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h2><span style="font-size: 30px; font-style: normal; font-weight: normal;">Hannover Messe 2021 is online</span></h2>
-<p>Best of all, this year there is no excuse to miss Hannover Messe 2021<br />
-because it comes in digital format. So, you can<br />
-access exhibitors, conferences and networking from wherever you are.</p>
-<p>Therefore, we would like to invite you to seize the opportunity and join this first<br />
-digital edition of the Hannover Messe, the most important industrial fair of the year. You will find us there, since<strong> TicTAP will also be</strong><br />
-<strong>present in it as an innovative and disruptive solution</strong> for:</p>
-<ul>
-<li>Identification of assets (machines, parts, vehicles, train wagons<br />
-&#8230;)</li>
-<li>Asset traceability</li>
-<li>Maintenance of assets, machinery and facilities</li>
-<li>Generation of history of easy access and simple to maintain and update.<br />
-One click reports.</li>
-<li>Incidental management.</li>
-<li>Aftermarket.</li>
-<li>Sensor platform integration.</li>
-<li>Existing ERP integrations.</li>
-<li>Plug &amp; Play BI OEE tools.</li>
-</ul>
-<p>To sum up, if you are facing any of the problems and needs<br />
-mentioned in this article, we recommend you to sign up now for<br />
-Hannover Messe 2021.</p>
-<p>There you will find us in the TicTAP digital display, where we will be able to<br />
-answer all your questions, show you our solution in more detail and<br />
-how it can be easily adapted to your manufacturing process and<br />
-products.</p>
-<h3>More information about Hannover Messe 2021</h3>
-<p>You can find all the information about Hannover Messe 2021 on the<br />
-<a href="https://www.hannovermesse.de/en/" target="_blank" rel="noopener">official website</a>.</p>
-					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</div>
-									</div>
-			</div>
-					</div>
-		<p>The post <a rel="nofollow" href="/en/blog/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/">Hannover Messe 2021: Why it is worth attending this year especially</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
