@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.tictap.me/</loc>
-		<lastmod>2023-11-21T12:52:42+00:00</lastmod>
+		<lastmod>2024-04-10T09:23:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/legal-notice-3/</loc>
@@ -118,35 +118,35 @@
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/industry-new-regulation-eu-for-machinery-and-its-documentation/</loc>
-		<lastmod>2024-04-05T08:07:58+00:00</lastmod>
+		<lastmod>2024-04-10T08:29:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/cleaning-management/</loc>
-		<lastmod>2024-04-08T11:10:05+00:00</lastmod>
+		<lastmod>2024-04-10T08:49:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/coshh-management/</loc>
-		<lastmod>2024-04-09T09:23:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/risk-assesment/</loc>
-		<lastmod>2024-04-09T10:11:57+00:00</lastmod>
+		<lastmod>2024-04-10T08:51:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/digitally-manage-your-equipment/</loc>
-		<lastmod>2024-04-09T10:18:59+00:00</lastmod>
+		<lastmod>2024-04-10T08:54:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/fire-management/</loc>
-		<lastmod>2024-04-09T10:41:20+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/vehicle-maintenance/</loc>
-		<lastmod>2024-04-09T10:44:04+00:00</lastmod>
+		<lastmod>2024-04-10T08:57:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/tool-maintenance/</loc>
-		<lastmod>2024-04-09T11:00:30+00:00</lastmod>
+		<lastmod>2024-04-10T08:58:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/risk-assesment/</loc>
+		<lastmod>2024-04-10T09:00:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/vehicle-maintenance/</loc>
+		<lastmod>2024-04-10T09:05:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/</loc>
