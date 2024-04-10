@@ -12,7 +12,7 @@
 	<atom:link href="/en/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
 	<description>Mantenimiento y trazabilidad de activos.</description>
-	<lastBuildDate>Mon, 23 Oct 2023 09:05:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Apr 2024 08:45:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Mon, 23 Oct 2023 09:05:28 +0000</pubDate>
-				<category><![CDATA[European Regulations]]></category>
+				<category><![CDATA[Blog]]></category>
 		<category><![CDATA[Industry]]></category>
 		<guid isPermaLink="false">/blog/european-conformity-mark-ce-mark/</guid>
 
@@ -83,75 +83,16 @@
 		
 			</item>
 		<item>
-		<title>What should the Instruction Manual include?</title>
-		<link>/en/blog/what-should-the-instruction-manual-include/</link>
-		
-		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
-		<pubDate>Mon, 23 Oct 2023 08:49:52 +0000</pubDate>
-				<category><![CDATA[European Regulations]]></category>
-		<guid isPermaLink="false">/blog/what-should-the-instruction-manual-include/</guid>
-
-					<description><![CDATA[<p>The Instruction Manual clearly describes the product model, informs the user of intended and appropriate use, and gives information on precautions. There is much more and here we explain</p>
-<p>The post <a rel="nofollow" href="/en/blog/what-should-the-instruction-manual-include/">What should the Instruction Manual include?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The instruction manual is the information provided by the manufacturer for the machine user. This is part of the technical dossier and is also a basic element of the supply of any machine.</p>
-
-<h2>What is it for?</h2>
-
-<p>On the one hand they clearly describe the product model to which they correspond. And then inform the user of the intended and appropriate use of the machine, as well as information on precautions to be taken when using or installing the machine, including information on safety aspects, and how to maintain the safety of the machine or related product, and to ensure that it remains fit for purpose throughout its life.</p>
-
-<h2>How should they be given?</h2>
-
-<p>Instructions can be provided on paper, or in<strong> digital format</strong>. Instructions for use (as well as safety information and assembly manual) <strong>shall be written in a language which users can easily understand</strong>, as determined by the Member State concerned, and shall be clear, understandable and legible.</p>
-
-<p>When presented in digital format, the user may request the paper copy at the time of purchase, and the manufacturer shall provide the paper instructions for use free of charge within one month.</p>
-
-<p>When offered in digital format, the manufacturer shall:</p>
-
-<ul><li>mark on the machine, on its packaging or on an accompanying document, how to access the digital instructions</li></ul>
-
-<ul><li>present them in a format that allows the user to print and download the instructions for use and save them on an electronic device so that they can access them at all times. </li></ul>
-
-<ul><li>make them accessible online for the expected life of the machine or related product and for at least ten years after the marketing of the machine or related product.</li></ul>
-
-<p>In the case of machinery intended for non-professional users or which may be used by non-professional users, even if not intended for them, the manufacturer shall provide: on paper, safety information essential for the putting into service of the machine or related product and for its safe use.</p>
-
-<h2>How should it be written?</h2>
-
-<p>The content of the instructions for use should not only cover the intended use of the machinery or the related product, but shall also take into account any case-related use which may lead to a reasonably foreseeable misuse of the machine or related product.</p>
-
-<p>The drafting and design of instructions for the use of machinery which may be used by non-professional operators shall take into account the level of general education and insight which can reasonably be expected of such operators.</p>
-
-<h3>What should be included? </h3>
-
-<p>Content of the instructions for use is extensive and should at least the following information:</p>
-
-<ul><li>the trade name and full address of the manufacturer and, where applicable, his authorised representative;</li><li>the description of the machinery or related product as contained in the machinery or the related product itself, with the exception of the serial number</li><li>the EU declaration of conformity or code to the digital document</li><li>a general description of the machine or related product</li><li>drawings, diagrams, descriptions and explanations necessary for the use, maintenance and repair of the machinery or related product and for checking its proper functioning;</li><li>a description of the working position(s) which may be occupied by operators;</li><li>a description of the intended use of the machinery or related product;</li><li>warnings as to how machinery which experience has shown may not be used</li><li>assembly, installation and connection instructions, including drawings, diagrams and means of attachment, and the designation of the chassis or installation on which the machine or related product is to be mounted;</li><li>installation and assembly instructions to reduce noise or vibration;</li><li>instructions for putting into service and use of the machinery or related product and, if necessary, instructions for operator training</li><li>information on residual risks that persist despite intrinsically safe design measures, safeguard measures and additional protective measures taken;</li><li>instructions on protective measures, including personal protective equipment to be provided;</li><li>the characteristics of the tools that can be installed on the machine or on the related product;</li><li>the conditions under which the machine fulfils the requirement of stability during use, transport, assembly, disassembly when out of service, tests or foreseeable breakdowns</li><li>instructions to ensure that transport, handling and storage operations can be carried out safely. These shall include the mass of the machinery and its various parts, where they are to be transported separately;</li><li>method of operation in the event of an accident or breakdown; if a lock is likely to occur, what to do for the safe unlocking of the equipment; </li><li>description of the adjustment and maintenance operations to be performed by the user and the preventive maintenance measures to be observed taking into account the design and use of the machine</li><li>instructions to enable adjustment and maintenance to be carried out safely, including protective measures to be applied.</li><li>the specifications of the spare parts to be used where they affect the health and safety of operators</li><li>Information on air noise emissions. More details can be found at <a href="https://eur-lex.europa.eu/legal-content/EN/TTX/HTML/? uri=CELEX:32006L0042">Directive 2006/42/EC of the European Parliament and of the Council. </a></li></ul>
-
-<p><strong> Instructions benefit both the user and the manufacturer</strong>. For users, this document provides a clear and detailed guide on how to properly use a product. The manual helps them understand the functions, features and possible limitations of the product, allowing them to make the most of it and avoid costly mistakes. On the other hand, for manufacturers, it represents an effective way to communicate with users and ensure that they use the product according to established specifications and guidelines. This helps minimize the risk of misuse or damage to the product, while increasing customer satisfaction and brand confidence. </p>
-
-<p>The manual can serve as a marketing tool, highlighting the competitive advantages of the product and demonstrating its value to consumers. </p>
-
-<p>In short, the instruction manual benefits both users and manufacturers by providing clear guidance, improving user experience and fostering strong consumer-brand relationships.</p>
-<p>The post <a rel="nofollow" href="/en/blog/what-should-the-instruction-manual-include/">What should the Instruction Manual include?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Damm Group</title>
-		<link>/en/undefined-en/damm-group/</link>
+		<link>/en/sucess-stories/damm-group/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2023 11:08:00 +0000</pubDate>
-				<category><![CDATA[undefined]]></category>
-		<category><![CDATA[Industry]]></category>
+				<category><![CDATA[Success Stories]]></category>
 		<guid isPermaLink="false">/blog/damm-group/</guid>
 
 					<description><![CDATA[<p>Control and maintenance of fire protection installations</p>
-<p>The post <a rel="nofollow" href="/en/undefined-en/damm-group/">Damm Group</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/sucess-stories/damm-group/">Damm Group</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14649" class="elementor elementor-14649 elementor-13659">
 						<div class="elementor-inner">
@@ -299,7 +240,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/undefined-en/damm-group/">Damm Group</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/sucess-stories/damm-group/">Damm Group</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -307,16 +248,15 @@
 			</item>
 		<item>
 		<title>Dagartech</title>
-		<link>/en/sucess-stories/dagartech/</link>
+		<link>/en/blog/dagartech/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2023 11:58:00 +0000</pubDate>
-				<category><![CDATA[Success Stories]]></category>
-		<category><![CDATA[Machinery regulations]]></category>
+				<category><![CDATA[Machinery regulations]]></category>
 		<guid isPermaLink="false">/blog/dagartech/</guid>
 
 					<description><![CDATA[<p>Traceability of generator sets with nesting of assets</p>
-<p>The post <a rel="nofollow" href="/en/sucess-stories/dagartech/">Dagartech</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/blog/dagartech/">Dagartech</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14655" class="elementor elementor-14655 elementor-13758">
 						<div class="elementor-inner">
@@ -457,7 +397,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/sucess-stories/dagartech/">Dagartech</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/blog/dagartech/">Dagartech</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -465,16 +405,15 @@
 			</item>
 		<item>
 		<title>Delgado Instal·lacions</title>
-		<link>/en/undefined-en/delgado-instal%c2%b7lacions/</link>
+		<link>/en/blog/delgado-instal%c2%b7lacions/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Mon, 24 Jul 2023 09:47:00 +0000</pubDate>
-				<category><![CDATA[undefined]]></category>
-		<category><![CDATA[Facility maintenance]]></category>
+				<category><![CDATA[Facility maintenance]]></category>
 		<guid isPermaLink="false">/blog/delgado-instal%c2%b7lacions/</guid>
 
 					<description><![CDATA[<p>Integration and improved efficiency in facility maintenance.</p>
-<p>The post <a rel="nofollow" href="/en/undefined-en/delgado-instal%c2%b7lacions/">Delgado Instal·lacions</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/blog/delgado-instal%c2%b7lacions/">Delgado Instal·lacions</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14661" class="elementor elementor-14661 elementor-13746">
 						<div class="elementor-inner">
@@ -622,7 +561,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/undefined-en/delgado-instal%c2%b7lacions/">Delgado Instal·lacions</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/blog/delgado-instal%c2%b7lacions/">Delgado Instal·lacions</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -787,16 +726,15 @@
 			</item>
 		<item>
 		<title>Alstom</title>
-		<link>/en/sucess-stories/alstom-eng/</link>
+		<link>/en/blog/alstom-eng/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 10:24:00 +0000</pubDate>
-				<category><![CDATA[Success Stories]]></category>
-		<category><![CDATA[Railway]]></category>
+				<category><![CDATA[Railway]]></category>
 		<guid isPermaLink="false">/blog/alstom-eng/</guid>
 
 					<description><![CDATA[<p>Traceability of rolling stock for trains, trams and cars</p>
-<p>The post <a rel="nofollow" href="/en/sucess-stories/alstom-eng/">Alstom</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/blog/alstom-eng/">Alstom</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14677" class="elementor elementor-14677 elementor-13780">
 						<div class="elementor-inner">
@@ -937,7 +875,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/sucess-stories/alstom-eng/">Alstom</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/blog/alstom-eng/">Alstom</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -945,16 +883,16 @@
 			</item>
 		<item>
 		<title>Koni</title>
-		<link>/en/blog/koni-eng/</link>
+		<link>/en/sucess-stories/koni-eng/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Thu, 20 Jul 2023 10:30:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
+				<category><![CDATA[Success Stories]]></category>
 		<category><![CDATA[Asset Traceability]]></category>
 		<guid isPermaLink="false">/blog/koni-eng/</guid>
 
 					<description><![CDATA[<p>Traceability of railway dampers and optimization of incident reporting</p>
-<p>The post <a rel="nofollow" href="/en/blog/koni-eng/">Koni</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/sucess-stories/koni-eng/">Koni</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14682" class="elementor elementor-14682 elementor-13772">
 						<div class="elementor-inner">
@@ -1095,7 +1033,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/blog/koni-eng/">Koni</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/sucess-stories/koni-eng/">Koni</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1108,6 +1046,7 @@
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Fri, 02 Jun 2023 12:41:44 +0000</pubDate>
 				<category><![CDATA[European Regulations]]></category>
+		<category><![CDATA[Industry]]></category>
 		<guid isPermaLink="false">/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</guid>
 
 					<description><![CDATA[<p>The technical documentation provides information on the design, the manufacture and the functioning of a product, and must include all the data necessary to demonstrate that the product meets the applicable requirements. Machinery manufacturers should carry out a risk analysis of their machines and ensure that they meet specific standards before introducing them to the &#8230;</p>
@@ -1222,8 +1161,8 @@ However, the manufacturer must ensure that distributors can provide, at the requ
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Fri, 02 Jun 2023 12:10:14 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[European Regulations]]></category>
+				<category><![CDATA[European Regulations]]></category>
+		<category><![CDATA[Industry]]></category>
 		<guid isPermaLink="false">/what-should-be-included-in-the-eu-declaration-of-conformity/</guid>
 
 					<description><![CDATA[<p>The declaration of conformity is a document necessary to obtain the CE marking and to be able to market the product in the European Union. Here we explain all the details</p>
@@ -1275,6 +1214,67 @@ However, the manufacturer must ensure that distributors can provide, at the requ
 <p>For imported products, the importer must ensure that the product is accompanied by the declaration of conformity and must keep a copy of it for 10 years from the date of placing on the market.</p>
 <p>The EU declaration of conformity must be translated into the language or languages required by the EU country in which the product is sold.</p></p>
 <p>The post <a rel="nofollow" href="/en/blog/what-should-be-included-in-the-eu-declaration-of-conformity/">What should be included in the EU Declaration of Conformity?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What should the Instruction Manual include?</title>
+		<link>/en/blog/what-should-the-instruction-manual-include/</link>
+		
+		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
+		<pubDate>Mon, 23 May 2022 08:49:52 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Industria]]></category>
+		<category><![CDATA[Normativa Europea]]></category>
+		<category><![CDATA[European Regulations]]></category>
+		<guid isPermaLink="false">/blog/what-should-the-instruction-manual-include/</guid>
+
+					<description><![CDATA[<p>The Instruction Manual clearly describes the product model, informs the user of intended and appropriate use, and gives information on precautions. There is much more and here we explain</p>
+<p>The post <a rel="nofollow" href="/en/blog/what-should-the-instruction-manual-include/">What should the Instruction Manual include?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The instruction manual is the information provided by the manufacturer for the machine user. This is part of the technical dossier and is also a basic element of the supply of any machine.</p>
+
+<h2>What is it for?</h2>
+
+<p>On the one hand they clearly describe the product model to which they correspond. And then inform the user of the intended and appropriate use of the machine, as well as information on precautions to be taken when using or installing the machine, including information on safety aspects, and how to maintain the safety of the machine or related product, and to ensure that it remains fit for purpose throughout its life.</p>
+
+<h2>How should they be given?</h2>
+
+<p>Instructions can be provided on paper, or in<strong> digital format</strong>. Instructions for use (as well as safety information and assembly manual) <strong>shall be written in a language which users can easily understand</strong>, as determined by the Member State concerned, and shall be clear, understandable and legible.</p>
+
+<p>When presented in digital format, the user may request the paper copy at the time of purchase, and the manufacturer shall provide the paper instructions for use free of charge within one month.</p>
+
+<p>When offered in digital format, the manufacturer shall:</p>
+
+<ul><li>mark on the machine, on its packaging or on an accompanying document, how to access the digital instructions</li></ul>
+
+<ul><li>present them in a format that allows the user to print and download the instructions for use and save them on an electronic device so that they can access them at all times. </li></ul>
+
+<ul><li>make them accessible online for the expected life of the machine or related product and for at least ten years after the marketing of the machine or related product.</li></ul>
+
+<p>In the case of machinery intended for non-professional users or which may be used by non-professional users, even if not intended for them, the manufacturer shall provide: on paper, safety information essential for the putting into service of the machine or related product and for its safe use.</p>
+
+<h2>How should it be written?</h2>
+
+<p>The content of the instructions for use should not only cover the intended use of the machinery or the related product, but shall also take into account any case-related use which may lead to a reasonably foreseeable misuse of the machine or related product.</p>
+
+<p>The drafting and design of instructions for the use of machinery which may be used by non-professional operators shall take into account the level of general education and insight which can reasonably be expected of such operators.</p>
+
+<h3>What should be included? </h3>
+
+<p>Content of the instructions for use is extensive and should at least the following information:</p>
+
+<ul><li>the trade name and full address of the manufacturer and, where applicable, his authorised representative;</li><li>the description of the machinery or related product as contained in the machinery or the related product itself, with the exception of the serial number</li><li>the EU declaration of conformity or code to the digital document</li><li>a general description of the machine or related product</li><li>drawings, diagrams, descriptions and explanations necessary for the use, maintenance and repair of the machinery or related product and for checking its proper functioning;</li><li>a description of the working position(s) which may be occupied by operators;</li><li>a description of the intended use of the machinery or related product;</li><li>warnings as to how machinery which experience has shown may not be used</li><li>assembly, installation and connection instructions, including drawings, diagrams and means of attachment, and the designation of the chassis or installation on which the machine or related product is to be mounted;</li><li>installation and assembly instructions to reduce noise or vibration;</li><li>instructions for putting into service and use of the machinery or related product and, if necessary, instructions for operator training</li><li>information on residual risks that persist despite intrinsically safe design measures, safeguard measures and additional protective measures taken;</li><li>instructions on protective measures, including personal protective equipment to be provided;</li><li>the characteristics of the tools that can be installed on the machine or on the related product;</li><li>the conditions under which the machine fulfils the requirement of stability during use, transport, assembly, disassembly when out of service, tests or foreseeable breakdowns</li><li>instructions to ensure that transport, handling and storage operations can be carried out safely. These shall include the mass of the machinery and its various parts, where they are to be transported separately;</li><li>method of operation in the event of an accident or breakdown; if a lock is likely to occur, what to do for the safe unlocking of the equipment; </li><li>description of the adjustment and maintenance operations to be performed by the user and the preventive maintenance measures to be observed taking into account the design and use of the machine</li><li>instructions to enable adjustment and maintenance to be carried out safely, including protective measures to be applied.</li><li>the specifications of the spare parts to be used where they affect the health and safety of operators</li><li>Information on air noise emissions. More details can be found at <a href="https://eur-lex.europa.eu/legal-content/EN/TTX/HTML/? uri=CELEX:32006L0042">Directive 2006/42/EC of the European Parliament and of the Council. </a></li></ul>
+
+<p><strong> Instructions benefit both the user and the manufacturer</strong>. For users, this document provides a clear and detailed guide on how to properly use a product. The manual helps them understand the functions, features and possible limitations of the product, allowing them to make the most of it and avoid costly mistakes. On the other hand, for manufacturers, it represents an effective way to communicate with users and ensure that they use the product according to established specifications and guidelines. This helps minimize the risk of misuse or damage to the product, while increasing customer satisfaction and brand confidence. </p>
+
+<p>The manual can serve as a marketing tool, highlighting the competitive advantages of the product and demonstrating its value to consumers. </p>
+
+<p>In short, the instruction manual benefits both users and manufacturers by providing clear guidance, improving user experience and fostering strong consumer-brand relationships.</p>
+<p>The post <a rel="nofollow" href="/en/blog/what-should-the-instruction-manual-include/">What should the Instruction Manual include?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		

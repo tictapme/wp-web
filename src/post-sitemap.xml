@@ -148,13 +148,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/manual-de-instrucciones/</loc>
-		<lastmod>2023-07-12T11:22:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/ManualdeInstrucciones.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/blog/industria-que-debe-incorporar-la-declaracion-ue-de-conformidad/</loc>
 		<lastmod>2023-07-12T11:22:31+00:00</lastmod>
 		<image:image>
@@ -197,13 +190,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/industria-que-documentacion-tecnica-tienen-que-tener-tus-maquinas-con-la-nueva-directiva-europea/</loc>
-		<lastmod>2023-10-11T12:42:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/rellenando-documentos.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-de-grupos-electrogenos-para-dagartech/</loc>
 		<lastmod>2023-10-19T10:21:20+00:00</lastmod>
 		<image:image>
@@ -218,59 +204,73 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/sucess-stories/damm-group/</loc>
-		<lastmod>2023-10-23T08:33:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAMM.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/sucess-stories/dagartech/</loc>
-		<lastmod>2023-10-23T08:33:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAGARTECH.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/sucess-stories/delgado-instal%c2%b7lacions/</loc>
-		<lastmod>2023-10-23T08:34:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DELGADO.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/sucess-stories/tag-carretillas-eng/</loc>
-		<lastmod>2023-10-23T08:35:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/TAG.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/blog/koni-eng/</loc>
-		<lastmod>2023-10-23T08:35:57+00:00</lastmod>
+		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-de-amortiguadores-de-ferrocarril-koni-y-optimizacion-del-reporte-de-incidentes/</loc>
+		<lastmod>2023-10-23T09:06:54+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/05/Imatge_petita-KONI.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.tictap.me/blog/industria-que-documentacion-tecnica-tienen-que-tener-tus-maquinas-con-la-nueva-directiva-europea/</loc>
+		<lastmod>2024-04-08T08:30:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/rellenando-documentos.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/sucess-stories/damm-group/</loc>
+		<lastmod>2024-04-08T08:35:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAMM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/sucess-stories/delgado-instal%c2%b7lacions/</loc>
+		<lastmod>2024-04-08T08:35:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DELGADO.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/sucess-stories/koni-eng/</loc>
+		<lastmod>2024-04-08T08:36:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/05/Imatge_petita-KONI.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/sucess-stories/dagartech/</loc>
+		<lastmod>2024-04-08T08:42:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAGARTECH.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.tictap.me/en/blog/what-should-the-instruction-manual-include/</loc>
-		<lastmod>2023-10-23T08:49:54+00:00</lastmod>
+		<lastmod>2024-04-08T08:44:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/ManualdeInstrucciones.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/blog/european-conformity-mark-ce-mark/</loc>
-		<lastmod>2023-10-23T09:05:30+00:00</lastmod>
+		<lastmod>2024-04-08T08:44:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Marcado-CE.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-de-amortiguadores-de-ferrocarril-koni-y-optimizacion-del-reporte-de-incidentes/</loc>
-		<lastmod>2023-10-23T09:06:54+00:00</lastmod>
+		<loc>https://www.tictap.me/en/sucess-stories/tag-carretillas-eng/</loc>
+		<lastmod>2024-04-08T08:45:10+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/05/Imatge_petita-KONI.png</image:loc>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/TAG.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/blog/manual-de-instrucciones/</loc>
+		<lastmod>2024-04-09T09:18:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/ManualdeInstrucciones.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

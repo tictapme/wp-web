@@ -12,7 +12,7 @@
 	<atom:link href="/en/sucess-stories/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
 	<description>Mantenimiento y trazabilidad de activos.</description>
-	<lastBuildDate>Mon, 23 Oct 2023 08:35:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Apr 2024 08:45:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,7 +34,6 @@
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2023 11:08:00 +0000</pubDate>
 				<category><![CDATA[Success Stories]]></category>
-		<category><![CDATA[undefined]]></category>
 		<category><![CDATA[Industry]]></category>
 		<guid isPermaLink="false">/blog/damm-group/</guid>
 
@@ -352,17 +351,16 @@
 			</item>
 		<item>
 		<title>Delgado Instal·lacions</title>
-		<link>/en/undefined-en/delgado-instal%c2%b7lacions/</link>
+		<link>/en/blog/delgado-instal%c2%b7lacions/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Mon, 24 Jul 2023 09:47:00 +0000</pubDate>
-				<category><![CDATA[undefined]]></category>
-		<category><![CDATA[Industry]]></category>
+				<category><![CDATA[Industry]]></category>
 		<category><![CDATA[Facility maintenance]]></category>
 		<guid isPermaLink="false">/blog/delgado-instal%c2%b7lacions/</guid>
 
 					<description><![CDATA[<p>Integration and improved efficiency in facility maintenance.</p>
-<p>The post <a rel="nofollow" href="/en/undefined-en/delgado-instal%c2%b7lacions/">Delgado Instal·lacions</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+<p>The post <a rel="nofollow" href="/en/blog/delgado-instal%c2%b7lacions/">Delgado Instal·lacions</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="14661" class="elementor elementor-14661 elementor-13746">
 						<div class="elementor-inner">
@@ -510,7 +508,7 @@
 									</div>
 			</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/en/undefined-en/delgado-instal%c2%b7lacions/">Delgado Instal·lacions</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+		<p>The post <a rel="nofollow" href="/en/blog/delgado-instal%c2%b7lacions/">Delgado Instal·lacions</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -836,8 +834,7 @@
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Thu, 20 Jul 2023 10:30:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Asset Traceability]]></category>
+				<category><![CDATA[Asset Traceability]]></category>
 		<guid isPermaLink="false">/blog/koni-eng/</guid>
 
 					<description><![CDATA[<p>Traceability of railway dampers and optimization of incident reporting</p>
