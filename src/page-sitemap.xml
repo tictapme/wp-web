@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.tictap.me/</loc>
-		<lastmod>2024-04-10T09:44:57+00:00</lastmod>
+		<lastmod>2024-04-15T10:09:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/legal-notice-3/</loc>
@@ -105,48 +105,70 @@
 		<lastmod>2024-03-18T10:09:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/personal-protective-equipment/</loc>
-		<lastmod>2024-04-02T10:26:25+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/cleaning-tasks-management/</loc>
-		<lastmod>2024-04-03T09:04:19+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/coshh-management/</loc>
-		<lastmod>2024-04-04T08:22:15+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/en/industry-new-regulation-eu-for-machinery-and-its-documentation/</loc>
 		<lastmod>2024-04-10T08:29:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/cleaning-management/</loc>
-		<lastmod>2024-04-10T08:49:26+00:00</lastmod>
+		<loc>https://www.tictap.me/gestion-de-coshh/</loc>
+		<lastmod>2024-04-15T10:28:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/coshh-management/</loc>
-		<lastmod>2024-04-10T08:51:38+00:00</lastmod>
+		<loc>https://www.tictap.me/mantenimiento-de-herramientas/</loc>
+		<lastmod>2024-04-15T10:45:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/digitally-manage-your-equipment/</loc>
-		<lastmod>2024-04-10T08:54:30+00:00</lastmod>
+		<loc>https://www.tictap.me/gestion-de-tu-instalacion/</loc>
+		<lastmod>2024-04-15T10:48:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2024/04/TicTAP-Equipment-management-1.png</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/fire-management/</loc>
-		<lastmod>2024-04-10T08:57:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/tool-maintenance/</loc>
-		<lastmod>2024-04-10T08:58:52+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/risk-assesment/</loc>
-		<lastmod>2024-04-10T09:00:52+00:00</lastmod>
+		<loc>https://www.tictap.me/gestion-de-mantenimiento-de-vehiculos/</loc>
+		<lastmod>2024-04-15T10:52:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/vehicle-maintenance/</loc>
-		<lastmod>2024-04-10T09:05:33+00:00</lastmod>
+		<lastmod>2024-04-15T10:53:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/risk-assesment/</loc>
+		<lastmod>2024-04-15T10:56:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/tool-maintenance/</loc>
+		<lastmod>2024-04-15T10:58:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/fire-management/</loc>
+		<lastmod>2024-04-15T11:01:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/digitally-manage-your-equipment/</loc>
+		<lastmod>2024-04-15T11:06:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2024/04/TicTAP-Equipment-management-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/coshh-management/</loc>
+		<lastmod>2024-04-15T11:09:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/cleaning-management/</loc>
+		<lastmod>2024-04-15T11:10:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-tareas-de-limpieza/</loc>
+		<lastmod>2024-04-15T11:12:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-equipo-proteccion-personal/</loc>
+		<lastmod>2024-04-15T11:15:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-equipos-contra-incendios/</loc>
+		<lastmod>2024-04-15T11:17:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/</loc>
