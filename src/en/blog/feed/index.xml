@@ -12,7 +12,7 @@
 	<atom:link href="/en/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>/en/</link>
 	<description>Mantenimiento y trazabilidad de activos.</description>
-	<lastBuildDate>Mon, 08 Apr 2024 08:44:58 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Apr 2024 07:52:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,67 +28,13 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>European Conformity Mark (CE Mark)</title>
-		<link>/en/blog/european-conformity-mark-ce-mark/</link>
-		
-		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
-		<pubDate>Mon, 23 Oct 2023 09:05:28 +0000</pubDate>
-				<category><![CDATA[European Regulations]]></category>
-		<guid isPermaLink="false">/blog/european-conformity-mark-ce-mark/</guid>
-
-					<description><![CDATA[<p>The CE mark, or European Conformity mark, opens the door to the marketing of a product in the EU. How can this be achieved? What are the advantages? Here we tell it.</p>
-<p>The post <a rel="nofollow" href="/en/blog/european-conformity-mark-ce-mark/">European Conformity Mark (CE Mark)</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The CE mark, or European Conformity mark, was established by the European Community and represents a declaration by manufacturers, importers and distributors that a given product meets a number of technical and legal requirements laid down by the European product directives.</p>
-
-<p>Manufacturers play a crucial role in ensuring that products placed in the enlarged European Economic Area (EEA) single market comply with public safety requirements. </p>
-
-<p>When a manufacturer wants his product to be placed on the market in the ESA, he must carry out the conformity assessment, establish the technical dossier, issue the EU declaration of conformity and thus be able to affix the CE mark on his product. </p>
-
-<p>The CE marking is the manufacturer’s declaration that his machine or product complies with the safety, health and environmental protection requirements established by Member States of the European Union, and therefore can move freely within the European Union. </p>
-
-<h2>How can I get the CE marking?</h2>
-
-<p>As a manufacturer, you must follow these 6 steps to place the CE mark on your product:</p>
-
-<ol><li>Identify the directive(s) (s) and applicable harmonised standards.</li><li>Verify specific product requirements.</li><li>Determine whether an independent conformity assessment (carried out by a notified body) is necessary.</li><li>Test the product and verify its conformity.</li><li>Prepare and keep available the required technical documentation.</li><li>Place the CE mark and prepare the EU Declaration of Conformity.</li></ol>
-
-<p>These 6 steps may vary depending on the product, as the conformity assessment procedure varies. Manufacturers must not affix the CE mark on products which do not fall within the scope of one of the directives allowing their affixing.</p>
-
-<p>For example, for products with higher safety risks, such as gas boilers, safety cannot be verified by the manufacturer alone. In such cases, the safety verification should be carried out by an independent organisation, specifically a notified body designated by the national authorities. </p>
-
-<p>The manufacturer may only affix the CE mark on the product once it has been completed.</p>
-
-<h2>What are the benefits of CE marking?</h2>
-
-<p>It not only means complying with EU law, but also has a number of advantages. Here are some of them:</p>
-
-<ol><li>Access to the European market: The CE marking allows products to move freely within EU Member States without additional technical restrictions or trade barriers.</li><li>Compliance with legal requirements: Obtaining the CE marking means that the manufacturer has complied with EU legal and regulatory requirements regarding the safety, health and environmental protection of its products.</li><li>Quality and safety standards: The CE marking ensures that products comply with the quality and safety standards set by the EU. This helps protect consumers and reduce the risks associated with the use of potentially dangerous or low quality products.</li><li>Competitive advantage in the market: Products bearing the CE mark are usually more attractive to buyers and can be considered more reliable and safe compared to those without the certificate.</li><li>Facilitation of international trade: CE marking is recognised and accepted in many countries outside the EU as a symbol of conformity with European standards. This simplifies the export process and facilitates international trade for European manufacturers.</li><li>Documentary simplification: Obtaining the CE marking means complying with the technical documentation and conformity requirements established by the EU. This helps manufacturers by providing a clear, standardized structure for the preparation of necessary documentation, which simplifies the process and saves time.</li></ol>
-
-<figure class="wp-block-image size-large is-resized"><img src="/wp-content/uploads/2023/06/marcado-1024x528.png" alt="CE Marking vs China Ecport, how to differentiate your logos" class="wp-image-13513" width="768" height="396" srcset="/wp-content/uploads/2023/06/marcado-1024x528.png 1024w, /wp-content/uploads/2023/06/marcado-300x155.png 300w, /wp-content/uploads/2023/06/marcado-768x396.png 768w, /wp-content/uploads/2023/06/marcado.png 1144w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-
-<h2>Are all products with the initials CE compliant?</h2>
-
-<p>The China Export symbol indicates that it uses the same initials as the ESA CE marking, but in its case is not a guarantee of quality, but only indicates that the product was manufactured in China.</p>
-
-<p>No registration, test or audit is required for the Chinese export symbol. The symbol can be used arbitrarily by Chinese manufacturers. These products do not have any risk assessment, safety assessment or quality testing.</p>
-
-<p>It is therefore necessary to know how to differentiate them.</p>
-<p>The post <a rel="nofollow" href="/en/blog/european-conformity-mark-ce-mark/">European Conformity Mark (CE Mark)</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>What technical documentation must your machines have with the new European directive?</title>
 		<link>/en/blog/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</link>
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Fri, 02 Jun 2023 12:41:44 +0000</pubDate>
-				<category><![CDATA[Industry]]></category>
-		<category><![CDATA[European Regulations]]></category>
+				<category><![CDATA[European Regulations]]></category>
+		<category><![CDATA[Industry]]></category>
 		<guid isPermaLink="false">/what-technical-documentation-must-your-machines-have-with-the-new-european-directive/</guid>
 
 					<description><![CDATA[<p>The technical documentation provides information on the design, the manufacture and the functioning of a product, and must include all the data necessary to demonstrate that the product meets the applicable requirements. Machinery manufacturers should carry out a risk analysis of their machines and ensure that they meet specific standards before introducing them to the &#8230;</p>
@@ -203,8 +149,7 @@ However, the manufacturer must ensure that distributors can provide, at the requ
 		
 		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
 		<pubDate>Fri, 02 Jun 2023 12:10:14 +0000</pubDate>
-				<category><![CDATA[European Regulations]]></category>
-		<category><![CDATA[Industry]]></category>
+				<category><![CDATA[Industry]]></category>
 		<guid isPermaLink="false">/what-should-be-included-in-the-eu-declaration-of-conformity/</guid>
 
 					<description><![CDATA[<p>The declaration of conformity is a document necessary to obtain the CE marking and to be able to market the product in the European Union. Here we explain all the details</p>
@@ -256,6 +201,60 @@ However, the manufacturer must ensure that distributors can provide, at the requ
 <p>For imported products, the importer must ensure that the product is accompanied by the declaration of conformity and must keep a copy of it for 10 years from the date of placing on the market.</p>
 <p>The EU declaration of conformity must be translated into the language or languages required by the EU country in which the product is sold.</p></p>
 <p>The post <a rel="nofollow" href="/en/blog/what-should-be-included-in-the-eu-declaration-of-conformity/">What should be included in the EU Declaration of Conformity?</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>European Conformity Mark (CE Mark)</title>
+		<link>/en/blog/european-conformity-mark-ce-mark/</link>
+		
+		<dc:creator><![CDATA[Olinta Lopez]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2022 09:05:28 +0000</pubDate>
+				<category><![CDATA[European Regulations]]></category>
+		<guid isPermaLink="false">/blog/european-conformity-mark-ce-mark/</guid>
+
+					<description><![CDATA[<p>The CE mark, or European Conformity mark, opens the door to the marketing of a product in the EU. How can this be achieved? What are the advantages? Here we tell it.</p>
+<p>The post <a rel="nofollow" href="/en/blog/european-conformity-mark-ce-mark/">European Conformity Mark (CE Mark)</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The CE mark, or European Conformity mark, was established by the European Community and represents a declaration by manufacturers, importers and distributors that a given product meets a number of technical and legal requirements laid down by the European product directives.</p>
+
+<p>Manufacturers play a crucial role in ensuring that products placed in the enlarged European Economic Area (EEA) single market comply with public safety requirements. </p>
+
+<p>When a manufacturer wants his product to be placed on the market in the ESA, he must carry out the conformity assessment, establish the technical dossier, issue the EU declaration of conformity and thus be able to affix the CE mark on his product. </p>
+
+<p>The CE marking is the manufacturer’s declaration that his machine or product complies with the safety, health and environmental protection requirements established by Member States of the European Union, and therefore can move freely within the European Union. </p>
+
+<h2>How can I get the CE marking?</h2>
+
+<p>As a manufacturer, you must follow these 6 steps to place the CE mark on your product:</p>
+
+<ol><li>Identify the directive(s) (s) and applicable harmonised standards.</li><li>Verify specific product requirements.</li><li>Determine whether an independent conformity assessment (carried out by a notified body) is necessary.</li><li>Test the product and verify its conformity.</li><li>Prepare and keep available the required technical documentation.</li><li>Place the CE mark and prepare the EU Declaration of Conformity.</li></ol>
+
+<p>These 6 steps may vary depending on the product, as the conformity assessment procedure varies. Manufacturers must not affix the CE mark on products which do not fall within the scope of one of the directives allowing their affixing.</p>
+
+<p>For example, for products with higher safety risks, such as gas boilers, safety cannot be verified by the manufacturer alone. In such cases, the safety verification should be carried out by an independent organisation, specifically a notified body designated by the national authorities. </p>
+
+<p>The manufacturer may only affix the CE mark on the product once it has been completed.</p>
+
+<h2>What are the benefits of CE marking?</h2>
+
+<p>It not only means complying with EU law, but also has a number of advantages. Here are some of them:</p>
+
+<ol><li>Access to the European market: The CE marking allows products to move freely within EU Member States without additional technical restrictions or trade barriers.</li><li>Compliance with legal requirements: Obtaining the CE marking means that the manufacturer has complied with EU legal and regulatory requirements regarding the safety, health and environmental protection of its products.</li><li>Quality and safety standards: The CE marking ensures that products comply with the quality and safety standards set by the EU. This helps protect consumers and reduce the risks associated with the use of potentially dangerous or low quality products.</li><li>Competitive advantage in the market: Products bearing the CE mark are usually more attractive to buyers and can be considered more reliable and safe compared to those without the certificate.</li><li>Facilitation of international trade: CE marking is recognised and accepted in many countries outside the EU as a symbol of conformity with European standards. This simplifies the export process and facilitates international trade for European manufacturers.</li><li>Documentary simplification: Obtaining the CE marking means complying with the technical documentation and conformity requirements established by the EU. This helps manufacturers by providing a clear, standardized structure for the preparation of necessary documentation, which simplifies the process and saves time.</li></ol>
+
+<figure class="wp-block-image size-large is-resized"><img src="/wp-content/uploads/2023/06/marcado-1024x528.png" alt="CE Marking vs China Ecport, how to differentiate your logos" class="wp-image-13513" width="768" height="396" srcset="/wp-content/uploads/2023/06/marcado-1024x528.png 1024w, /wp-content/uploads/2023/06/marcado-300x155.png 300w, /wp-content/uploads/2023/06/marcado-768x396.png 768w, /wp-content/uploads/2023/06/marcado.png 1144w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+<h2>Are all products with the initials CE compliant?</h2>
+
+<p>The China Export symbol indicates that it uses the same initials as the ESA CE marking, but in its case is not a guarantee of quality, but only indicates that the product was manufactured in China.</p>
+
+<p>No registration, test or audit is required for the Chinese export symbol. The symbol can be used arbitrarily by Chinese manufacturers. These products do not have any risk assessment, safety assessment or quality testing.</p>
+
+<p>It is therefore necessary to know how to differentiate them.</p>
+<p>The post <a rel="nofollow" href="/en/blog/european-conformity-mark-ce-mark/">European Conformity Mark (CE Mark)</a> appeared first on <a rel="nofollow" href="/en/">TicTAP</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -514,7 +513,8 @@ Every time we receive in the mail more offers, newsletters with promotions, etc.
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Tue, 23 Mar 2021 11:55:26 +0000</pubDate>
-				<category><![CDATA[Business fairs]]></category>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Business fairs]]></category>
 		<guid isPermaLink="false">/hannover-messe-2021-why-it-is-worth-attending-this-year-especially/</guid>
 
 					<description><![CDATA[<p>The reason why we recommend attending the Hannover Messe is very simple: what happens if what you are looking for your manufacturing facilities are solutions to problems such as obtaining easily your assets' traceability, or the history of each assets and make it accessible and maintained easily and quickly, integrated with you the software you need in your facilities?</p>
@@ -1410,8 +1410,7 @@ Another very graphic example is that of maintenance workers. They can use TicTAP
 		
 		<dc:creator><![CDATA[Maria Pascual]]></dc:creator>
 		<pubDate>Fri, 15 Jan 2021 12:39:41 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[maintenance]]></category>
+				<category><![CDATA[maintenance]]></category>
 		<guid isPermaLink="false">/what-types-of-maintenance-exist-and-can-i-apply-to-my-facilities-and-work-equipment/</guid>
 
 					<description><![CDATA[<p>It may be that you have your own facilities or work teams to maintain, or that you are a facility maintenance company. In any of the cases, you need to know perfectly the types of maintenance of facilities and work equipment that exist, and be very clear which one or which ones are convenient for &#8230;</p>
