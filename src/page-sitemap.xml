@@ -109,43 +109,11 @@
 		<lastmod>2024-04-10T08:29:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/gestion-de-coshh/</loc>
-		<lastmod>2024-04-15T10:28:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/vehicle-maintenance/</loc>
-		<lastmod>2024-04-15T10:53:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/risk-assesment/</loc>
-		<lastmod>2024-04-15T10:56:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/tool-maintenance/</loc>
-		<lastmod>2024-04-15T10:58:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/fire-management/</loc>
-		<lastmod>2024-04-15T11:01:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/en/digitally-manage-your-equipment/</loc>
 		<lastmod>2024-04-15T11:06:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2024/04/TicTAP-Equipment-management-1.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/coshh-management/</loc>
-		<lastmod>2024-04-15T11:09:02+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/gestion-tareas-de-limpieza/</loc>
-		<lastmod>2024-04-16T07:33:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/en/cleaning-management/</loc>
-		<lastmod>2024-04-16T07:40:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/casos-de-exito/</loc>
@@ -156,23 +124,55 @@
 		<lastmod>2024-04-16T09:32:25+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://www.tictap.me/gestion-de-coshh/</loc>
+		<lastmod>2024-04-17T08:09:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/cleaning-management/</loc>
+		<lastmod>2024-04-17T08:10:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/risk-assesment/</loc>
+		<lastmod>2024-04-17T09:04:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/vehicle-maintenance/</loc>
+		<lastmod>2024-04-17T10:46:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/fire-management/</loc>
+		<lastmod>2024-04-17T10:59:00+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.tictap.me/mantenimiento-de-herramientas/</loc>
-		<lastmod>2024-04-16T10:16:03+00:00</lastmod>
+		<lastmod>2024-04-17T11:08:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-equipos-contra-incendios/</loc>
+		<lastmod>2024-04-17T11:20:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/coshh-management/</loc>
+		<lastmod>2024-04-17T11:24:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-tareas-de-limpieza/</loc>
+		<lastmod>2024-04-17T11:28:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/tool-maintenance/</loc>
+		<lastmod>2024-04-17T11:29:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/gestion-de-tu-instalacion/</loc>
-		<lastmod>2024-04-16T10:18:14+00:00</lastmod>
+		<lastmod>2024-04-17T11:33:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2024/04/TicTAP-Equipment-management-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/gestion-equipos-contra-incendios/</loc>
-		<lastmod>2024-04-16T11:20:01+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/gestion-equipo-proteccion-personal/</loc>
-		<lastmod>2024-04-16T12:02:57+00:00</lastmod>
+		<lastmod>2024-04-17T11:38:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/</loc>
