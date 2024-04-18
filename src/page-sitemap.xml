@@ -140,10 +140,6 @@
 		<lastmod>2024-04-18T07:50:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/gestion-equipo-proteccion-personal/</loc>
-		<lastmod>2024-04-18T08:26:46+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/en/risk-assesment/</loc>
 		<lastmod>2024-04-18T08:34:39+00:00</lastmod>
 	</url>
@@ -160,19 +156,23 @@
 		<lastmod>2024-04-18T09:21:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/gestion-de-tu-instalacion/</loc>
-		<lastmod>2024-04-18T09:44:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2024/04/TicTAP-Equipment-management-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/gestion-de-mantenimiento-de-vehiculos/</loc>
 		<lastmod>2024-04-18T10:20:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/mantenimiento-de-herramientas/</loc>
-		<lastmod>2024-04-18T10:25:56+00:00</lastmod>
+		<lastmod>2024-04-18T10:52:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-equipo-proteccion-personal/</loc>
+		<lastmod>2024-04-18T10:55:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-de-tu-instalacion/</loc>
+		<lastmod>2024-04-18T10:59:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2024/04/TicTAP-Equipment-management-1.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/</loc>
