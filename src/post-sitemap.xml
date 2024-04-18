@@ -155,13 +155,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/blog/marcaje-ce/</loc>
-		<lastmod>2023-07-12T11:22:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Marcado-CE.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/casos-de-exito/unificacion-y-aumento-de-eficiencia-en-mantenimiento-para-delgado-instalaciones/</loc>
 		<lastmod>2023-08-03T09:12:59+00:00</lastmod>
 		<image:image>
@@ -260,15 +253,22 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.tictap.me/en/blog/european-conformity-mark-ce-mark/</loc>
+		<lastmod>2024-04-16T07:52:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Marcado-CE.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.tictap.me/blog/manual-de-instrucciones/</loc>
-		<lastmod>2024-04-09T09:18:01+00:00</lastmod>
+		<lastmod>2024-04-18T09:25:42+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/ManualdeInstrucciones.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/blog/european-conformity-mark-ce-mark/</loc>
-		<lastmod>2024-04-16T07:52:45+00:00</lastmod>
+		<loc>https://www.tictap.me/blog/marcaje-ce/</loc>
+		<lastmod>2024-04-18T10:14:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2023/06/Marcado-CE.jpg</image:loc>
 		</image:image>
