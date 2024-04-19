@@ -144,10 +144,6 @@
 		<lastmod>2024-04-18T08:34:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/cleaning-management/</loc>
-		<lastmod>2024-04-18T08:46:05+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/en/coshh-management/</loc>
 		<lastmod>2024-04-18T09:14:12+00:00</lastmod>
 	</url>
@@ -173,6 +169,10 @@
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2024/04/TicTAP-Equipment-management-1.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/cleaning-management/</loc>
+		<lastmod>2024-04-18T12:06:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/</loc>
