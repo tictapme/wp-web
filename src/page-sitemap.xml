@@ -113,10 +113,6 @@
 		<lastmod>2024-04-16T07:42:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/coshh-management/</loc>
-		<lastmod>2024-04-19T10:52:20+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/en/cleaning-management/</loc>
 		<lastmod>2024-04-19T10:52:48+00:00</lastmod>
 	</url>
@@ -136,16 +132,8 @@
 		<lastmod>2024-04-19T11:11:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/en/tool-maintenance/</loc>
-		<lastmod>2024-04-19T11:11:08+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/en/vehicle-maintenance/</loc>
 		<lastmod>2024-04-19T11:13:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.tictap.me/gestion-equipo-proteccion-personal/</loc>
-		<lastmod>2024-04-19T11:21:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/gestion-equipos-contra-incendios/</loc>
@@ -167,12 +155,24 @@
 		<lastmod>2024-04-22T07:20:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/gestion-tareas-de-limpieza/</loc>
-		<lastmod>2024-04-22T07:55:31+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/gestion-de-coshh/</loc>
 		<lastmod>2024-04-22T07:57:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-tareas-de-limpieza/</loc>
+		<lastmod>2024-04-22T08:27:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/gestion-equipo-proteccion-personal/</loc>
+		<lastmod>2024-04-22T08:37:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/tool-maintenance/</loc>
+		<lastmod>2024-04-22T09:00:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/en/coshh-management/</loc>
+		<lastmod>2024-04-22T09:01:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.tictap.me/en/</loc>
