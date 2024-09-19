@@ -21,6 +21,19 @@ if [ "$#" -lt 1 ] || [ "$#" -gt 3 ]; then
   exit 1
 fi
 
+
+echo "\n\n Using branch $1 : replacing $DEFAULT_OLD_URL with $DEFAULT_NEW_URL \n\n"
+read -p "Are you sure you want to continue? (y/n) " -n 1 -r
+echo    # move to a new line
+if [[ ! $REPLY =~ ^[Yy]$ ]]
+then
+    echo "Exiting..."
+    exit 1
+fi
+
+
+
+
 # Assign arguments to variables
 SRC_DIR="src/"
 OLD_URL="${2:-$DEFAULT_OLD_URL}"
