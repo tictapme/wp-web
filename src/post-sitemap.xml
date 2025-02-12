@@ -99,13 +99,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.tictap.me/casos-de-exito/control-y-mantenimiento-de-instalaciones-de-proteccion-contra-incendios-para-el-grupo-damm/</loc>
-		<lastmod>2023-10-20T07:27:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAMM.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.tictap.me/casos-de-exito/trazabilidad-de-amortiguadores-de-ferrocarril-koni-y-optimizacion-del-reporte-de-incidentes/</loc>
 		<lastmod>2023-10-23T09:06:54+00:00</lastmod>
 		<image:image>
@@ -275,9 +268,23 @@
 	</url>
 	<url>
 		<loc>https://www.tictap.me/blog/documentacion-obligatoria-de-tus-maquinas/</loc>
-		<lastmod>2024-09-20T04:29:52+00:00</lastmod>
+		<lastmod>2025-02-12T12:03:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.tictap.me/wp-content/uploads/2024/08/Nuevo-reglamento-europeo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/casos-de-exito/control-y-mantenimiento-de-instalaciones-de-proteccion-contra-incendios-para-el-grupo-damm/</loc>
+		<lastmod>2025-02-12T14:10:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2023/07/Imatge_petita-DAMM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.tictap.me/blog/como-la-digitalizacion-transforma-fabricacion-remanufactura/</loc>
+		<lastmod>2025-02-12T15:29:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.tictap.me/wp-content/uploads/2025/02/Digitalizacion-en-fabricacion-y-remanufactura.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
